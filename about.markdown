@@ -5,9 +5,9 @@ permalink: /about/
 nav_order: 1
 ---
 
-# About This Site
+# About
 
-This is just an online repository for me to jot things down in a semi-permanent state. Going through the GitHub commit/push process also forces me to organize my thoughts.
+This is just an online repository for me to jot things down in a semi-permanent state.
 
 ## About The Theme: Just the Docs
 
