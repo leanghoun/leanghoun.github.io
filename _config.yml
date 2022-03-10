@@ -26,8 +26,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-#theme: "just-the-docs" # For localhost:4000
-remote_theme: just-the-docs/just-the-docs # For GitHub Pages
+theme: "just-the-docs" # For localhost:4000
+#remote_theme: just-the-docs/just-the-docs # For GitHub Pages
 plugins:
   - jekyll-feed
 
@@ -71,7 +71,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "View on GitHub":
+  "View Repository on GitHub":
     - "//github.com/leanghoun/leanghoun.github.io"
 
 # Makes Aux links open in a new tab. Default is false
