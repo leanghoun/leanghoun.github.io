@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Code
-parent: – Just the Docs
+parent: – Documentation
 has_children: true
 nav_order: 9
 ---

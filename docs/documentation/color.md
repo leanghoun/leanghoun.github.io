@@ -2,7 +2,7 @@
 layout: default
 title: Color
 parent: Utilities
-grand_parent: – Just the Docs
+grand_parent: – Documentation
 ---
 
 # Color Utilities

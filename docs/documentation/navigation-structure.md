@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Navigation Structure
-parent: – Just the Docs
+parent: – Documentation
 nav_order: 3
 ---
 
@@ -225,7 +225,7 @@ This would create the following navigation structure:
 
 ## Auxiliary Links
 
-To add auxiliary links to your site (in the upper right on all pages), add it to the `aux_links` [configuration option]({{ site.baseurl }}{% link docs/just-the-docs/configuration.md %}#aux-links) in your site's `_config.yml` file.
+To add auxiliary links to your site (in the upper right on all pages), add it to the `aux_links` [configuration option]({{ site.baseurl }}{% link docs/documentation/configuration.md %}#aux-links) in your site's `_config.yml` file.
 
 #### Example
 

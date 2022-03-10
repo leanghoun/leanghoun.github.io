@@ -4,6 +4,12 @@
 
 layout: home
 title: Home
+description: Just a repository.
 permalink: /
 nav_order: 0
 ---
+
+# Just a Repository
+
+Sometimes, I need help remembering things.
+{: .fs-6 .fw-300 }

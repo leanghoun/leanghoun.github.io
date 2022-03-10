@@ -2,8 +2,8 @@
 layout: default
 title: Code with line numbers
 parent: Code
-grand_parent: – Just the Docs
-permalink: /docs/just-the-docs/code/line-numbers/
+grand_parent: – Documentation
+permalink: /docs/documentation/code/line-numbers/
 ---
 
 # Code snippets with line numbers

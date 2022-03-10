@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Configuration
-parent: – Just the Docs
+parent: – Documentation
 nav_order: 1
 ---
 
@@ -136,7 +136,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 });
 </script>
 
-See [Customization]({{ site.baseurl }}{% link docs/just-the-docs/customization.md %}) for more information.
+See [Customization]({{ site.baseurl }}{% link docs/documentation/customization.md %}) for more information.
 
 ## Google Analytics
 

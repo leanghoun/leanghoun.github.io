@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Utilities
-parent: – Just the Docs
+parent: – Documentation
 has_children: true
 nav_order: 99
-permalink: /docs/just-the-docs/utilities
+permalink: /docs/documentation/utilities
 ---
 
 # Utilities

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kitchen Sink
-parent: – Just the Docs
+parent: – Documentation
 nav_order: 8
 ---
 

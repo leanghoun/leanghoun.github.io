@@ -1,9 +1,9 @@
 ---
 layout: default
-title: – Just the Docs
+title: – Documentation
 nav_order: 2
 has_children: true
-permalink: /docs/just-the-docs
+permalink: /docs/documentation
 ---
 
 # Just the Docs

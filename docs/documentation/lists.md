@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lists
-parent: – Just the Docs
+parent: – Documentation
 nav_order: 7
 ---
 

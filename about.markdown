@@ -2,18 +2,13 @@
 layout: page
 title: About
 permalink: /about/
-nav_order: 99
+nav_order: 1
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About This Site
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This is just an online repository for me to jot things down in a semi-permanent state. Going through the GitHub commit/push process also forces me to organize my thoughts.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## About The Theme: Just the Docs
 
-
-[jekyll-organization]: https://github.com/jekyll
+This GitHub Page uses [Just the Docs](https://just-the-docs.github.io/just-the-docs), a documentation theme for Jekyll.
