@@ -18,18 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: leanghoun.github.io
+email: leanghoun@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Just a repository.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-#theme: "just-the-docs"
-remote_theme: just-the-docs/just-the-docs
+#theme: "just-the-docs" # For localhost:4000
+remote_theme: just-the-docs/just-the-docs # For pushing to GitHub Pages
 plugins:
   - jekyll-feed
 
@@ -107,7 +105,7 @@ gh_edit_branch: "main" # the branch that your docs is served from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
-color_scheme: nil
+color_scheme: ab # custom Advanced Bionics color scheme
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
