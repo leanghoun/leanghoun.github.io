@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tables
-parent: – Documentation
+parent: Documentation
 nav_order: 7
 ---
 

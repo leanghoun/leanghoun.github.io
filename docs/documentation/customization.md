@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Customization
-parent: – Documentation
+parent: Documentation
 nav_order: 2
 ---
 

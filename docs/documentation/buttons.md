@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Buttons
-parent: – Documentation
+parent: Documentation
 nav_order: 5
 ---
 

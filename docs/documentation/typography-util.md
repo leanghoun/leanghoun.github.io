@@ -2,7 +2,7 @@
 layout: default
 title: Typography
 parent: Utilities
-grand_parent: – Documentation
+grand_parent: Documentation
 ---
 
 # Typography Utilities

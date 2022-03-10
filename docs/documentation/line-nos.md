@@ -2,7 +2,7 @@
 layout: default
 title: Code with line numbers
 parent: Code
-grand_parent: – Documentation
+grand_parent: Documentation
 permalink: /docs/documentation/code/line-numbers/
 ---
 

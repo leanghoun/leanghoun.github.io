@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Utilities
-parent: – Documentation
+parent: Documentation
 has_children: true
 nav_order: 99
 permalink: /docs/documentation/utilities

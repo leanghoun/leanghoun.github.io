@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Typography
-parent: – Documentation
+parent: Documentation
 nav_order: 4
 ---
 

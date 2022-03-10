@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Navigation Structure
-parent: – Documentation
+parent: Documentation
 nav_order: 3
 ---
 

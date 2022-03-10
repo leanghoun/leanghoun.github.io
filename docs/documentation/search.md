@@ -2,7 +2,7 @@
 layout: default
 title: Search
 parent: Utilities
-grand_parent: – Documentation
+grand_parent: Documentation
 ---
 
 # Search

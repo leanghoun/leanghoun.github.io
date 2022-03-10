@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Labels
-parent: – Documentation
+parent: Documentation
 nav_order: 6
 ---
 

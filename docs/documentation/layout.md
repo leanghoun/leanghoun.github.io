@@ -2,7 +2,7 @@
 layout: default
 title: Layout
 parent: Utilities
-grand_parent: – Documentation
+grand_parent: Documentation
 ---
 
 # Layout Utilities
