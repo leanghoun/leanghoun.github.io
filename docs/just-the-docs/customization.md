@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Customization
-parent: Just the Docs
-nav_order: 99
+parent: – Just the Docs
+nav_order: 2
 ---
 
 # Customization

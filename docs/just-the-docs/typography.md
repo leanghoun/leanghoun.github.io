@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Typography
-parent: Just the Docs
-nav_order: 3
+parent: – Just the Docs
+nav_order: 4
 ---
 
 # Typography

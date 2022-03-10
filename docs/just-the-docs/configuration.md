@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Configuration
-parent: Just the Docs
+parent: – Just the Docs
 nav_order: 1
 ---
 

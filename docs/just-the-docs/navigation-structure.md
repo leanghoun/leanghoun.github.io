@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Navigation Structure
-parent: Just the Docs
-nav_order: 2
+parent: – Just the Docs
+nav_order: 3
 ---
 
 # Navigation Structure

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Buttons
-parent: Just the Docs
-nav_order: 4
+parent: – Just the Docs
+nav_order: 5
 ---
 
 # Buttons
