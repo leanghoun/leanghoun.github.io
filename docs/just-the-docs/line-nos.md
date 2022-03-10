@@ -3,7 +3,7 @@ layout: default
 title: Code with line numbers
 parent: Code
 grand_parent: – Just the Docs
-permalink: /docs/just-the-docs/ui-components/code/line-numbers/
+permalink: /docs/just-the-docs/code/line-numbers/
 ---
 
 # Code snippets with line numbers

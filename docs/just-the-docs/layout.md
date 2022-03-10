@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Layout
-parent: – Utilities
+parent: Utilities
+grand_parent: – Just the Docs
 ---
 
 # Layout Utilities

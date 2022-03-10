@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Responsive Modifiers
-parent: – Utilities
+parent: Utilities
+grand_parent: – Just the Docs
 ---
 
 # Responsive modifiers

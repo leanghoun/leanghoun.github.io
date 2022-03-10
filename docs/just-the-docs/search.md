@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Search
-parent: – Utilities
+parent: Utilities
+grand_parent: – Just the Docs
 ---
 
 # Search

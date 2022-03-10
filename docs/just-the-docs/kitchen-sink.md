@@ -2,7 +2,7 @@
 layout: default
 title: Kitchen Sink
 parent: – Just the Docs
-nav_order: 9
+nav_order: 8
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
