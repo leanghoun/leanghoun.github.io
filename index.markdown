@@ -15,12 +15,7 @@ nav_order: 1
 Sometimes, I need help remembering things.
 {: .fs-6 .fw-300 }
 
-Late in 2021, I started sourcing items to build a [Voron Trident](https://vorondesign.com/). While researching the build, I noticed that the [Voron documentation website](https://docs.vorondesign.com/) had this badge in the footer:
-
-> _This site uses [Just the Docs](https://github.com/just-the-docs/just-the-docs), a documentation theme for Jekyll._
-{: .text-grey-dk-000 }
-
-One long rabbit hole (and a few nuked test repositories) later, this site was born.
+With projects, things can get messy. It would be nice to consolidate notes and thoughts in a searchable way. Late in 2021, I started sourcing items to build a [Voron Trident]({{ site.baseurl }}{% link docs/collections/3d-printing/voron-trident.md %}). While researching the build, I noticed that their [documentation website](https://docs.vorondesign.com/) was built using something called [Just the Docs](https://github.com/just-the-docs/just-the-docs). This is my take on a semi-permanent, living journal of stuff using the same platform.
 
 ---
 
