@@ -21,3 +21,10 @@ Late in 2021, I started sourcing items to build a [Voron Trident](https://vorond
 {: .text-grey-dk-000 }
 
 One long rabbit hole (and a few nuked test repositories) later, this site was born.
+
+---
+
+## Quick Links
+{: .text-delta }
+*   [Voron Trident]({{ site.baseurl }}{% link docs/collections/3d-printing/voron-trident.md %})
+*   [Voxelab Aquila]({{ site.baseurl }}{% link docs/collections/3d-printing/voxelab-aquila.md %})
