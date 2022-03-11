@@ -11,14 +11,15 @@ nav_order: 1
 
 ## Quick Links
 {: .text-delta }
-*   [VoronDesign/Voron-Trident at GitHub](https://github.com/VoronDesign/Voron-Trident)
-*   [Bill of Materials & Costs](https://docs.google.com/spreadsheets/d/19nlv9ndFdrLKIFwBDWHhvT5E2p-6kONis_83c0GkSzI/edit?usp=sharing)
-*   [Fysetc/Fysetc-Spider](https://github.com/FYSETC/FYSETC-SPIDER)
-*   [AndrewEllis93's Print Tuning Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide)
-*   [AndrewEllis93's PIF Profile](https://github.com/AndrewEllis93/Ellis-PIF-Profile)
+*   GitHub - [VoronDesign/Voron-Trident](https://github.com/VoronDesign/Voron-Trident)
+*   GitHub - [Fysetc/Fysetc-Spider](https://github.com/FYSETC/FYSETC-SPIDER)
+*   GitHub - [AndrewEllis93's Print Tuning Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide)
+*   GitHub - [AndrewEllis93's PIF Profile](https://github.com/AndrewEllis93/Ellis-PIF-Profile)
+*   [Voron Initial Startup](https://docs.vorondesign.com/build/startup/)
 
 ## Mods List & Supplies
 {: .text-delta }
+*   [Bill of Materials & Costs](https://docs.google.com/spreadsheets/d/19nlv9ndFdrLKIFwBDWHhvT5E2p-6kONis_83c0GkSzI/edit?usp=sharing)
 *   Main color: [MatterHackers Build Series Black](https://www.matterhackers.com/store/l/175mm-abs-filament-black-1-kg/sk/MWVCRU99)
 *   Accent color: [KVP Graphite](https://www.villageplastics.com/product/abs/)
 *   [Funny Pack](https://github.com/thiagolocatelli/Voron/tree/master/Mods/funny_pack)
