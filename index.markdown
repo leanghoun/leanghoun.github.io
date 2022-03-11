@@ -6,7 +6,7 @@ layout: home
 title: Home
 description: A repository.
 permalink: /
-nav_order: 0
+nav_order: 1
 ---
 
 # A Repository
