@@ -24,6 +24,7 @@ nav_order: 1
 *   GitHub - [Fysetc/Fysetc-Spider](https://github.com/FYSETC/FYSETC-SPIDER)
 *   GitHub - [AndrewEllis93's Print Tuning Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide)
 *   [Voron Initial Startup](https://docs.vorondesign.com/build/startup/)
+*   [Serial Request](https://www.reddit.com/r/voroncorexy/comments/sdhsjg/voron_trident_300mm_serial_request_le0n2959/)
 
 ## Bill of Materials & Supplies
 {: .text-delta }
