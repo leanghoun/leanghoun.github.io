@@ -11,5 +11,5 @@ nav_order: 0
 
 # A Repository
 
-Sometimes I need help remembering things.
+Sometimes, I need help remembering things.
 {: .fs-6 .fw-300 }
