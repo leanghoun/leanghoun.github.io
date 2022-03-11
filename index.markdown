@@ -10,6 +10,7 @@ nav_order: 0
 ---
 
 # A Repository
+{: .fs-9 .text-purple-300 }
 
 Sometimes, I need help remembering things.
 {: .fs-6 .fw-300 }
@@ -17,6 +18,6 @@ Sometimes, I need help remembering things.
 Late in 2021, I started sourcing items to build a [Voron Trident](https://vorondesign.com/). While researching the build, I noticed that the [Voron documentation website](https://docs.vorondesign.com/) had this badge in the footer:
 
 > _This site uses [Just the Docs](https://github.com/just-the-docs/just-the-docs), a documentation theme for Jekyll._
-{: .text-purple-200 }
+{: .text-grey-dk-000 }
 
 One long rabbit hole (and a few nuked test repositories) later, this site was born.
