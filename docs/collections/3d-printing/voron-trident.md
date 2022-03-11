@@ -18,6 +18,8 @@ nav_order: 1
 
 ---
 
+![](../../../../assets/images/voron-trident.jpg)
+
 ## References
 {: .text-delta }
 *   GitHub - [VoronDesign/Voron-Trident](https://github.com/VoronDesign/Voron-Trident)
