@@ -22,4 +22,4 @@ With projects, things can get messy. It would be nice to consolidate notes and t
 ## Quick Links
 {: .text-delta }
 *   [Voron Trident]({{ site.baseurl }}{% link docs/collections/3d-printing/voron-trident.md %})
-*   [Voxelab Aquila]({{ site.baseurl }}{% link docs/collections/3d-printing/voxelab-aquila.md %})
+*   [Tidbit]({{ site.baseurl }}{% link docs/collections/mechanical-keyboards/tidbit.md %})
