@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Tidbit
+title: Nullbits Tidbit
 parent: Mechanical Keyboards
 grand_parent: Collections
 permalink: /docs/collections/mechanical-keyboards/tidbit/
 nav_order: 2
 ---
 
-# Tidbit
+# Nullbits Tidbit
 {: .no_toc }
 
 ## Table of contents
