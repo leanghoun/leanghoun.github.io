@@ -20,6 +20,10 @@ nav_order: 1
 
 ![Voron Trident](../../../../assets/images/voron-trident.jpg)
 
+![Voron Trident](../../../../assets/images/voron-trident-toolhead.jpg)
+
+![Voron Trident](../../../../assets/images/voron-trident-skirt-buttons.jpg)
+
 ### References
 *   GitHub - [VoronDesign/Voron-Trident](https://github.com/VoronDesign/Voron-Trident)
 *   GitHub - [Fysetc/Fysetc-Spider](https://github.com/FYSETC/FYSETC-SPIDER)
