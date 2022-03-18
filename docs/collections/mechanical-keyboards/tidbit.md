@@ -18,9 +18,19 @@ nav_order: 2
 
 ---
 
+![Nullbits Tidbit](../../../../assets/images/nullbits-tidbit.jpg)
+*NULLBITS TIDBIT*
+{: .fs-2 .text-grey-dk-000 }
+
+![Nullbits Tidbit OLED](../../../../assets/images/nullbits-tidbit-oled.jpg)
+*OLED DISPLAY*
+{: .fs-2 .text-grey-dk-000 }
+
 ### References
 * [Product Page](https://nullbits.co/tidbit/)
 * [Documentation](https://nullbits.co/start/)
+* [QMK Documentation](https://docs.qmk.fm/)
+  * [Full Keycode List](https://docs.qmk.fm/#/keycodes)
 * [SSD1306 OLED Driver for QMK](https://docs.qmk.fm/#/feature_oled_driver)
 
 ### Updates

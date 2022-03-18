@@ -19,12 +19,16 @@ nav_order: 1
 ---
 
 ![Voron Trident](../../../../assets/images/voron-trident.jpg)
+*VORON TRIDENT*
+{: .fs-2 .text-grey-dk-000 }
 
-![Voron Trident](../../../../assets/images/voron-trident-toolhead.jpg)
+![Voron Trident Toolhead](../../../../assets/images/voron-trident-toolhead.jpg)
+*TOOLHEAD*
+{: .fs-2 .text-grey-dk-000 }
 
-![Voron Trident](../../../../assets/images/voron-trident-skirt-buttons.jpg)
-*Skirt Buttons*
-{: .text-grey-dk-000 }
+![Voron Trident Skirt Buttons](../../../../assets/images/voron-trident-skirt-buttons.jpg)
+*SKIRT BUTTONS*
+{: .fs-2 .text-grey-dk-000 }
 
 ### References
 * GitHub - [VoronDesign/Voron-Trident](https://github.com/VoronDesign/Voron-Trident)
@@ -54,7 +58,7 @@ nav_order: 1
 * [Eddie's LED Bar Clip](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/eddie/LED_Bar_Clip) - They're nice! Easy to print, clips directly to 2020 extrusions, and have baffles to shield light from eyes. I did not extend the LED mounts fully from front to back, and chose to leave some room. Just in case I need space to mount a camera in the future.
 * [Meteyou's GCode Buttons](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/meteyou/gcode_buttons) - This version of skirt buttons uses mechanical switches for satisfying tactility. I also embedded 2x3x4 LEDs into the switches for some backlighting, and did a filament swap for the button covers.
   - *Preheat* - Cycles between "cooldown/white dial", "PLA temp/blue dial", and "ABS temp/red dial".
-  - *Max LED* - Cob strips are 50% brightness by default. Holding this button will temporary set the LEDs to 100% brightness.
+  - *Max LED* - Cob strips are 50% brightness by default. While pressed, this button will temporary set the LEDs to 100% brightness.
   - *Microstep up* - Increases nozzle-to-bed distance by .01mm.
   - *Microstep down* - Decreases nozzle-to-bed distance by .01mm.
 * [Killw2k's LCD Display Tweak - Remaining Time](https://www.reddit.com/r/VORONDesign/comments/rv9oxn/lcd_status_screen_tweak/) - This config modification moves the progress bar to the 4th row to make room for remaining time and total time, neither of which are shown by default.
