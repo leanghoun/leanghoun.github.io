@@ -19,15 +19,15 @@ nav_order: 1
 ---
 
 ![Voron Trident](../../../../assets/images/voron-trident.jpg)
-*VORON TRIDENT*
+*Voron Trident*
 {: .fs-2 .text-grey-dk-000 }
 
 ![Voron Trident Toolhead](../../../../assets/images/voron-trident-toolhead.jpg)
-*TOOLHEAD*
+*Toolhead*
 {: .fs-2 .text-grey-dk-000 }
 
 ![Voron Trident Skirt Buttons](../../../../assets/images/voron-trident-skirt-buttons.jpg)
-*SKIRT BUTTONS*
+*Skirt buttons*
 {: .fs-2 .text-grey-dk-000 }
 
 ### References

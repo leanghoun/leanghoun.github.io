@@ -19,11 +19,11 @@ nav_order: 2
 ---
 
 ![Nullbits Tidbit](../../../../assets/images/nullbits-tidbit.jpg)
-*NULLBITS TIDBIT*
+*Nullbits Tidbit*
 {: .fs-2 .text-grey-dk-000 }
 
 ![Nullbits Tidbit OLED](../../../../assets/images/nullbits-tidbit-oled.jpg)
-*OLED DISPLAY*
+*OLED display*
 {: .fs-2 .text-grey-dk-000 }
 
 ### References
