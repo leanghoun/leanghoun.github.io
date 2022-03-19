@@ -19,11 +19,11 @@ nav_order: 1
 ---
 
 ![Voron Trident](../../../../assets/images/voron-trident.jpg)
-*Voron Trident*
+*Voron Trident with StealthBurner and skirt buttons*
 {: .fs-2 .text-grey-dk-000 }
 
 ![Voron Trident Toolhead](../../../../assets/images/voron-trident-toolhead.jpg)
-*Toolhead*
+*StealthBurner toolhead*
 {: .fs-2 .text-grey-dk-000 }
 
 ![Voron Trident Skirt Buttons](../../../../assets/images/voron-trident-skirt-buttons.jpg)
