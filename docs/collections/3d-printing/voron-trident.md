@@ -57,40 +57,40 @@ nav_order: 1
 ## Mods & Tweaks
 
 ### Summary
-1. [Funny Pack](#1-funny-pack)
-2. [Panel Lockers](#2-panel-lockers)
-3. [Sturdy Handles](#3-sturdy-handles)
-4. [6-pin MicroFit Skirt Insert + Lock](#4-6-pin-microfit-skirt-insert)
-5. [StealthBurner Beta](#5-stealthburner-beta)
-6. [Eddie's LED Bar Clip](#6-eddies-led-bar-clip)
-7. [Meteyou's GCode Buttons](#7-meteyous-gcode-buttons)
-8. [Killw2k's LCD Display Tweak - Remaining Time](#8-killw2ks-lcd-display-tweak---remaining-time) - This config modification moves the progress bar to the 4th row to make room for remaining time and total time, neither of which are shown by default.
+1. [Funny Pack](funny-pack)
+2. [Panel Lockers](panel-lockers)
+3. [Sturdy Handles](sturdy-handles)
+4. [6-pin MicroFit Skirt Insert + Lock](6-pin-microfit-skirt-insert)
+5. [StealthBurner Beta](stealthburner-beta)
+6. [Eddie's LED Bar Clip](eddies-led-bar-clip)
+7. [Meteyou's GCode Buttons](meteyous-gcode-buttons)
+8. [Killw2k's LCD Display Tweak - Remaining Time](killw2ks-lcd-display-tweak---remaining-time) - This config modification moves the progress bar to the 4th row to make room for remaining time and total time, neither of which are shown by default.
 
-### 1. Funny Pack
+### Funny Pack
 
 The [Funny Pack](https://github.com/thiagolocatelli/Voron/tree/master/Mods/funny_pack) is based on the [Fanny Pack](https://github.com/oab1/VoronMods/tree/main/v2.2%20Recirculating%20Filter) which is in turn based on the [Nevermore](https://github.com/nevermore3d), this exhaust filter uses dual 5015 fans to circulate air through [activated carbon pellets](https://envirosupply.net/products/4mm-pellet-virgin-coal-activated-carbon-charcoal-for-vapor-filtration-1-lb-bag) ([alternative source](https://www.amazon.com/EnviroSupply-Premium-Bituminous-Activated-Charcoal/dp/B00XNXC70W)). I ended up needing to print mesh inserts to prevent pellets from falling out of the basket.
 
-### 2. Panel Lockers
+### Panel Lockers
 
 These [Panel Lockers](https://github.com/v6cl/My-Voron2.4-Customs/tree/main/Panel_Locker) are print-in-place, work with 1mm-foam-lined side panels, and have good clamping force. Has two drawbacks; (1) one face of the model prints at an angle and catches light badly, and (2) you can't put two lockers on adjacent panels in the same location. Considering replacing them with [this design](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020), that uses filament as a hinge, or [Yeri's Magnetic Clips](https://github.com/Yeriwyn/VoronUsers/tree/V1-and-V2-panels/printer_mods/yeri/V1_V2_Trident_Magnetic_Panels/STL/Trident/300).
 
-### 3. Sturdy Handles
+### Sturdy Handles
 
 [Sturdy Handles](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/Sturdy_Handles) mount well and do not interfere with panel removal, but the extrusions have a tendency to rotate. Need to remember to periodically retighten the frame.
 
-### 4. 6-pin MicroFit Skirt Insert
+### 6-pin MicroFit Skirt Insert
 
 Two sources for this modd; [6-pin MicroFit Skirt Insert](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/StvPtrsn/Parts_Jigs_and_Mods/Parts) and the [Lock](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Jon/adxl345_skirt_keystone/STL). Provides an interface for the ADXL345 cable to make Input Shaper calibration easier.
 
-### 5. StealthBurner Beta
+### StealthBurner Beta
 
 Using [StealthBurner Beta](https://github.com/VoronDesign/Voron-Afterburner/tree/sb-beta/STLs/Stealthburner) on top of the new ClockWork1 printed front. And using Hartk's PCB cover to contain the wiring though I do not have a toolhead PCB.
 
-### 6. Eddie's LED Bar Clip
+### Eddie's LED Bar Clip
 
 Everyone likes [Eddie's LED Bar Clip](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/eddie/LED_Bar_Clip). Easy to print, clips directly to 2020 extrusions, and have baffles to shield light from eyes. I did not extend the LED mounts fully from front to back, and chose to leave some room. Just in case I need space to mount a camera in the future. Check out [Steve Build's stream](https://www.youtube.com/watch?v=qTTLXU41Q0o&t=5188s) to see how to wire them together into one 4-pin dupont connector.
 
-### 7. Meteyou's GCode Buttons
+### Meteyou's GCode Buttons
 
 I like [Meteyou's GCode Buttons](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/meteyou/gcode_buttons) because they use mechanical keyboard switches for satisfying tactility and are simple to light up with embedded 2x3x4 LEDs.
 
@@ -158,7 +158,7 @@ To get the LEDs to shine through, I did a filament swap between layers 4 and 5. 
 
 [Download the STL files for my custom buttons](../../../../assets/files/button-covers.zip){: .btn .btn-purple}
 
-### 8. Killw2k's LCD Display Tweak - Remaining Time
+### Killw2k's LCD Display Tweak - Remaining Time
 
 I found [Killw2k's LCD Display Tweak - Remaining Time](https://www.reddit.com/r/VORONDesign/comments/rv9oxn/lcd_status_screen_tweak/) mod on reddit. All it does is move the progress bar to the bottom row to make room for displaying remaining time and total time, neither of which are shown by default.
 
