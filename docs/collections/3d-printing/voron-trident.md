@@ -30,7 +30,7 @@ nav_order: 1
 *Skirt buttons*
 {: .fs-2 .text-grey-dk-000 }
 
-## i. References
+## 1. References
 * GitHub - [VoronDesign/Voron-Trident](https://github.com/VoronDesign/Voron-Trident)
 * GitHub - [Fysetc/Fysetc-Spider](https://github.com/FYSETC/FYSETC-SPIDER)
 * GitHub - [AndrewEllis93's Print Tuning Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide)
@@ -43,14 +43,14 @@ nav_order: 1
   - [PolicyKit Permissions](https://moonraker.readthedocs.io/en/latest/installation/#policykit-permissions) - After updating Moonraker, if you see errors related to PolicyKit, try re-adding these permissions.
 * [Serial Request](https://www.reddit.com/r/voroncorexy/comments/sdhsjg/voron_trident_300mm_serial_request_le0n2959/)
 
-## ii. Bill of Materials & Supplies
+## 2. Bill of Materials & Supplies
 * [BOM & Costs](https://docs.google.com/spreadsheets/d/19nlv9ndFdrLKIFwBDWHhvT5E2p-6kONis_83c0GkSzI/edit?usp=sharing)
 * Main color: [MatterHackers Build Series Black](https://www.matterhackers.com/store/l/175mm-abs-filament-black-1-kg/sk/MWVCRU99)
 * Accent color: [KVP Graphite](https://www.villageplastics.com/product/abs/)
 * [OpenBuilds Slot Covers](https://openbuildspartstore.com/slot-cover-panel-holder/)
 
 
-## iii. Mods & Tweaks
+## 3. Mods & Tweaks
 
 #### Quick Links
 * [Funny Pack](funny-pack)
@@ -162,7 +162,7 @@ I found [Killw2k's LCD Display Tweak - Remaining Time](https://www.reddit.com/r/
 * GitHub - [Yeri's Magnetic Panels](https://github.com/Yeriwyn/VoronUsers/tree/V1-and-V2-panels/printer_mods/yeri/V1_V2_Trident_Magnetic_Panels) - His .f3d file is parametric, which is handy because I only have 1mm foam tape on the side panels. These panel clips are not compatible with 'Stury Handles'. [Alternative handle from 2.2](https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/VORON2.2/Panel_Mounting/Handles_Panel_Rests_Misc/handle_3mm_x2_Rev1.stl).
 * GitHub - [Slidr666's OV5648 Camera Mount](https://github.com/Slidr666/VoronUsers/tree/master/printer_mods/Slidr/PanzerObserver2.4) - Originally seen on [SteveBuild's 2.4r2 update stream](https://www.youtube.com/watch?v=J2RGA8Az7eY).
 
-## iv. Slicer Stuff
+## 4. Slicer Stuff
 * GitHub - [AndrewEllis93's PIF Profile](https://github.com/AndrewEllis93/Ellis-PIF-Profile)
 * [SuperSlicer Bed Model](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/SuperSlicer)
 * [My Bed Texture](../../../../assets/images/superslicer-bed-plain.png)
