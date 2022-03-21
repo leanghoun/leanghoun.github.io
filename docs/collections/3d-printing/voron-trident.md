@@ -37,7 +37,7 @@ nav_order: 1
 * [Voron Docs](https://docs.vorondesign.com/)
   - [Voron Initial Startup](https://docs.vorondesign.com/build/startup/)
 * [Klipper Docs](https://www.klipper3d.org/Overview.html)
-  - [Input Shaper & Measuring Resonances](https://www.klipper3d.org/Measuring_Resonances.html) - It can be useful to see your resonance charts with the manual method, but trying to interpret the graphs can be a bit nebulous. For simplicity, just run `SHAPER_CALIBRATE` and let the ADXL345 measure the resonances automatically. Don't forget to `SAVE_CONFIG` to commit.
+  - [Input Shaper & Measuring Resonances](https://www.klipper3d.org/Measuring_Resonances.html) - It can be interesting to see your resonance charts with the manual method, but trying to interpret the graphs can be a bit nebulous. For simplicity, just run `SHAPER_CALIBRATE` and let the ADXL345 measure the resonances automatically. Don't forget to `SAVE_CONFIG` to commit.
 * [MainSail Docs](https://docs.mainsail.xyz/)
 * [Moonraker Docs](https://moonraker.readthedocs.io/en/latest/)
   - [PolicyKit Permissions](https://moonraker.readthedocs.io/en/latest/installation/#policykit-permissions) - After updating Moonraker, if you see errors related to PolicyKit, try re-adding these permissions.
@@ -132,7 +132,7 @@ The mechanical switch is held in the housing, which is inserted through the fron
 
 The button macros are also easy to set up. You need a pin assignment, on "press" actions, and on "release" actions. Here's an example for my "microstep up" button:
 
-```django
+```
 [gcode_button BUTTON_MICROSTEP_UP]
 pin: ^!PC2
 press_gcode:
@@ -142,7 +142,7 @@ release_gcode:
 
 And for my "max LED" button to see how to handle a button "while pressed":
 
-```django
+```
 [gcode_button BUTTON_CASELIGHT]
 pin: ^!PB13
 press_gcode:
