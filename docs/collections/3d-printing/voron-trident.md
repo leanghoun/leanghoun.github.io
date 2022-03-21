@@ -106,7 +106,7 @@ Microstep down
 *Skirt buttons*
 {: .fs-2 .text-grey-dk-000 }
 
-The construction of a button consists of four parts; (1) cover, (2) mechanical switch, (3) housing, and (4) lock ring.
+The construction of a button consists of four parts; (1) button, (2) mechanical switch, (3) housing, and (4) lock ring.
 
 ![Exploded view of Meteyou's GCode Button](../../../../assets/images/gcode-button-exploded.png)
 *Exploded view of Meteyou's GCode Button*
