@@ -20,7 +20,7 @@ nav_order: 1
 
 ![Voron Trident](../../../../assets/images/voron-trident.jpg)
 *Voron Trident with StealthBurner and skirt buttons*
-{: .fs-2 .text-grey-dk-000 }
+{: .fs-2 .text-grey-dk-000 .float-right }
 
 ![Voron Trident Toolhead](../../../../assets/images/voron-trident-toolhead.jpg)
 *StealthBurner toolhead*
@@ -114,13 +114,13 @@ The construction of a button consists of four parts; (1) cover, (2) mechanical s
 
 The mechanical switch is held in the housing, which is inserted through the front of a skirt hex opening, and secured in place from behind with a lock ring. I kept the wiring as simple as possible. One con is that, because the LEDs are installed in the switch housing, they are south facing and the lighting is uneven.
 
-* LEDs - Each mechanical switch has an embedded 2x3x4 LED, with the leads poking out the bottom. The positive leads and negative leads are wired inline, and terminate in a MicroFit connector. Since I just want the LEDs on when the printer is powered, any 5V source and ground pin will work and there is no logic/data pins/extra hardware to worry about.
+**LEDs** - Each mechanical switch has an embedded 2x3x4 LED, with the leads poking out the bottom. The positive leads and negative leads are wired inline, and terminate in a MicroFit connector. Since I just want the LEDs on when the printer is powered, any 5V source and ground pin will work and there is no logic/data pins/extra hardware to worry about.
 
 ![Skirt Button LED Wiring](../../../../assets/images/skirt-buttons-wiring-leds.jpg)
 *Skirt Button LED Wiring*
 {: .fs-2 .text-grey-dk-000 }
 
-* Mechanical Switches - Each mechanical switch has two pins; ground and signal. The ground pins don't play a role in the functionality, so all the ground pins can be wired together. The signal pins will each have their own wire so that when pressed, the short can be detected. The 5 wires are then combined in a 5-pin MicroFit. On the other end of each signal wire, they connect to available GPIO ports. I was not able to get this working with the Raspberry Pi's GPIO pins though, and ended up using pins on my Fysetc Spider v1.1.
+**Mechanical Switches** - Each mechanical switch has two pins; ground and signal. The ground pins don't play a role in the functionality, so all the ground pins can be wired together. The signal pins will each have their own wire so that when pressed, the short can be detected. The 5 wires are then combined in a 5-pin MicroFit. On the other end of each signal wire, they connect to available GPIO ports. I was not able to get this working with the Raspberry Pi's GPIO pins though, and ended up using pins on my Fysetc Spider v1.1.
 
 ![Skirt Button Switch Wiring](../../../../assets/images/skirt-buttons-wiring-diagram.png)
 *Skirt Button Switch Wiring*
@@ -170,6 +170,11 @@ I found [Killw2k's LCD Display Tweak - Remaining Time](https://www.reddit.com/r/
 * GitHub - [Slidr666's OV5648 Camera Mount](https://github.com/Slidr666/VoronUsers/tree/master/printer_mods/Slidr/PanzerObserver2.4) - Originally seen on [SteveBuild's 2.4r2 update stream](https://www.youtube.com/watch?v=J2RGA8Az7eY).
 
 ## Slicer Stuff
+
+![SuperSlicer Bed Model + Texture](../../../../assets/images/superslicer-bed-model-texture.jpg)
+*SuperSlicer Bed Model + Texture*
+{: .fs-2 .text-grey-dk-000 }
+
 * GitHub - [AndrewEllis93's PIF Profile](https://github.com/AndrewEllis93/Ellis-PIF-Profile)
 * [SuperSlicer Bed Model](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/SuperSlicer)
 * [My Bed Texture](../../../../assets/images/superslicer-bed-plain.png)
