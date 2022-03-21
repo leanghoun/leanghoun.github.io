@@ -106,15 +106,15 @@ Microstep down
 *Skirt buttons*
 {: .fs-2 .text-grey-dk-000 }
 
-The construction of a button consists of four parts; (1) button, (2) mechanical switch, (3) housing, and (4) lock ring.
+The construction of a button consists of four parts; (1) button, (2) mechanical switch, (3) housing, and (4) lock ring. The mechanical switch is held in the housing, which is inserted through the front of a skirt hex opening, and secured in place from behind with a lock ring.
 
 ![Exploded view of Meteyou's GCode Button](../../../../assets/images/gcode-button-exploded.png)
 *Exploded view of Meteyou's GCode Button*
 {: .fs-2 .text-grey-dk-000 }
 
-The mechanical switch is held in the housing, which is inserted through the front of a skirt hex opening, and secured in place from behind with a lock ring. I kept the wiring as simple as possible. One con is that, because the LEDs are installed in the switch housing, they are south facing and the lighting is uneven.
+I kept the wiring as simple as possible. One con is that, because the LEDs are installed in the switch housing, they are south facing and the lighting is uneven.
 
-**LEDs** - Each mechanical switch has an embedded 2x3x4 LED, with the leads poking out the bottom. The positive leads and negative leads are wired inline, and terminate in a MicroFit connector. Since I just want the LEDs on when the printer is powered, any 5V source and ground pin will work and there is no logic/data pins/extra hardware to worry about.
+**LEDs** - Each mechanical switch has an embedded 2x3x4 LED, with the leads poking out the bottom. The positive leads and negative leads are wired inline, and terminate in a MicroFit connector. Since I just want the LEDs on when the printer is powered, any 5V source and ground pin will work and there are no logic/data pins/extra hardware to worry about.
 
 ![Skirt Button LED Wiring](../../../../assets/images/skirt-buttons-wiring-leds.jpg)
 *Skirt Button LED Wiring*
@@ -130,7 +130,7 @@ The mechanical switch is held in the housing, which is inserted through the fron
 *Skirt Button Wiring Complete*
 {: .fs-2 .text-grey-dk-000 }
 
-The button macros are also easy to set up. You need a pin assignment, on "press" actions, and on "release" actions. Here's an example for my "microstep up" button:
+The button macros are also easy to set up. You need a pin assignment, "on press" actions, and "on release" actions. Here's an example for my "microstep up" button:
 
 ```
 [gcode_button BUTTON_MICROSTEP_UP]
