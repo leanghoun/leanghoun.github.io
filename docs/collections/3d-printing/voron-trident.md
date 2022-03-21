@@ -52,6 +52,7 @@ nav_order: 1
 
 ## Mods & Tweaks
 
+#### Quick Links
 * [Funny Pack](funny-pack)
 * [Panel Lockers](panel-lockers)
 * [Sturdy Handles](sturdy-handles)
