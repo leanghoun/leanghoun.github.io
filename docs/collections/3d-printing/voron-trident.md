@@ -30,10 +30,6 @@ nav_order: 1
 *Skirt buttons*
 {: .fs-2 .text-grey-dk-000 }
 
-![Voron Trident Skirt Buttons](../../../../assets/images/voron-trident-serial.jpg)
-*Serial*
-{: .fs-2 .text-grey-dk-000 }
-
 ## References
 * GitHub - [VoronDesign/Voron-Trident](https://github.com/VoronDesign/Voron-Trident)
 * GitHub - [Fysetc/Fysetc-Spider](https://github.com/FYSETC/FYSETC-SPIDER)
