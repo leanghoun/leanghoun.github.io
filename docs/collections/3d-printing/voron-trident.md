@@ -13,7 +13,7 @@ nav_order: 1
 ## Table of contents
 {: .no_toc .text-delta }
 
-- TOC
+1. TOC
 {:toc}
 
 ---
@@ -30,7 +30,7 @@ nav_order: 1
 *Skirt buttons*
 {: .fs-2 .text-grey-dk-000 }
 
-## 1. References
+## References
 * GitHub - [VoronDesign/Voron-Trident](https://github.com/VoronDesign/Voron-Trident)
 * GitHub - [Fysetc/Fysetc-Spider](https://github.com/FYSETC/FYSETC-SPIDER)
 * GitHub - [AndrewEllis93's Print Tuning Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide)
@@ -43,14 +43,14 @@ nav_order: 1
   - [PolicyKit Permissions](https://moonraker.readthedocs.io/en/latest/installation/#policykit-permissions) - After updating Moonraker, if you see errors related to PolicyKit, try re-adding these permissions.
 * [Serial Request](https://www.reddit.com/r/voroncorexy/comments/sdhsjg/voron_trident_300mm_serial_request_le0n2959/)
 
-## 2. Bill of Materials & Supplies
+## Bill of Materials & Supplies
 * [BOM & Costs](https://docs.google.com/spreadsheets/d/19nlv9ndFdrLKIFwBDWHhvT5E2p-6kONis_83c0GkSzI/edit?usp=sharing)
 * Main color: [MatterHackers Build Series Black](https://www.matterhackers.com/store/l/175mm-abs-filament-black-1-kg/sk/MWVCRU99)
 * Accent color: [KVP Graphite](https://www.villageplastics.com/product/abs/)
 * [OpenBuilds Slot Covers](https://openbuildspartstore.com/slot-cover-panel-holder/)
 
 
-## 3. Mods & Tweaks
+## Mods & Tweaks
 
 #### Quick Links
 * [Funny Pack](funny-pack)
@@ -90,10 +90,17 @@ Everyone likes [Eddie's LED Bar Clip](https://github.com/VoronDesign/VoronUsers/
 
 I like [Meteyou's GCode Buttons](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/meteyou/gcode_buttons) because they use mechanical keyboard switches for satisfying tactility and are simple to light up with embedded 2x3x4 LEDs.
 
-* *Preheat* - Cycles between "cooldown/white dial", "PLA temp/blue dial", and "ABS temp/red dial".
-* *Max LED* - Chamber lighting is 30% brightness by default. While pressed, this button will temporary increase the brightness to 100%.
-* *Microstep up* - Increases nozzle-to-bed distance by .01mm.
-* *Microstep down* - Decreases nozzle-to-bed distance by .01mm.
+Preheat
+: Cycles between "cooldown/white dial", "PLA temp/blue dial", and "ABS temp/red dial".
+
+Max LED
+: Chamber lighting is 30% brightness by default. While pressed, this button will temporary increase the brightness to 100%.
+
+Microstep up
+: Increases nozzle-to-bed distance +0.01mm.
+
+Microstep down
+: Decreases nozzle-to-bed distance −0.01mm.
 
 ![Voron Trident Skirt Buttons](../../../../assets/images/voron-trident-skirt-buttons-2.jpg)
 *Skirt buttons*
@@ -123,9 +130,9 @@ The mechanical switch is held in the housing, which is inserted through the fron
 *Skirt Button Wiring Complete*
 {: .fs-2 .text-grey-dk-000 }
 
-The button macros are also easy to set up. Here's an example for my "microstep up" button:
+The button macros are also easy to set up. You need a pin assignment, on "press" actions, and on "release" actions. Here's an example for my "microstep up" button:
 
-```
+```django
 [gcode_button BUTTON_MICROSTEP_UP]
 pin: ^!PC2
 press_gcode:
@@ -133,9 +140,9 @@ press_gcode:
 release_gcode:
 ```
 
-And for my "Max LED" button to see how to handle on-press events:
+And for my "max LED" button to see how to handle a button "while pressed":
 
-```
+```django
 [gcode_button BUTTON_CASELIGHT]
 pin: ^!PB13
 press_gcode:
@@ -162,7 +169,7 @@ I found [Killw2k's LCD Display Tweak - Remaining Time](https://www.reddit.com/r/
 * GitHub - [Yeri's Magnetic Panels](https://github.com/Yeriwyn/VoronUsers/tree/V1-and-V2-panels/printer_mods/yeri/V1_V2_Trident_Magnetic_Panels) - His .f3d file is parametric, which is handy because I only have 1mm foam tape on the side panels. These panel clips are not compatible with 'Stury Handles'. [Alternative handle from 2.2](https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/VORON2.2/Panel_Mounting/Handles_Panel_Rests_Misc/handle_3mm_x2_Rev1.stl).
 * GitHub - [Slidr666's OV5648 Camera Mount](https://github.com/Slidr666/VoronUsers/tree/master/printer_mods/Slidr/PanzerObserver2.4) - Originally seen on [SteveBuild's 2.4r2 update stream](https://www.youtube.com/watch?v=J2RGA8Az7eY).
 
-## 4. Slicer Stuff
+## Slicer Stuff
 * GitHub - [AndrewEllis93's PIF Profile](https://github.com/AndrewEllis93/Ellis-PIF-Profile)
 * [SuperSlicer Bed Model](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/SuperSlicer)
 * [My Bed Texture](../../../../assets/images/superslicer-bed-plain.png)
