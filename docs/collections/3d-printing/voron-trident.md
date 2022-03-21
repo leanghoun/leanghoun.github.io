@@ -59,7 +59,7 @@ nav_order: 1
 5. [StealthBurner Beta](stealthburner-beta)
 6. [Eddie's LED Bar Clip](eddies-led-bar-clip)
 7. [Meteyou's GCode Buttons](meteyous-gcode-buttons)
-8. [Killw2k's LCD Display Tweak - Remaining Time](killw2ks-lcd-display-tweak---remaining-time) - This config modification moves the progress bar to the 4th row to make room for remaining time and total time, neither of which are shown by default.
+8. [Killw2k's LCD Display Tweak - Remaining Time](killw2ks-lcd-display-tweak---remaining-time)
 
 ### Funny Pack
 
