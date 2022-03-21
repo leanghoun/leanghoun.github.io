@@ -52,14 +52,14 @@ nav_order: 1
 
 ## Mods & Tweaks
 
-1. [Funny Pack](funny-pack)
-2. [Panel Lockers](panel-lockers)
-3. [Sturdy Handles](sturdy-handles)
-4. [6-pin MicroFit Skirt Insert + Lock](6-pin-microfit-skirt-insert)
-5. [StealthBurner Beta](stealthburner-beta)
-6. [Eddie's LED Bar Clip](eddies-led-bar-clip)
-7. [Meteyou's GCode Buttons](meteyous-gcode-buttons)
-8. [Killw2k's LCD Display Tweak - Remaining Time](killw2ks-lcd-display-tweak---remaining-time)
+* [Funny Pack](funny-pack)
+* [Panel Lockers](panel-lockers)
+* [Sturdy Handles](sturdy-handles)
+* [6-pin MicroFit Skirt Insert + Lock](6-pin-microfit-skirt-insert)
+* [StealthBurner Beta](stealthburner-beta)
+* [Eddie's LED Bar Clip](eddies-led-bar-clip)
+* [Meteyou's GCode Buttons](meteyous-gcode-buttons)
+* [Killw2k's LCD Display Tweak - Remaining Time](killw2ks-lcd-display-tweak---remaining-time)
 
 ### Funny Pack
 
