@@ -117,7 +117,7 @@ The mechanical switch is held in the housing, which is inserted through the fron
 *Skirt Button LED Wiring*
 {: .fs-2 .text-grey-dk-000 }
 
-* Mechanical Switches - Each mechanical switch has two pins; ground and signal. The ground pins don't play a role in the functionality, so all the ground pins can be wired together. The signal pins will each have their own wire so that when pressed, the short can be detected. The 5 wires are then combined in a 5-pin MicroFit. On the other end of each signal wire, they connect to available GPIO ports.
+* Mechanical Switches - Each mechanical switch has two pins; ground and signal. The ground pins don't play a role in the functionality, so all the ground pins can be wired together. The signal pins will each have their own wire so that when pressed, the short can be detected. The 5 wires are then combined in a 5-pin MicroFit. On the other end of each signal wire, they connect to available GPIO ports. I was not able to get this working with the Raspberry Pi's GPIO pins though, and ended up using pins on my Fysetc Spider v1.1. 
 
 ![Skirt Button Switch Wiring](../../../../assets/images/skirt-buttons-wiring-diagram.png)
 *Skirt Button Switch Wiring*
