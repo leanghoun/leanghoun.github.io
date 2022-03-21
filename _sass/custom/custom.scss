@@ -1,12 +1,11 @@
-img + em {
-  float: right;
-  margin-bottom: 15px;
-}
-
 .main-content ul > li > ul {
   margin-top: 0;
 }
 
 .main-content ul > li > ul > li::before {
   content: "–";
+}
+
+h4 {
+  margin-bottom: 1em !important;
 }

@@ -30,7 +30,11 @@ nav_order: 1
 *Skirt buttons*
 {: .fs-2 .text-grey-dk-000 }
 
-### References
+![Voron Trident Skirt Buttons](../../../../assets/images/voron-trident-serial.jpg)
+*Serial*
+{: .fs-2 .text-grey-dk-000 }
+
+## References
 * GitHub - [VoronDesign/Voron-Trident](https://github.com/VoronDesign/Voron-Trident)
 * GitHub - [Fysetc/Fysetc-Spider](https://github.com/FYSETC/FYSETC-SPIDER)
 * GitHub - [AndrewEllis93's Print Tuning Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide)
@@ -43,31 +47,126 @@ nav_order: 1
   - [PolicyKit Permissions](https://moonraker.readthedocs.io/en/latest/installation/#policykit-permissions) - After updating Moonraker, if you see errors related to PolicyKit, try re-adding these permissions.
 * [Serial Request](https://www.reddit.com/r/voroncorexy/comments/sdhsjg/voron_trident_300mm_serial_request_le0n2959/)
 
-### Bill of Materials & Supplies
+## Bill of Materials & Supplies
 * [BOM & Costs](https://docs.google.com/spreadsheets/d/19nlv9ndFdrLKIFwBDWHhvT5E2p-6kONis_83c0GkSzI/edit?usp=sharing)
 * Main color: [MatterHackers Build Series Black](https://www.matterhackers.com/store/l/175mm-abs-filament-black-1-kg/sk/MWVCRU99)
 * Accent color: [KVP Graphite](https://www.villageplastics.com/product/abs/)
 * [OpenBuilds Slot Covers](https://openbuildspartstore.com/slot-cover-panel-holder/)
 
-### Mods & Tweaks
-* [Funny Pack](https://github.com/thiagolocatelli/Voron/tree/master/Mods/funny_pack) - Based on the [Fanny Pack](https://github.com/oab1/VoronMods/tree/main/v2.2%20Recirculating%20Filter) which is in turn based on the [Nevermore](https://github.com/nevermore3d), this exhaust filter uses dual 5015 fans to circulate air through [activated carbon pellets](https://envirosupply.net/products/4mm-pellet-virgin-coal-activated-carbon-charcoal-for-vapor-filtration-1-lb-bag)([alternative source](https://www.amazon.com/EnviroSupply-Premium-Bituminous-Activated-Charcoal/dp/B00XNXC70W)). I ended up needing to print smaller mesh inserts to prevent pellets from falling out of the basket.
-* [Panel Lockers](https://github.com/v6cl/My-Voron2.4-Customs/tree/main/Panel_Locker) - Print-in-place, works with 1mm-foam-lined side panels, and has good clamping force. Has two drawbacks; (1) one face of the model prints at an angle and catches light badly, and (2) you can't put two lockers on adjacent panels in the same location. Considering replacing them with [this design](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020), that uses filament as a hinge, or [Yeri's Magnetic Clips](https://github.com/Yeriwyn/VoronUsers/tree/V1-and-V2-panels/printer_mods/yeri/V1_V2_Trident_Magnetic_Panels/STL/Trident/300).
-* [Sturdy Handles](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/Sturdy_Handles) - They mount well and do not interfere with panel removal, but the extrusions have a tendency to rotate. Need to remember to periodically retighten the frame.
-* [6-pin MicroFit Skirt Insert](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/StvPtrsn/Parts_Jigs_and_Mods/Parts) + [Lock](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Jon/adxl345_skirt_keystone/STL) - Provides an interface for the ADXL345 cable to make Input Shaper calibration easier.
-* [StealthBurner Beta](https://github.com/VoronDesign/Voron-Afterburner/tree/sb-beta/STLs/Stealthburner) - Using a beta revision on top of the new ClockWork1 printed parts. And using Hartk's PCB cover to contain the wiring though I do not have a toolhead PCB.
-* [Eddie's LED Bar Clip](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/eddie/LED_Bar_Clip) - They're nice! Easy to print, clips directly to 2020 extrusions, and have baffles to shield light from eyes. I did not extend the LED mounts fully from front to back, and chose to leave some room. Just in case I need space to mount a camera in the future.
-* [Meteyou's GCode Buttons](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/meteyou/gcode_buttons) - This version of skirt buttons uses mechanical switches for satisfying tactility. I also embedded 2x3x4 LEDs into the switches for some backlighting, and did a filament swap for the button covers.
-  - *Preheat* - Cycles between "cooldown/white dial", "PLA temp/blue dial", and "ABS temp/red dial".
-  - *Max LED* - Cob strips are 50% brightness by default. While pressed, this button will temporary set the LEDs to 100% brightness.
-  - *Microstep up* - Increases nozzle-to-bed distance by .01mm.
-  - *Microstep down* - Decreases nozzle-to-bed distance by .01mm.
-* [Killw2k's LCD Display Tweak - Remaining Time](https://www.reddit.com/r/VORONDesign/comments/rv9oxn/lcd_status_screen_tweak/) - This config modification moves the progress bar to the 4th row to make room for remaining time and total time, neither of which are shown by default.
 
-### Mods to Consider
+## Mods & Tweaks
+
+### Summary
+1. [Funny Pack](#1-funny-pack)
+2. [Panel Lockers](#2-panel-lockers)
+3. [Sturdy Handles](#3-sturdy-handles)
+4. [6-pin MicroFit Skirt Insert + Lock](#4-6-pin-microfit-skirt-insert)
+5. [StealthBurner Beta](#5-stealthburner-beta)
+6. [Eddie's LED Bar Clip](#6-eddies-led-bar-clip)
+7. [Meteyou's GCode Buttons](#7-meteyous-gcode-buttons)
+8. [Killw2k's LCD Display Tweak - Remaining Time](#8-killw2ks-lcd-display-tweak---remaining-time) - This config modification moves the progress bar to the 4th row to make room for remaining time and total time, neither of which are shown by default.
+
+### 1. Funny Pack
+
+The [Funny Pack](https://github.com/thiagolocatelli/Voron/tree/master/Mods/funny_pack) is based on the [Fanny Pack](https://github.com/oab1/VoronMods/tree/main/v2.2%20Recirculating%20Filter) which is in turn based on the [Nevermore](https://github.com/nevermore3d), this exhaust filter uses dual 5015 fans to circulate air through [activated carbon pellets](https://envirosupply.net/products/4mm-pellet-virgin-coal-activated-carbon-charcoal-for-vapor-filtration-1-lb-bag) ([alternative source](https://www.amazon.com/EnviroSupply-Premium-Bituminous-Activated-Charcoal/dp/B00XNXC70W)). I ended up needing to print mesh inserts to prevent pellets from falling out of the basket.
+
+### 2. Panel Lockers
+
+These [Panel Lockers](https://github.com/v6cl/My-Voron2.4-Customs/tree/main/Panel_Locker) are print-in-place, work with 1mm-foam-lined side panels, and have good clamping force. Has two drawbacks; (1) one face of the model prints at an angle and catches light badly, and (2) you can't put two lockers on adjacent panels in the same location. Considering replacing them with [this design](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020), that uses filament as a hinge, or [Yeri's Magnetic Clips](https://github.com/Yeriwyn/VoronUsers/tree/V1-and-V2-panels/printer_mods/yeri/V1_V2_Trident_Magnetic_Panels/STL/Trident/300).
+
+### 3. Sturdy Handles
+
+[Sturdy Handles](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/Sturdy_Handles) mount well and do not interfere with panel removal, but the extrusions have a tendency to rotate. Need to remember to periodically retighten the frame.
+
+### 4. 6-pin MicroFit Skirt Insert
+
+Two sources for this modd; [6-pin MicroFit Skirt Insert](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/StvPtrsn/Parts_Jigs_and_Mods/Parts) and the [Lock](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Jon/adxl345_skirt_keystone/STL). Provides an interface for the ADXL345 cable to make Input Shaper calibration easier.
+
+### 5. StealthBurner Beta
+
+Using [StealthBurner Beta](https://github.com/VoronDesign/Voron-Afterburner/tree/sb-beta/STLs/Stealthburner) on top of the new ClockWork1 printed front. And using Hartk's PCB cover to contain the wiring though I do not have a toolhead PCB.
+
+### 6. Eddie's LED Bar Clip
+
+Everyone likes [Eddie's LED Bar Clip](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/eddie/LED_Bar_Clip). Easy to print, clips directly to 2020 extrusions, and have baffles to shield light from eyes. I did not extend the LED mounts fully from front to back, and chose to leave some room. Just in case I need space to mount a camera in the future. Check out [Steve Build's stream](https://www.youtube.com/watch?v=qTTLXU41Q0o&t=5188s) to see how to wire them together into one 4-pin dupont connector.
+
+### 7. Meteyou's GCode Buttons
+
+I like [Meteyou's GCode Buttons](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/meteyou/gcode_buttons) because they use mechanical keyboard switches for satisfying tactility and are simple to light up with embedded 2x3x4 LEDs.
+
+* *Preheat* - Cycles between "cooldown/white dial", "PLA temp/blue dial", and "ABS temp/red dial".
+* *Max LED* - Chamber lighting is 30% brightness by default. While pressed, this button will temporary increase the brightness to 100%.
+* *Microstep up* - Increases nozzle-to-bed distance by .01mm.
+* *Microstep down* - Decreases nozzle-to-bed distance by .01mm.
+
+![Voron Trident Skirt Buttons](../../../../assets/images/voron-trident-skirt-buttons-2.jpg)
+*Skirt buttons*
+{: .fs-2 .text-grey-dk-000 }
+
+The construction of a button consists of four parts; (1) cover, (2) mechanical switch, (3) housing, and (4) lock ring.
+
+![Exploded view of Meteyou's GCode Button](../../../../assets/images/gcode-button-exploded.png)
+*Exploded view of Meteyou's GCode Button*
+{: .fs-2 .text-grey-dk-000 }
+
+The mechanical switch is held in the housing, which is inserted through the front of a skirt hex opening, and secured in place from behind with a lock ring. I kept the wiring as simple as possible. One con is that, because the LEDs are installed in the switch housing, they are south facing and the lighting is uneven.
+
+* LEDs - Each mechanical switch has an embedded 2x3x4 LED, with the leads poking out the bottom. The positive leads and negative leads are wired inline, and terminate in a MicroFit connector. Since I just want the LEDs on when the printer is powered, any 5V source and ground pin will work and there is no logic/data pins/extra hardware to worry about.
+
+![Skirt Button LED Wiring](../../../../assets/images/skirt-buttons-wiring-leds.jpg)
+*Skirt Button LED Wiring*
+{: .fs-2 .text-grey-dk-000 }
+
+* Mechanical Switches - Each mechanical switch has two pins; ground and signal. The ground pins don't play a role in the functionality, so all the ground pins can be wired together. The signal pins will each have their own wire so that when pressed, the short can be detected. The 5 wires are then combined in a 5-pin MicroFit. On the other end of each signal wire, they connect to available GPIO ports.
+
+![Skirt Button Switch Wiring](../../../../assets/images/skirt-buttons-wiring-diagram.png)
+*Skirt Button Switch Wiring*
+{: .fs-2 .text-grey-dk-000 }
+
+![Skirt Button Wiring Complete](../../../../assets/images/skirt-buttons-wiring-complete.jpg)
+*Skirt Button Wiring Complete*
+{: .fs-2 .text-grey-dk-000 }
+
+The button macros are also easy to set up. Here's an example for my "microstep up" button:
+
+```
+[gcode_button BUTTON_MICROSTEP_UP]
+pin: ^!PC2
+press_gcode:
+    SET_GCODE_OFFSET Z_ADJUST=0.01
+release_gcode:
+```
+
+And for my "Max LED" button to see how to handle on-press events:
+
+```
+[gcode_button BUTTON_CASELIGHT]
+pin: ^!PB13
+press_gcode:
+    SET_PIN PIN=caselight VALUE=1
+release_gcode:
+    SET_PIN PIN=caselight VALUE=0.3
+```
+
+And, lastly, I created some custom buttons:
+
+![Custom Buttons](../../../../assets/images/skirt-buttons-custom-buttons.png)
+*Custom Buttons*
+{: .fs-2 .text-grey-dk-000 }
+
+To get the LEDs to shine through, I did a filament swap between layers 4 and 5. This results in the fronts of the buttons using my secondary color, KVP Graphite ABS, and the rest of the buttons (including the icon's fill) using MH Build Series White ABS. Even though I used an opaque plastic rather than a transparent plastic, I find the glow to be acceptable.
+
+[Download the STL files for my custom buttons](../../../../assets/files/button-covers.zip){: .btn .btn-purple}
+
+### 8. Killw2k's LCD Display Tweak - Remaining Time
+
+I found [Killw2k's LCD Display Tweak - Remaining Time](https://www.reddit.com/r/VORONDesign/comments/rv9oxn/lcd_status_screen_tweak/) mod on reddit. All it does is move the progress bar to the bottom row to make room for displaying remaining time and total time, neither of which are shown by default.
+
+### Future Mods to Consider
 * GitHub - [Yeri's Magnetic Panels](https://github.com/Yeriwyn/VoronUsers/tree/V1-and-V2-panels/printer_mods/yeri/V1_V2_Trident_Magnetic_Panels) - His .f3d file is parametric, which is handy because I only have 1mm foam tape on the side panels. These panel clips are not compatible with 'Stury Handles'. [Alternative handle from 2.2](https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/VORON2.2/Panel_Mounting/Handles_Panel_Rests_Misc/handle_3mm_x2_Rev1.stl).
 * GitHub - [Slidr666's OV5648 Camera Mount](https://github.com/Slidr666/VoronUsers/tree/master/printer_mods/Slidr/PanzerObserver2.4) - Originally seen on [SteveBuild's 2.4r2 update stream](https://www.youtube.com/watch?v=J2RGA8Az7eY).
 
-### Slicer
+## Slicer Stuff
 * GitHub - [AndrewEllis93's PIF Profile](https://github.com/AndrewEllis93/Ellis-PIF-Profile)
 * [SuperSlicer Bed Model](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/SuperSlicer)
 * [My Bed Texture](../../../../assets/images/superslicer-bed-plain.png)
