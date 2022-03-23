@@ -18,5 +18,5 @@ nav_order: 1
 
 ---
 
-### References
-*   [Product Page](https://drop.com/buy/preonic-mechanical-keyboard)
+## References
+* [Product Page](https://drop.com/buy/preonic-mechanical-keyboard)
