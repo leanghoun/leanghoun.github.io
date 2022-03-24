@@ -4,3 +4,6 @@ _site
 .jekyll-metadata
 vendor
 docs/.DS_Store
+.DS_Store
+.nova/Configuration.json
+.nova/Tasks/Custom Task.json
