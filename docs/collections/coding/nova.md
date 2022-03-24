@@ -34,6 +34,13 @@ Bought on a whim, but I've been a longtime fan of Panic ever since the early Cod
 ### Ephemeral Tabs
 Single click a document in the file browser and the document opens in an 'ephemeral' tab, denoted by the filename being displayed in italics. Clicking on any other document(s) will use the same tab, preventing tab overload just to find that *one* bit of code you are looking for.
 
+### Build/Run Tasks
+Testing this GitHub Page locally requires a terminal to run Jekyll and serve up the pages on runtime. Normally, I'd have a separate terminal open, but it's kind of nice that Nova can handle custom Build/Run tasks with terminal commands. I can see custom Build tasks really handy for building mechanical keyboard hex files.
+
+![Custom Run Task](../../../../assets/images/nova-run-task.jpg)
+*Custom Run Task*
+{: .fs-2 .text-grey-dk-000 }
+
 ## Extensions of Particular Interest
 
 ### Prettier
