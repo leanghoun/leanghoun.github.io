@@ -22,6 +22,8 @@ nav_order: 1
 * [Github Pages](https://docs.github.com/en/pages)
 * [Jekyll](https://jekyllrb.com/)
   - [Documentation](https://jekyllrb.com/docs/)
+* [Just the Docs Theme](https://github.com/just-the-docs/just-the-docs)
+  - [Documentation](https://just-the-docs.github.io/just-the-docs/)
 
 ## Command line
 To start Jekyll:

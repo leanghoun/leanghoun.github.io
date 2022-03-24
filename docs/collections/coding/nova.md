@@ -38,6 +38,8 @@ Single click a document in the file browser and the document opens in an 'epheme
 ### Build/Run Tasks
 Testing this GitHub Page locally requires a terminal to run Jekyll and serve up the pages on runtime. Normally, I'd have a separate terminal open, but it's kind of nice that Nova can handle custom Build/Run tasks with terminal commands. I can see custom Build tasks really handy for building mechanical keyboard hex files.
 
+Here's an example of a custom Run task to load the Jekyll process: `bundle exec jekyll serve --livereload`.
+
 ![Custom Run Task](../../../../assets/images/nova-run-task.jpg)
 *Custom Run Task*
 {: .fs-2 .text-grey-dk-000 }
