@@ -18,5 +18,13 @@ nav_order: 1
 
 ---
 
+## Building Hex Files
+To build a new hex file:
+```
+cd Documents/GitHub/qmk_firmware/
+make preonic/rev2:leang
+```
+The new hex file will be located in Documents/GitHub/qmk_firmware/.
+
 ## References
 * [Product Page](https://drop.com/buy/preonic-mechanical-keyboard)
