@@ -64,14 +64,15 @@ I've created a [GitHub repository](https://github.com/leanghoun/klipper_config) 
 1. Finally, push the files - `git push -u origin main`
 
 #### Git Reference for Terminal
-- Git - `git status` - Checks status of local repository.
-- Git - `git add filename.css` - Start tracking a new file.
-- Git - `git add *` - Start tracking all files in current folder.
-- Git - `git rm --cached filename.css` - Remove file from tracking. Also consider adding to .gitignore to prevent future tracking.
-- Git - `git commit -m "Updated something"` - Commit with a message.
-- Git - `git commit -a` - Commit all changes in local repository.
-- Git - `git commit --amend` - Commits new changes as part of the previous commit.
-- Git - `git push` - Pushes all commits to the remote repository.
+- `git status` - Checks status of local repository.
+- `git add filename.css` - Start tracking a new file.
+- `git add *` - Start tracking all files in current folder.
+- `git rm --cached filename.css` - Remove file from tracking. Also consider adding to .gitignore to prevent future tracking.
+- `git commit -m "Updated something"` - Commit with a message.
+- `git commit -a` - Commit all changes in local repository.
+- `git commit --amend` - Commits new changes as part of the previous commit.
+- `git push` - Pushes all commits to the remote repository.
+- `find . -name .DS_Store -print0 | xargs -0 git rm --ignore-unmatch` - Find and remove all .DS_Store files in repository.
 
 ## Mods & Tweaks
 
