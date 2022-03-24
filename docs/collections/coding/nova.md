@@ -37,7 +37,7 @@ Single click a document in the file browser and the document opens in an 'epheme
 ## Extensions of Particular Interest
 
 ### Prettier
-But I'm getting a "NPM not installed" warning.
+~~But I'm getting a "NPM not installed" warning.~~ Node.js installed and Prettier works now, but it messes with Just the Docs theme that I'm using for this GitHub Page. Disabled for this project.
 
 ## References
 * [Product Page](https://nova.app/)
