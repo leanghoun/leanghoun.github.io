@@ -42,6 +42,8 @@ nav_order: 1
 * [Moonraker Docs](https://moonraker.readthedocs.io/en/latest/)
   - [PolicyKit Permissions](https://moonraker.readthedocs.io/en/latest/installation/#policykit-permissions) - After updating Moonraker, if you see errors related to PolicyKit, try re-adding these permissions.
 * [Serial Request](https://www.reddit.com/r/voroncorexy/comments/sdhsjg/voron_trident_300mm_serial_request_le0n2959/)
+* Terminal commands
+  - SSH into Trident - `ssh trident.local -l pi`
 
 ## Bill of Materials & Supplies
 * [BOM & Costs](https://docs.google.com/spreadsheets/d/19nlv9ndFdrLKIFwBDWHhvT5E2p-6kONis_83c0GkSzI/edit?usp=sharing)
@@ -49,6 +51,27 @@ nav_order: 1
 * Accent color: [KVP Graphite](https://www.villageplastics.com/product/abs/)
 * [OpenBuilds Slot Covers](https://openbuildspartstore.com/slot-cover-panel-holder/)
 
+## Config Files on GitHub
+I've created a [GitHub repository](https://github.com/leanghoun/klipper_config) for my config files. Here are the steps I took.
+1. Go to [GitHub](https://github.com) and create the repository. I just used `klipper_config` to match the folder name on the Raspberry Pi.
+1. In the terminal, SSH into the Raspberry Pi and navigate to the folder you want to turn into a repository - `cd klipper_config/`
+1. Create the readme file - `echo "# klipper_config" >> README.md`
+1. Initiliaze the folder - `git init`
+1. Start tracking all files in the folder - `git add *`
+1. Initial commit - `git commit -m "First commit"`
+1. Add the origin - `git remote add origin https://github.com/leanghoun/klipper_config.git`
+1. Set the branch to main - `git branch -M main`
+1. Finally, push the files - `git push -u origin main`
+
+#### Git Reference for Terminal
+- Git - `git status` - Checks status of local repository.
+- Git - `git add filename.css` - Start tracking a new file.
+- Git - `git add *` - Start tracking all files in current folder.
+- Git - `git rm --cached filename.css` - Remove file from tracking. Also consider adding to .gitignore to prevent future tracking.
+- Git - `git commit -m "Updated something"` - Commit with a message.
+- Git - `git commit -a` - Commit all changes in local repository.
+- Git - `git commit --amend` - Commits new changes as part of the previous commit.
+- Git - `git push` - Pushes all commits to the remote repository.
 
 ## Mods & Tweaks
 
