@@ -25,6 +25,7 @@ Bought on a whim, but I've been a longtime fan of Panic ever since the early Cod
 * Project organization
 * Syntax highlighting
 * Code completion
+* Built-in Transmit
 * Github integration
 * Terminal integration
 * Build/Run with terminal commands
