@@ -34,7 +34,7 @@ nav_order: 1
 * GitHub - [VoronDesign/Voron-Trident](https://github.com/VoronDesign/Voron-Trident)
 * GitHub - [Fysetc/Fysetc-Spider](https://github.com/FYSETC/FYSETC-SPIDER)
 * GitHub - [AndrewEllis93's Print Tuning Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide)
-* [Voron Docs](https://docs.vorondesign.com/)
+* [Voron Documentation](https://docs.vorondesign.com/)
   - [Voron Initial Startup](https://docs.vorondesign.com/build/startup/)
 * [Klipper Docs](https://www.klipper3d.org/Overview.html)
   - [Input Shaper & Measuring Resonances](https://www.klipper3d.org/Measuring_Resonances.html) - It can be interesting to see your resonance charts with the manual method, but trying to interpret the graphs can be a bit nebulous. For simplicity, just run `SHAPER_CALIBRATE` and let the ADXL345 measure the resonances automatically. Don't forget to `SAVE_CONFIG` to commit.
@@ -42,6 +42,7 @@ nav_order: 1
 * [Moonraker Docs](https://moonraker.readthedocs.io/en/latest/)
   - [PolicyKit Permissions](https://moonraker.readthedocs.io/en/latest/installation/#policykit-permissions) - After updating Moonraker, if you see errors related to PolicyKit, try re-adding these permissions.
 * [Serial Request](https://www.reddit.com/r/voroncorexy/comments/sdhsjg/voron_trident_300mm_serial_request_le0n2959/)
+* GitHub - [My Klipper Config Files](https://github.com/leanghoun/klipper_config)
 * Terminal commands
   - SSH into Trident - `ssh trident.local -l pi`
 
@@ -54,13 +55,13 @@ nav_order: 1
 ## Config Files on GitHub
 I've created a [GitHub repository](https://github.com/leanghoun/klipper_config) for my config files. Here are the steps I took.
 1. Go to [GitHub](https://github.com) and create the repository. I just used `klipper_config` to match the folder name on the Raspberry Pi.
-1. In the terminal, SSH into the Raspberry Pi and navigate to the folder you want to turn into a repository - `cd klipper_config/`
-1. Create the readme file - `echo "# klipper_config" >> README.md`
+1. In the terminal, SSH into the Raspberry Pi and navigate to the folder you want to turn into a repository - Home in this case.
+1. Create the readme file - `echo "# mainsail-trident" >> README.md`
 1. Initiliaze the folder - `git init`
 1. Start tracking all files in the folder - `git add *`
 1. Initial commit - `git commit -m "First commit"`
-1. Add the origin - `git remote add origin https://github.com/leanghoun/klipper_config.git`
 1. Set the branch to main - `git branch -M main`
+1. Add the origin - `git remote add origin https://github.com/leanghoun/mainsail-trident.git`
 1. Finally, push the files - `git push -u origin main`
 
 #### Git Reference for Terminal
@@ -68,11 +69,13 @@ I've created a [GitHub repository](https://github.com/leanghoun/klipper_config) 
 - `git add filename.css` - Start tracking a new file.
 - `git add *` - Start tracking all files in current folder.
 - `git rm --cached filename.css` - Remove file from tracking. Also consider adding to .gitignore to prevent future tracking.
+- `git rm --cached -fr folder` - Force remove folder and subfiles.
 - `git commit -m "Updated something"` - Commit with a message.
 - `git commit -a` - Commit all changes in local repository.
 - `git commit --amend` - Commits new changes as part of the previous commit.
 - `git push` - Pushes all commits to the remote repository.
 - `find . -name .DS_Store -print0 | xargs -0 git rm --ignore-unmatch` - Find and remove all .DS_Store files in repository.
+- `ls -ldF .?*` - Show hidden files and folders.
 
 ## Mods & Tweaks
 
@@ -138,7 +141,7 @@ The construction of a button consists of four parts; (1) button, (2) mechanical 
 
 I kept the wiring as simple as possible. One con is that, because the LEDs are installed in the switch housing, they are south facing and the lighting is uneven.
 
-**LEDs** - Each mechanical switch has an embedded 2x3x4 LED, with the leads poking out the bottom. The positive leads and negative leads are wired inline, and terminate in a MicroFit connector. Since I just want the LEDs on when the printer is powered, any 5V source and ground pin will work and there are no logic/data pins/extra hardware to worry about.
+**LEDs** - Each mechanical switch has an embedded 3V 2x3x4 LED, with the leads poking out the bottom. The positive leads and negative leads are wired inline, and terminate in a MicroFit connector. Since I just want the LEDs on when the printer is powered, I just used the Raspberry Pi's 3V3 power pin and ground pin.
 
 ![Skirt Button LED Wiring](../../../../assets/images/skirt-buttons-wiring-leds.jpg)
 *Skirt Button LED Wiring*
@@ -193,6 +196,7 @@ I found [Killw2k's LCD Display Tweak - Remaining Time](https://www.reddit.com/r/
 * GitHub - [Yeri's Magnetic Panels](https://github.com/Yeriwyn/VoronUsers/tree/V1-and-V2-panels/printer_mods/yeri/V1_V2_Trident_Magnetic_Panels) - His .f3d file is parametric, which is handy because I only have 1mm foam tape on the side panels. These panel clips are not compatible with 'Stury Handles'. [Alternative handle from 2.2](https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/VORON2.2/Panel_Mounting/Handles_Panel_Rests_Misc/handle_3mm_x2_Rev1.stl).
 * GitHub - [Slidr666's OV5648 Camera Mount](https://github.com/Slidr666/VoronUsers/tree/master/printer_mods/Slidr/PanzerObserver2.4) - Originally seen on [SteveBuild's 2.4r2 update stream](https://www.youtube.com/watch?v=J2RGA8Az7eY).
 * GitHub - [Frame Thermal Expansion Package](https://github.com/Deutherius/TECPac) - Both hardware and software.
+* [Titanium Backers](https://3dmakerparts.com/products/titanium-extrusion-backers-v2-4-trident) - The aluminum frame also undergoes some amount of thermal expansion. [One way](https://github.com/tanaes/whopping_Voron_mods/tree/main/extrusion_backers) to counteract this is to brace the key extrusions with a secondary type of metal.
 * Better Filtration System, Discord@PF VT.520
   - [4" Inline Duct Fan](https://www.amazon.com/VIVOSUN-Australia-Charcoal-Pre-filter-Reversible/dp/B01DXYMBU6)
   - [HEPA filters](https://www.amazon.com/dp/B088Z7CLKC)
