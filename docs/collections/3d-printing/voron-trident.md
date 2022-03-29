@@ -61,10 +61,13 @@ I've created a [GitHub repository](https://github.com/leanghoun/klipper_config) 
 1. Start tracking all files in the folder - `git add *`
 1. Initial commit - `git commit -m "First commit"`
 1. Set the branch to main - `git branch -M main`
-1. Add the origin - `git remote add origin https://github.com/leanghoun/mainsail-trident.git`
+1. Add the origin - `git remote add origin https://github.com/leanghoun/klipper_config.git`
 1. Finally, push the files - `git push -u origin main`
 
-#### Git Reference for Terminal
+### MainSail Macro Button to Auto Commit Changes to GitHub
+By adding one python file and a script file, it's possible to create a MainSail dashboard button to autocommit all changes in klipper_configs/ to the GitHub repository.[Instructions here](https://github.com/th33xitus/kiauh/wiki/How-to-autocommit-config-changes-to-github%3F).
+
+### Git Reference for Terminal
 - `git status` - Checks status of local repository.
 - `git add filename.css` - Start tracking a new file.
 - `git add *` - Start tracking all files in current folder.
