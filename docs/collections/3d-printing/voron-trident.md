@@ -71,7 +71,7 @@ By adding one python file and one script, it's possible to create a Mainsail das
 - `git status` - Checks status of local repository.
 - `git add filename.css` - Start tracking a new file.
 - `git add *` - Start tracking all files in current folder.
-- `git rm --cached filename.css` - Remove file from tracking. Also consider adding to .gitignore to prevent future tracking.
+- `git rm --cached filename.css` - Remove file from tracking. Also consider adding to .gitignore to prevent future tracking. The `--cached` flag is very important as it removes the file from tracking, but does not delete it from the filesystem.
 - `git rm --cached -fr folder` - Force remove folder and subfiles.
 - `git commit -m "Updated something"` - Commit with a message.
 - `git commit -a` - Commit all changes in local repository.
