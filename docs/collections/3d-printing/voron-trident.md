@@ -92,7 +92,7 @@ gcode:
   RUN_SHELL_COMMAND CMD=backup_cfg
 ```
 
-Clicking the new macro button should commit all files/changes to the GitHub repository.
+Clicking the new GIT BACKUP macro button should commit all files/changes to the GitHub repository.
 
 ### Git Reference for Terminal
 - `git status` - Checks status of local repository.
