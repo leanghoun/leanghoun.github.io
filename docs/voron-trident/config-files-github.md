@@ -10,29 +10,29 @@ nav_order: 2
 
 ## Creating the Initial Repository
 I've created a [GitHub repository](https://github.com/leanghoun/klipper_config) for my config files. Here are the steps I took.
-1. Go to [GitHub](https://github.com) and create the repository. I just used `klipper_config` to match the folder name on the Raspberry Pi.
-1. In Terminal, SSH into the Raspberry Pi and navigate to the folder you want to turn into a repository - `cd klipper_config`
-1. Create the readme file - `echo "# mainsail-trident" >> README.md`
-1. Initiliaze the folder - `git init`
-1. Start tracking all files in the folder - `git add *`
-1. Initial commit - `git commit -m "First commit"`
-1. Set the branch to main - `git branch -M main`
-1. Add the origin - `git remote add origin https://github.com/leanghoun/klipper_config.git`
-1. Finally, push the files - `git push -u origin main`
+1. Go to [GitHub](https://github.com) and create the repository. I just used *klipper_config* to match the folder name on the Raspberry Pi.
+1. In Terminal, SSH into the Raspberry Pi and navigate to the folder you want to turn into a repository `cd klipper_config`
+1. Create the readme file `echo "# mainsail-trident" >> README.md`
+1. Initiliaze the folder `git init`
+1. Start tracking all files in the folder `git add *`
+1. Initial commit `git commit -m "First commit"`
+1. Set the branch to main `git branch -M main`
+1. Add the origin `git remote add origin https://github.com/leanghoun/klipper_config.git`
+1. Finally, push the files `git push -u origin main`
 
 ## Macro to Auto Commit Changes to GitHub
-By adding one python file and one script, it's possible to create a Mainsail dashboard macro to autocommit all changes in ~/klipper_configs/ to the GitHub repository. [Full instructions here](https://github.com/th33xitus/kiauh/wiki/How-to-autocommit-config-changes-to-github%3F).
+By adding one python file and one script, it's possible to create a Mainsail dashboard macro to autocommit all changes in *~/klipper_configs/* to the GitHub repository. [Full instructions here](https://github.com/th33xitus/kiauh/wiki/How-to-autocommit-config-changes-to-github%3F).
 
 ### Creating the Python File
-1. In Terminal, SSH into the Raspberry Pi and navigate to - `cd klipper/klippy/extras`
-1. Create the python file - `nano gcode_shell_command.py` - then paste the contents from the original [KIAUH file](https://github.com/th33xitus/kiauh/blob/master/resources/gcode_shell_command.py), exit and save
+1. In Terminal, SSH into the Raspberry Pi and navigate to `cd klipper/klippy/extras`
+1. Create the python file `nano gcode_shell_command.py` then paste the contents from the original [KIAUH file](https://github.com/th33xitus/kiauh/blob/master/resources/gcode_shell_command.py), exit and save
 
 ### Creating the Script
-1. Navigate to - `cd ~/klipper_config` to create the script within the GitHub repository
-1. Create the script file - `nano autocommit.sh` - then paste the contents from the original [script](https://github.com/th33xitus/kiauh/blob/master/resources/autocommit.sh), uncomment the folders to commit to GitHub, exit and save
+1. Navigate to `cd ~/klipper_config` to create the script within the GitHub repository
+1. Create the script file `nano autocommit.sh` then paste the contents from the original [script](https://github.com/th33xitus/kiauh/blob/master/resources/autocommit.sh), uncomment the folders to commit to GitHub, exit and save
 
 ### Storing GitHub Credentials
-The script cannot respond to terminal password prompts, so we will store the credentials - `git config --global credential.helper store`
+The script cannot respond to terminal password prompts, so we will store the credentials `git config --global credential.helper store`
 
 ### Creating the Macro
 Finally, we need to create two parts; the shell command and the macro itself:
