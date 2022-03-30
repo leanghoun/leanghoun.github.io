@@ -64,7 +64,7 @@ I've created a [GitHub repository](https://github.com/leanghoun/klipper_config) 
 1. Add the origin - `git remote add origin https://github.com/leanghoun/klipper_config.git`
 1. Finally, push the files - `git push -u origin main`
 
-### MainSail Macro Button to Auto Commit Changes to GitHub
+### Macro to Auto Commit Changes to GitHub
 By adding one python file and one script, it's possible to create a Mainsail dashboard macro to autocommit all changes in ~/klipper_configs/ to the GitHub repository. [Instructions here](https://github.com/th33xitus/kiauh/wiki/How-to-autocommit-config-changes-to-github%3F).
 
 ### Git Reference for Terminal
