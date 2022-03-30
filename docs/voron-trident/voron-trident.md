@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Voron Trident
-permalink: /docs/collections/voron-trident
+permalink: /docs/voron-trident
 has_children: true
 nav_order: 2
 ---
