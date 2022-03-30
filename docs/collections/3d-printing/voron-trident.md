@@ -75,10 +75,10 @@ By adding one python file and one script, it's possible to create a Mainsail das
 1. Navigate to - `cd ~/klipper_config` to create the script within the GitHub repository
 1. Create the script file - `nano autocommit.sh` - then paste the contents from the original [script](https://github.com/th33xitus/kiauh/blob/master/resources/autocommit.sh), uncomment the folders to commit to GitHub, exit and save
 
-#### Save GitHub Credentials
+#### Storing GitHub Credentials
 The script cannot respond to terminal password prompts, so we will store the credentials - `git config --global credential.helper store`
 
-#### Create the Macro
+#### Creating the Macro
 Finally, we need to create two parts; the shell command and the macro itself:
 
 ```
