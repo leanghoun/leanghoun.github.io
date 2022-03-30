@@ -15,12 +15,12 @@ nav_order: 1
 Sometimes, I need help remembering things.
 {: .fs-6 .fw-300 }
 
-With projects, things can get messy. It would be nice to consolidate notes and thoughts in a searchable way. In late 2021, I started sourcing items to build a [Voron Trident]({{ site.baseurl }}{% link docs/collections/voron-trident/voron-trident.md %}), and while researching the build, I noticed that their [documentation website](https://docs.vorondesign.com/) was built using something called [Just the Docs](https://github.com/just-the-docs/just-the-docs). This is my take on a living notebook using the same platform.
+With projects, things can get messy. It would be nice to consolidate notes and thoughts in a searchable way. In late 2021, I started sourcing items to build a [Voron Trident]({{ site.baseurl }}{% link docs/voron-trident/voron-trident.md %}), and while researching the build, I noticed that their [documentation website](https://docs.vorondesign.com/) was built using something called [Just the Docs](https://github.com/just-the-docs/just-the-docs). This is my take on a living notebook using the same platform.
 
 ---
 
 ## Quick Links
 {: .text-delta }
-*   [Voron Trident]({{ site.baseurl }}{% link docs/collections/voron-trident/voron-trident.md %})
+*   [Voron Trident]({{ site.baseurl }}{% link docs/voron-trident/voron-trident.md %})
 *   [Nova]({{ site.baseurl }}{% link docs/collections/coding/nova.md %})
 *   [Nullbits Tidbit]({{ site.baseurl }}{% link docs/collections/mechanical-keyboards/tidbit.md %})
