@@ -37,7 +37,7 @@ The script cannot respond to terminal password prompts, so we will store the cre
 ### Creating the Macro
 Finally, we need to create two parts; the shell command and the macro itself:
 
-```
+```yaml
 [gcode_shell_command backup_cfg]
 command: sh /home/pi/klipper_config/autocommit.sh
 timeout: 30.

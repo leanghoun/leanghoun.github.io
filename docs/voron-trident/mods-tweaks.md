@@ -64,7 +64,7 @@ I kept the wiring as simple as possible. One con is that, because the LEDs are i
 
 The button macros are also easy to set up. You need a pin assignment, "on press" actions, and "on release" actions. Here's an example for my "microstep up" button:
 
-```
+```yaml
 [gcode_button BUTTON_MICROSTEP_UP]
 pin: ^!PC2
 press_gcode:
@@ -74,7 +74,7 @@ release_gcode:
 
 And for my "max LED" button to see how to handle a button "while pressed":
 
-```
+```yaml
 [gcode_button BUTTON_CASELIGHT]
 pin: ^!PB13
 press_gcode:
