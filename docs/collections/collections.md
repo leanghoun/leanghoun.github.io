@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Collections
+permalink: /docs/collections
 nav_order: 3
 has_children: true
-permalink: /docs/collections
 ---
 
 # Collections

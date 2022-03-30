@@ -2,8 +2,8 @@
 layout: default
 title: Voron Trident
 permalink: /docs/voron-trident
-has_children: true
 nav_order: 2
+has_children: true
 ---
 
 # Voron Trident
