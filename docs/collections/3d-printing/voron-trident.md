@@ -55,7 +55,7 @@ nav_order: 1
 ## Config Files on GitHub
 I've created a [GitHub repository](https://github.com/leanghoun/klipper_config) for my config files. Here are the steps I took.
 1. Go to [GitHub](https://github.com) and create the repository. I just used `klipper_config` to match the folder name on the Raspberry Pi.
-1. In the terminal, SSH into the Raspberry Pi and navigate to the folder you want to turn into a repository - Home in this case.
+1. In the terminal, SSH into the Raspberry Pi and navigate to the folder you want to turn into a repository - `cd klipper_config`
 1. Create the readme file - `echo "# mainsail-trident" >> README.md`
 1. Initiliaze the folder - `git init`
 1. Start tracking all files in the folder - `git add *`
@@ -196,7 +196,7 @@ To get the LEDs to shine through, I did a filament swap between layers 4 and 5. 
 I found [Killw2k's LCD Display Tweak - Remaining Time](https://www.reddit.com/r/VORONDesign/comments/rv9oxn/lcd_status_screen_tweak/) mod on reddit. All it does is move the progress bar to the bottom row to make room for displaying remaining time and total time, neither of which are shown by default.
 
 ### Future Mods to Consider
-* GitHub - [Yeri's Magnetic Panels](https://github.com/Yeriwyn/VoronUsers/tree/V1-and-V2-panels/printer_mods/yeri/V1_V2_Trident_Magnetic_Panels) - His .f3d file is parametric, which is handy because I only have 1mm foam tape on the side panels. These panel clips are not compatible with 'Stury Handles'. [Alternative handle from 2.2](https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/VORON2.2/Panel_Mounting/Handles_Panel_Rests_Misc/handle_3mm_x2_Rev1.stl).
+* GitHub - [Yeri's Magnetic Panels](https://github.com/Yeriwyn/VoronUsers/tree/V1-and-V2-panels/printer_mods/yeri/V1_V2_Trident_Magnetic_Panels) - His .f3d file is parametric, which is handy because I only have 1mm foam tape on the side panels. These panel clips are not compatible with 'Sturdy Handles'. [Alternative handle from 2.2](https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/VORON2.2/Panel_Mounting/Handles_Panel_Rests_Misc/handle_3mm_x2_Rev1.stl).
 * GitHub - [Slidr666's OV5648 Camera Mount](https://github.com/Slidr666/VoronUsers/tree/master/printer_mods/Slidr/PanzerObserver2.4) - Originally seen on [SteveBuild's 2.4r2 update stream](https://www.youtube.com/watch?v=J2RGA8Az7eY).
 * GitHub - [Frame Thermal Expansion Package](https://github.com/Deutherius/TECPac) - Both hardware and software.
 * [Titanium Backers](https://3dmakerparts.com/products/titanium-extrusion-backers-v2-4-trident) - The aluminum frame also undergoes some amount of thermal expansion. [One way](https://github.com/tanaes/whopping_Voron_mods/tree/main/extrusion_backers) to counteract this is to brace the key extrusions with a secondary type of metal.
