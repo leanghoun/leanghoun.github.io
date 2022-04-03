@@ -96,7 +96,7 @@ The [Funny Pack](https://github.com/thiagolocatelli/Voron/tree/master/Mods/funny
 
 ## Titanium Backers
 
-The aluminum frame undergoes some amount of [thermal expansion](https://github.com/tanaes/whopping_Voron_mods/tree/main/extrusion_backers) as the chamber heats up. One way to counteract this is to brace the key extrusions with a secondary type of metal. I sourced titanium backers from [3DMakerParts](https://3dmakerparts.com/products/titanium-extrusion-backers-v2-4-trident?variant=40926558093519) and the add-ons for M3x6 screws, M3x8 screws, and M3 t-nuts.Stainless steel backers are cheaper, but heavier. The weights for the individual backers are as follows:
+The aluminum frame undergoes some amount of [thermal expansion](https://github.com/tanaes/whopping_Voron_mods/tree/main/extrusion_backers) as the chamber heats up. One way to counteract this is to brace the key extrusions with a secondary type of metal. I sourced titanium backers from [3DMakerParts](https://3dmakerparts.com/products/titanium-extrusion-backers-v2-4-trident?variant=40926558093519) and the add-ons for M3x6 screws, M3x8 screws, and M3 t-nuts. Stainless steel backers are cheaper, but heavier. The weights for the individual backers are as follows:
 * Left extrusion backer - 78.7 gr
 * Gantry extrusion backer - 48.0 gr
 * Right extrusion backer - 76.6 gr
