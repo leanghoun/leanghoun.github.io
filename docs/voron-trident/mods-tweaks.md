@@ -7,17 +7,13 @@ nav_order: 3
 ---
 
 # Mods & Tweaks
+{: .no_toc }
 
-#### Quick Links
-* [Meteyou's GCode Buttons](#meteyous-gcode-buttons)
-* [Funny Pack](#funny-pack)
-* [Panel Lockers](#panel-lockers)
-* [Sturdy Handles](#sturdy-handles)
-* [6-pin MicroFit Skirt Insert + Lock](#6-pin-microfit-skirt-insert)
-* [StealthBurner Beta](#stealthburner-beta)
-* [Eddie's LED Bar Clip](#eddies-led-bar-clip)
-* [Killw2k's LCD Display Tweak - Remaining Time](#killw2ks-lcd-display-tweak---remaining-time)
-* [Future Mods to Consider](#future-mods-to-consider)
+#### Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Meteyou's GCode Buttons
 
@@ -100,18 +96,42 @@ The [Funny Pack](https://github.com/thiagolocatelli/Voron/tree/master/Mods/funny
 
 ## Titanium Backers
 
-The aluminum frame undergoes some amount of [thermal expansion](https://github.com/tanaes/whopping_Voron_mods/tree/main/extrusion_backers) as the chamber heats up. One way to counteract this is to brace the key extrusions with a secondary type of metal. Stainless steel backers are cheaper, but heavier. I sourced titanium backers from [3DMakerParts](https://3dmakerparts.com/products/titanium-extrusion-backers-v2-4-trident?variant=40926558093519) and the add-ons for M3x6 screws, M3x8 screws, and M3 t-nuts.
+The aluminum frame undergoes some amount of [thermal expansion](https://github.com/tanaes/whopping_Voron_mods/tree/main/extrusion_backers) as the chamber heats up. One way to counteract this is to brace the key extrusions with a secondary type of metal. I sourced titanium backers from [3DMakerParts](https://3dmakerparts.com/products/titanium-extrusion-backers-v2-4-trident?variant=40926558093519) and the add-ons for M3x6 screws, M3x8 screws, and M3 t-nuts.Stainless steel backers are cheaper, but heavier.
 
-![Titanium Backers from 3DMakerParts](../../../../assets/images/voron-trident-ti-backers-finish-1.jpg)
+* 76.6 gr
+* 48.0 gr
+* 78.7 gr
+
+![Titanium Backers from 3DMakerParts - Packaging](../../../../assets/images/voron-trident-ti-backers-packaging.jpg)
+*Titanium Backers from 3DMakerParts - Packaging*
+{: .fs-2 .text-grey-dk-000 }
+
+![Titanium Backers from 3DMakerParts - Packaging Reveal](../../../../assets/images/voron-trident-ti-backers-packaging-closeup-1.jpg)
+*Titanium Backers from 3DMakerParts - Packaging Reveal*
+{: .fs-2 .text-grey-dk-000 }
+
+![Titanium Backers from 3DMakerParts - Logo](../../../../assets/images/voron-trident-ti-backers-finish-1.jpg)
 *Titanium Backers from 3DMakerParts - Logo*
 {: .fs-2 .text-grey-dk-000 }
 
-![Titanium Backers from 3DMakerParts](../../../../assets/images/voron-trident-ti-backers-finish-2.jpg)
+![Titanium Backers from 3DMakerParts - Chain Mounts](../../../../assets/images/voron-trident-ti-backers-finish-2.jpg)
 *Titanium Backers from 3DMakerParts - Chain Mounts*
 {: .fs-2 .text-grey-dk-000 }
 
 ![Titanium Backers from 3DMakerParts](../../../../assets/images/voron-trident-ti-backers-finish-3.jpg)
 *Titanium Backers from 3DMakerParts*
+{: .fs-2 .text-grey-dk-000 }
+
+![Titanium Backers from 3DMakerParts - Left](../../../../assets/images/voron-trident-ti-backers-installed-left.jpg)
+*Titanium Backers from 3DMakerParts - Left*
+{: .fs-2 .text-grey-dk-000 }
+
+![Titanium Backers from 3DMakerParts - Gantry](../../../../assets/images/voron-trident-ti-backers-installed-gantry.jpg)
+*Titanium Backers from 3DMakerParts - Gantry*
+{: .fs-2 .text-grey-dk-000 }
+
+![Titanium Backers from 3DMakerParts - Right](../../../../assets/images/voron-trident-ti-backers-installed-right.jpg)
+*Titanium Backers from 3DMakerParts - Right*
 {: .fs-2 .text-grey-dk-000 }
 
 ## Panel Lockers
