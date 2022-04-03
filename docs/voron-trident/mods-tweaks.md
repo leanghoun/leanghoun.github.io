@@ -96,11 +96,10 @@ The [Funny Pack](https://github.com/thiagolocatelli/Voron/tree/master/Mods/funny
 
 ## Titanium Backers
 
-The aluminum frame undergoes some amount of [thermal expansion](https://github.com/tanaes/whopping_Voron_mods/tree/main/extrusion_backers) as the chamber heats up. One way to counteract this is to brace the key extrusions with a secondary type of metal. I sourced titanium backers from [3DMakerParts](https://3dmakerparts.com/products/titanium-extrusion-backers-v2-4-trident?variant=40926558093519) and the add-ons for M3x6 screws, M3x8 screws, and M3 t-nuts.Stainless steel backers are cheaper, but heavier.
-
-* 76.6 gr
-* 48.0 gr
-* 78.7 gr
+The aluminum frame undergoes some amount of [thermal expansion](https://github.com/tanaes/whopping_Voron_mods/tree/main/extrusion_backers) as the chamber heats up. One way to counteract this is to brace the key extrusions with a secondary type of metal. I sourced titanium backers from [3DMakerParts](https://3dmakerparts.com/products/titanium-extrusion-backers-v2-4-trident?variant=40926558093519) and the add-ons for M3x6 screws, M3x8 screws, and M3 t-nuts.Stainless steel backers are cheaper, but heavier. The weights for the individual backers are as follows:
+* Left extrusion backer - 78.7 gr
+* Gantry extrusion backer - 48.0 gr
+* Right extrusion backer - 76.6 gr
 
 ![Titanium Backers from 3DMakerParts - Packaging](../../../../assets/images/voron-trident-ti-backers-packaging.jpg)
 *Titanium Backers from 3DMakerParts - Packaging*
@@ -133,6 +132,28 @@ The aluminum frame undergoes some amount of [thermal expansion](https://github.c
 ![Titanium Backers from 3DMakerParts - Right](../../../../assets/images/voron-trident-ti-backers-installed-right.jpg)
 *Titanium Backers from 3DMakerParts - Right*
 {: .fs-2 .text-grey-dk-000 }
+
+To see if there were any measurable improvements, I increased my mesh size to 7x7 and took cold and hot meshes both before and after installation of the backers. Here are the results:
+
+![Mesh Before Backers - Cold- 0.094mm total variance](../../../../assets/images/voron-trident-before-backers-cold.png)
+*Mesh Before Backers - Cold - 0.094mm total variance*
+{: .fs-2 .text-grey-dk-000 }
+
+![Mesh Before Backers - Hot- 0.071mm total variance](../../../../assets/images/voron-trident-before-backers-hot.png)
+*Mesh Before Backers - Hot - 0.071mm total variance*
+{: .fs-2 .text-grey-dk-000 }
+
+![Mesh After Backers - Cold- 0.098mm total variance](../../../../assets/images/voron-trident-after-backers-cold.png)
+*Mesh After Backers - Cold - 0.098mm total variance*
+{: .fs-2 .text-grey-dk-000 }
+
+![Mesh After Backers - Hot- 0.050mm total variance](../../../../assets/images/voron-trident-after-backers-hot.png)
+*Mesh After Backers - Hot - 0.050mm total variance*
+{: .fs-2 .text-grey-dk-000 }
+
+Comparing the two hot meshes, the extra side bracing provided by the secondary metal does seem to have helped even out the thermal expansion across the surface area. My first hot mesh after installing the backers showed a total variance of only 0.050mm! After saving the result, I double-checked with another hot mesh and got an even better total variance of just 0.048mm!
+
+Honestly, I would still consider backers to be largely unnecessary. At one point, I was able to adjust my non-backer mesh to a total variance of just .069mm. Having said that, I am still quite impressed by the improvements, and the backers provide a bit more eye candy.
 
 ## Panel Lockers
 
