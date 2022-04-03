@@ -98,6 +98,22 @@ To get the LEDs to shine through, I did a filament swap between layers 4 and 5. 
 
 The [Funny Pack](https://github.com/thiagolocatelli/Voron/tree/master/Mods/funny_pack) is based on the [Fanny Pack](https://github.com/oab1/VoronMods/tree/main/v2.2%20Recirculating%20Filter) which is in turn based on the [Nevermore](https://github.com/nevermore3d), this exhaust filter uses dual 5015 fans to circulate air through [activated carbon pellets](https://envirosupply.net/products/4mm-pellet-virgin-coal-activated-carbon-charcoal-for-vapor-filtration-1-lb-bag) ([alternative source](https://www.amazon.com/EnviroSupply-Premium-Bituminous-Activated-Charcoal/dp/B00XNXC70W)). I ended up needing to print mesh inserts to prevent pellets from falling out of the basket.
 
+## Titanium Backers
+
+The aluminum frame undergoes some amount of [thermal expansion](https://github.com/tanaes/whopping_Voron_mods/tree/main/extrusion_backers) as the chamber heats up. One way to counteract this is to brace the key extrusions with a secondary type of metal. Stainless steel backers are cheaper, but heavier. I sourced titanium backers from [3DMakerParts](https://3dmakerparts.com/products/titanium-extrusion-backers-v2-4-trident?variant=40926558093519) and the add-ons for M3x6 screws, M3x8 screws, and M3 t-nuts.
+
+![Titanium Backers from 3DMakerParts](../../../../assets/images/voron-trident-ti-backers-finish-1.jpg)
+*Titanium Backers from 3DMakerParts - Logo*
+{: .fs-2 .text-grey-dk-000 }
+
+![Titanium Backers from 3DMakerParts](../../../../assets/images/voron-trident-ti-backers-finish-2.jpg)
+*Titanium Backers from 3DMakerParts - Chain Mounts*
+{: .fs-2 .text-grey-dk-000 }
+
+![Titanium Backers from 3DMakerParts](../../../../assets/images/voron-trident-ti-backers-finish-3.jpg)
+*Titanium Backers from 3DMakerParts*
+{: .fs-2 .text-grey-dk-000 }
+
 ## Panel Lockers
 
 These [Panel Lockers](https://github.com/v6cl/My-Voron2.4-Customs/tree/main/Panel_Locker) are print-in-place, work with 1mm-foam-lined side panels, and have good clamping force. Has two drawbacks; (1) one face of the model prints at an angle and catches light badly, and (2) you can't put two lockers on adjacent panels in the same location. Considering replacing them with [this design](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020), that uses filament as a hinge, or [Yeri's Magnetic Clips](https://github.com/Yeriwyn/VoronUsers/tree/V1-and-V2-panels/printer_mods/yeri/V1_V2_Trident_Magnetic_Panels/STL/Trident/300).
@@ -127,7 +143,6 @@ I found [Killw2k's LCD Display Tweak - Remaining Time](https://www.reddit.com/r/
 * GitHub - [Yeri's Magnetic Panels](https://github.com/Yeriwyn/VoronUsers/tree/V1-and-V2-panels/printer_mods/yeri/V1_V2_Trident_Magnetic_Panels) - His .f3d file is parametric, which is handy because I only have 1mm foam tape on the side panels. These panel clips are not compatible with 'Sturdy Handles'. [Alternative handle from 2.2](https://github.com/VoronDesign/Voron-2/blob/Voron2.2/STLs/VORON2.2/Panel_Mounting/Handles_Panel_Rests_Misc/handle_3mm_x2_Rev1.stl).
 * GitHub - [Slidr666's OV5648 Camera Mount](https://github.com/Slidr666/VoronUsers/tree/master/printer_mods/Slidr/PanzerObserver2.4) - Originally seen on [SteveBuild's 2.4r2 update stream](https://www.youtube.com/watch?v=J2RGA8Az7eY).
 * GitHub - [Frame Thermal Expansion Package](https://github.com/Deutherius/TECPac) - Both hardware and software.
-* [Titanium Backers](https://3dmakerparts.com/products/titanium-extrusion-backers-v2-4-trident) - The aluminum frame also undergoes some amount of thermal expansion. [One way](https://github.com/tanaes/whopping_Voron_mods/tree/main/extrusion_backers) to counteract this is to brace the key extrusions with a secondary type of metal.
 * Better Filtration System, Discord@PF VT.520
   - [4" Inline Duct Fan](https://www.amazon.com/VIVOSUN-Australia-Charcoal-Pre-filter-Reversible/dp/B01DXYMBU6)
   - [HEPA filters](https://www.amazon.com/dp/B088Z7CLKC)
