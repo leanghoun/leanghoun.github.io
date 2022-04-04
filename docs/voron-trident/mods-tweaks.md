@@ -155,6 +155,10 @@ Comparing the two hot meshes, the extra side bracing provided by the secondary m
 
 Honestly, I would still consider backers to be largely unnecessary. At one point, I was able to adjust my non-backer mesh to a total variance of just .069mm. Having said that, I am still quite impressed by the improvements, and the backers provide a bit more eye candy.
 
+## SexBolt Z Endstop
+
+When I switch from printing PLA back to ABS, there's a bit of leftover PLA filament in the nozzle as it heats up to ABS temperature. I've noticed that this overheated PLA ooze has the unfortunate habit of pulling out the Z endstop pin during homing and it's caused a few nozzle crashes. The SexBolt mod functions exactly the same way as the stock Z endstop, but rather than a smooth shaft, it uses a binding screw with heads on both sides to keep it from falling out.
+
 ## Panel Lockers
 
 These [Panel Lockers](https://github.com/v6cl/My-Voron2.4-Customs/tree/main/Panel_Locker) are print-in-place, work with 1mm-foam-lined side panels, and have good clamping force. Has two drawbacks; (1) one face of the model prints at an angle and catches light badly, and (2) you can't put two lockers on adjacent panels in the same location. Considering replacing them with [this design](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020), that uses filament as a hinge, or [Yeri's Magnetic Clips](https://github.com/Yeriwyn/VoronUsers/tree/V1-and-V2-panels/printer_mods/yeri/V1_V2_Trident_Magnetic_Panels/STL/Trident/300).
