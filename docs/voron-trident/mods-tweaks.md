@@ -157,7 +157,9 @@ Honestly, I would still consider backers to be largely unnecessary. At one point
 
 ## SexBolt Z Endstop
 
-When I switch from printing PLA back to ABS, there's a bit of leftover PLA filament in the nozzle as it heats up to ABS temperature. I've noticed that this overheated PLA ooze has the unfortunate habit of pulling out the Z endstop pin during homing and it's caused a few nozzle crashes. The SexBolt mod functions exactly the same way as the stock Z endstop, but rather than a smooth shaft, it uses a binding screw with heads on both sides to keep it from falling out.
+When I switch from printing PLA back to ABS, there's a bit of leftover PLA filament in the nozzle as it heats up to ABS temperature. I've noticed that this overheated PLA ooze has the unfortunate habit of pulling out the Z endstop pin during homing and it's caused a few nozzle crashes. The [SexBolt Z Endstop mod](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop) ([purchased here](https://3dmakerparts.com/products/sexbolt-z-endstop-kit?variant=41477061837007)) functions exactly the same way as the stock Z endstop, but rather than a smooth shaft, it uses a binding screw with heads on both ends to keep it from falling out.
+
+Fully tightening the M4 screw at the bottom of the pin makes the shaft slightly too low relative to the bed. I added a bit of weak loctite and adjusted the M4 screw until the top of the pin was perfectly flush with the top of the spring steel sheet.
 
 ## Panel Lockers
 
