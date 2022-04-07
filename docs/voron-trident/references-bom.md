@@ -19,6 +19,7 @@ nav_order: 1
 * [MainSail Docs](https://docs.mainsail.xyz/)
 * [Moonraker Docs](https://moonraker.readthedocs.io/en/latest/)
   - [PolicyKit Permissions](https://moonraker.readthedocs.io/en/latest/installation/#policykit-permissions) - After updating Moonraker, if you see errors related to PolicyKit, try re-adding these permissions.
+* [Voron Model Viewer](https://voron-viewer.vercel.app/trident)
 * [Serial Request](https://www.reddit.com/r/voroncorexy/comments/sdhsjg/voron_trident_300mm_serial_request_le0n2959/)
 * GitHub - [My Klipper Config Files](https://github.com/leanghoun/klipper_config)
 * Terminal SSH into Trident - `ssh trident.local -l pi`
