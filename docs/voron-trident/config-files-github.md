@@ -48,7 +48,7 @@ gcode:
   RUN_SHELL_COMMAND CMD=backup_cfg
 ```
 
-Clicking the new GIT BACKUP macro on the Mainsail dashboard should commit all files/changes to the GitHub repository.
+Clicking the new GIT BACKUP macro on the Mainsail dashboard should commit all files/changes to the GitHub repository. I also added a line for "printer-" to the .gitignore file to prevent Klipper backup files from being committed to the repository.
 
 ## Git Reference for Terminal
 - `git status` - Checks status of local repository.
