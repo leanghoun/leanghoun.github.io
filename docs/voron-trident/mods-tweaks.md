@@ -161,6 +161,12 @@ When I switch from printing PLA back to ABS, there's a bit of leftover PLA filam
 
 Fully tightening the M4 screw at the bottom of the pin makes the shaft slightly too low relative to the bed. I added a bit of weak loctite and adjusted the M4 screw until the top of the pin was perfectly flush with the top of the spring steel sheet.
 
+## StealthBurner Beta
+
+Using [StealthBurner beta](https://github.com/VoronDesign/Voron-Afterburner/tree/sb-beta/STLs/Stealthburner) and [ClockWork2 beta](https://github.com/VoronDesign/Voron-Afterburner/tree/sb-beta/STLs/Clockwork2).
+- Wires for Clockwork2 NEMA14 motor was not consistent with previous Clockwork1 NEMA17 motor even though both are from StepperOnline. I had to find the proper windings (close-circuit wire pairs) by using a multimeter set to continuity mode and listening for beeping indicating a matched pair.
+- Ran into issues with under extrusion until I realized my new Clockwork2 NEMA14 motor was 0.9° rather than 1.8° like my previous Clockwork1 NEMA17 motor. Changing `full_steps_per_rotation` from `200` to `400` fixed the issue.
+
 ## Panel Lockers
 
 These [Panel Lockers](https://github.com/v6cl/My-Voron2.4-Customs/tree/main/Panel_Locker) are print-in-place, work with 1mm-foam-lined side panels, and have good clamping force. Has two drawbacks; (1) one face of the model prints at an angle and catches light badly, and (2) you can't put two lockers on adjacent panels in the same location. Considering replacing them with [this design](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020), that uses filament as a hinge, or [Yeri's Magnetic Clips](https://github.com/Yeriwyn/VoronUsers/tree/V1-and-V2-panels/printer_mods/yeri/V1_V2_Trident_Magnetic_Panels/STL/Trident/300).
@@ -172,10 +178,6 @@ These [Panel Lockers](https://github.com/v6cl/My-Voron2.4-Customs/tree/main/Pane
 ## 6-pin MicroFit Skirt Insert
 
 Two sources for this modd; [6-pin MicroFit Skirt Insert](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/StvPtrsn/Parts_Jigs_and_Mods/Parts) and the [Lock](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Jon/adxl345_skirt_keystone/STL). Provides an interface for the ADXL345 cable to make Input Shaper calibration easier.
-
-## StealthBurner Beta
-
-Using [StealthBurner Beta](https://github.com/VoronDesign/Voron-Afterburner/tree/sb-beta/STLs/Stealthburner) on top of the new ClockWork1 printed front. And using Hartk's PCB cover to contain the wiring though I do not have a toolhead PCB.
 
 ## Eddie's LED Bar Clip
 
