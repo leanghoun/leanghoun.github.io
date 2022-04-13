@@ -78,17 +78,17 @@ document.addEventListener('DOMContentLoaded', function (event) {
 				break;
 			case "btn btn-outline button01":
 				gsap.to(image_01, {duration: .2, delay: .3, opacity: 1});
-				gsap.to(image_02, {duration: .2, opacity: .2});
-				gsap.to(image_03, {duration: .2, opacity: .2});
+				gsap.to(image_02, {duration: .2, opacity: .1});
+				gsap.to(image_03, {duration: .2, opacity: .1});
 				break;
 			case "btn btn-outline button02":
-				gsap.to(image_01, {duration: .2, opacity: .2});
+				gsap.to(image_01, {duration: .2, opacity: .1});
 				gsap.to(image_02, {duration: .2, delay: .3, opacity: 1});
-				gsap.to(image_03, {duration: .2, opacity: .2});
+				gsap.to(image_03, {duration: .2, opacity: .1});
 				break;
 			case "btn btn-outline button03":
-				gsap.to(image_01, {duration: .2, opacity: .2});
-				gsap.to(image_02, {duration: .2, opacity: .2});
+				gsap.to(image_01, {duration: .2, opacity: .1});
+				gsap.to(image_02, {duration: .2, opacity: .1});
 				gsap.to(image_03, {duration: .2, delay: .3, opacity: 1});
 				break;
 		}
