@@ -34,6 +34,7 @@ nav_order: 4
 		</section>
 </main>
 
+[All](javascript: void(0)){: .btn .btn-outline .button00 }
 [Mains Wiring](javascript: void(0)){: .btn .btn-outline .button01 }
 [Bed Cable Hookup](javascript: void(0)){: .btn .btn-outline .button02 }
 [DC Power](javascript: void(0)){: .btn .btn-outline .button03 }
@@ -46,12 +47,14 @@ document.addEventListener('DOMContentLoaded', function (event) {
 	var image_02 = document.getElementById('image-02');
 	var image_03 = document.getElementById('image-03');
 
+	var button00 = document.querySelector('.button00');
 	var button01 = document.querySelector('.button01');
 	var button02 = document.querySelector('.button02');
 	var button03 = document.querySelector('.button03');
 
 	gsap.set(wiring, {height: image_00.offsetHeight});
 
+	button00.addEventListener('click', toggleOpacity);
 	button01.addEventListener('click', toggleOpacity);
 	button02.addEventListener('click', toggleOpacity);
 	button03.addEventListener('click', toggleOpacity);
@@ -68,6 +71,11 @@ document.addEventListener('DOMContentLoaded', function (event) {
 		<!--console.log(target.className);-->
 
 		switch (target.className) {
+			case "btn btn-outline button00":
+				gsap.to(image_01, {duration: .2, delay: .3, opacity: 1});
+				gsap.to(image_02, {duration: .2, delay: .3, opacity: 1});
+				gsap.to(image_03, {duration: .2, delay: .3, opacity: 1});
+				break;
 			case "btn btn-outline button01":
 				gsap.to(image_01, {duration: .2, delay: .3, opacity: 1});
 				gsap.to(image_02, {duration: .2, opacity: .2});
