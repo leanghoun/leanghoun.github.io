@@ -28,11 +28,15 @@ nav_order: 4
 		<div id="image-02" style="display:float;">
 			<img src="../../../../assets/images/wiring-02-bed.png" id="02-bed" />
 		</div>
+		<div id="image-03" style="display:float;">
+			<img src="../../../../assets/images/wiring-03-dc.png" id="03-dc" />
+		</div>
 		</section>
 </main>
 
 [Mains Wiring](javascript: void(0)){: .btn .btn-outline .button01 }
 [Bed Cable Hookup](javascript: void(0)){: .btn .btn-outline .button02 }
+[DC Power](javascript: void(0)){: .btn .btn-outline .button03 }
 
 <script>
 document.addEventListener('DOMContentLoaded', function (event) {
@@ -40,19 +44,23 @@ document.addEventListener('DOMContentLoaded', function (event) {
 	var image_00 = document.getElementById('image-00');
 	var image_01 = document.getElementById('image-01');
 	var image_02 = document.getElementById('image-02');
+	var image_03 = document.getElementById('image-03');
 
 	var button01 = document.querySelector('.button01');
 	var button02 = document.querySelector('.button02');
+	var button03 = document.querySelector('.button03');
 
 	gsap.set(wiring, {height: image_00.offsetHeight});
 
 	button01.addEventListener('click', toggleOpacity);
 	button02.addEventListener('click', toggleOpacity);
+	button03.addEventListener('click', toggleOpacity);
 
 	function onResize () {
 		gsap.set(wiring, {height: image_00.offsetHeight});
 		gsap.set(image_01, {y: 0-image_00.offsetHeight});
 		gsap.set(image_02, {y: 0-image_00.offsetHeight*2});
+		gsap.set(image_03, {y: 0-image_00.offsetHeight*3});
 	}
 
 	function toggleOpacity () {
@@ -63,10 +71,17 @@ document.addEventListener('DOMContentLoaded', function (event) {
 			case "btn btn-outline button01":
 				gsap.to(image_01, {duration: .2, delay: .3, opacity: 1});
 				gsap.to(image_02, {duration: .2, opacity: .2});
+				gsap.to(image_03, {duration: .2, opacity: .2});
 				break;
 			case "btn btn-outline button02":
 				gsap.to(image_01, {duration: .2, opacity: .2});
 				gsap.to(image_02, {duration: .2, delay: .3, opacity: 1});
+				gsap.to(image_03, {duration: .2, opacity: .2});
+				break;
+			case "btn btn-outline button03":
+				gsap.to(image_01, {duration: .2, opacity: .2});
+				gsap.to(image_02, {duration: .2, opacity: .2});
+				gsap.to(image_03, {duration: .2, delay: .3, opacity: 1});
 				break;
 		}
 	}
