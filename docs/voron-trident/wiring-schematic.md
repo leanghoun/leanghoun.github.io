@@ -38,6 +38,7 @@ nav_order: 4
 [Mains Wiring](javascript: void(0)){: .btn .btn-outline .button01 }
 [Bed Cable Hookup](javascript: void(0)){: .btn .btn-outline .button02 }
 [DC Power](javascript: void(0)){: .btn .btn-outline .button03 }
+[Hide All](javascript: void(0)){: .btn .btn-outline .button99 }
 
 <script>
 document.addEventListener('DOMContentLoaded', function (event) {
@@ -51,6 +52,7 @@ document.addEventListener('DOMContentLoaded', function (event) {
 	var button01 = document.querySelector('.button01');
 	var button02 = document.querySelector('.button02');
 	var button03 = document.querySelector('.button03');
+	var button99 = document.querySelector('.button99');
 
 	gsap.set(wiring, {height: image_00.offsetHeight});
 
@@ -58,6 +60,7 @@ document.addEventListener('DOMContentLoaded', function (event) {
 	button01.addEventListener('click', toggleOpacity);
 	button02.addEventListener('click', toggleOpacity);
 	button03.addEventListener('click', toggleOpacity);
+	button99.addEventListener('click', toggleOpacity);
 
 	function onResize () {
 		gsap.set(wiring, {height: image_00.offsetHeight});
@@ -72,9 +75,9 @@ document.addEventListener('DOMContentLoaded', function (event) {
 
 		switch (target.className) {
 			case "btn btn-outline button00":
-				gsap.to(image_01, {duration: .2, delay: .3, opacity: 1});
-				gsap.to(image_02, {duration: .2, delay: .3, opacity: 1});
-				gsap.to(image_03, {duration: .2, delay: .3, opacity: 1});
+				gsap.to(image_01, {duration: .2, opacity: 1});
+				gsap.to(image_02, {duration: .2, opacity: 1});
+				gsap.to(image_03, {duration: .2, opacity: 1});
 				break;
 			case "btn btn-outline button01":
 				gsap.to(image_01, {duration: .2, delay: .3, opacity: 1});
@@ -90,6 +93,11 @@ document.addEventListener('DOMContentLoaded', function (event) {
 				gsap.to(image_01, {duration: .2, opacity: .1});
 				gsap.to(image_02, {duration: .2, opacity: .1});
 				gsap.to(image_03, {duration: .2, delay: .3, opacity: 1});
+				break;
+			case "btn btn-outline button99":
+				gsap.to(image_01, {duration: .2, opacity: .1});
+				gsap.to(image_02, {duration: .2, opacity: .1});
+				gsap.to(image_03, {duration: .2, opacity: .1});
 				break;
 		}
 	}
