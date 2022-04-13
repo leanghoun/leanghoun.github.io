@@ -7,3 +7,4 @@ docs/.DS_Store
 .DS_Store
 .nova/Configuration.json
 .nova/Tasks/Custom Task.json
+docs/collections/coding/test.md

@@ -3,7 +3,7 @@ layout: default
 title: Slicer Stuff
 parent: Voron Trident
 permalink: /docs/collections/voron-trident/slicer-stuff
-nav_order: 4
+nav_order: 5
 ---
 
 # Slicer Stuff
