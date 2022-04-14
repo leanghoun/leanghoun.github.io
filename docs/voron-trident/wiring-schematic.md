@@ -29,7 +29,7 @@ nav_order: 4
 			<img src="../../../../assets/images/wiring-04-pi.png" id="04-pi" />
 		</div>
 		<div id="image-05" style="display:float;">
-			<img src="../../../../assets/images/wiring-05-spider-power-motion.png" id="05-spider-power-bed" />
+			<img src="../../../../assets/images/wiring-05-spider-power-motion.png" id="05-spider-power-motion" />
 		</div>
 		<div id="image-06" style="display:float;">
 			<img src="../../../../assets/images/wiring-06-spider-hotend.png" id="06-spider-hotend" />
