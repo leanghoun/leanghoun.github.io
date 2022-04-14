@@ -3,7 +3,7 @@ layout: default
 title: Mods & Tweaks
 parent: Voron Trident
 permalink: /docs/collections/voron-trident/mods-tweaks
-nav_order: 3
+nav_order: 4
 ---
 
 # Mods & Tweaks
