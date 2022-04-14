@@ -28,6 +28,15 @@ nav_order: 4
 		<div id="image-04" style="display:float;">
 			<img src="../../../../assets/images/wiring-04-pi.png" id="04-pi" />
 		</div>
+		<div id="image-05" style="display:float;">
+			<img src="../../../../assets/images/wiring-05-spider-power-bed.png" id="05-spider-power-bed" />
+		</div>
+		<div id="image-06" style="display:float;">
+			<img src="../../../../assets/images/wiring-06-spider-hotend.png" id="06-spider-hotend" />
+		</div>
+		<div id="image-07" style="display:float;">
+			<img src="../../../../assets/images/wiring-07-spider-extras.png" id="07-spider-extras" />
+		</div>
 		</section>
 </main>
 
@@ -36,6 +45,9 @@ nav_order: 4
 [Bed Cable Hookup](javascript: void(0)){: .btn .btn-outline .button02 }
 [DC Power](javascript: void(0)){: .btn .btn-outline .button03 }
 [Raspberry Pi](javascript: void(0)){: .btn .btn-outline .button04 }
+[Spider - Power & Bed](javascript: void(0)){: .btn .btn-outline .button05 }
+[Spider - Hotend](javascript: void(0)){: .btn .btn-outline .button06 }
+[Spider - Extras](javascript: void(0)){: .btn .btn-outline .button07 }
 [Hide All](javascript: void(0)){: .btn .btn-outline .button99 }
 
 <script>
@@ -46,12 +58,18 @@ document.addEventListener('DOMContentLoaded', function (event) {
 	var image_02 = document.getElementById('image-02');
 	var image_03 = document.getElementById('image-03');
 	var image_04 = document.getElementById('image-04');
+	var image_05 = document.getElementById('image-05');
+	var image_06 = document.getElementById('image-06');
+	var image_07 = document.getElementById('image-07');
 
 	var button00 = document.querySelector('.button00');
 	var button01 = document.querySelector('.button01');
 	var button02 = document.querySelector('.button02');
 	var button03 = document.querySelector('.button03');
 	var button04 = document.querySelector('.button04');
+	var button05 = document.querySelector('.button05');
+	var button06 = document.querySelector('.button06');
+	var button07 = document.querySelector('.button07');
 	var button99 = document.querySelector('.button99');
 
 	gsap.set(wiring, {height: image_00.offsetHeight});
@@ -61,6 +79,9 @@ document.addEventListener('DOMContentLoaded', function (event) {
 	button02.addEventListener('click', toggleOpacity);
 	button03.addEventListener('click', toggleOpacity);
 	button04.addEventListener('click', toggleOpacity);
+	button05.addEventListener('click', toggleOpacity);
+	button06.addEventListener('click', toggleOpacity);
+	button07.addEventListener('click', toggleOpacity);
 	button99.addEventListener('click', toggleOpacity);
 
 	function onResize () {
@@ -69,6 +90,9 @@ document.addEventListener('DOMContentLoaded', function (event) {
 		gsap.set(image_02, {y: 0-image_00.offsetHeight*2});
 		gsap.set(image_03, {y: 0-image_00.offsetHeight*3});
 		gsap.set(image_04, {y: 0-image_00.offsetHeight*4});
+		gsap.set(image_05, {y: 0-image_00.offsetHeight*5});
+		gsap.set(image_06, {y: 0-image_00.offsetHeight*6});
+		gsap.set(image_07, {y: 0-image_00.offsetHeight*7});
 	}
 
 	function toggleOpacity () {
@@ -81,36 +105,81 @@ document.addEventListener('DOMContentLoaded', function (event) {
 				gsap.to(image_02, {duration: .2, opacity: 1});
 				gsap.to(image_03, {duration: .2, opacity: 1});
 				gsap.to(image_04, {duration: .2, opacity: 1});
+				gsap.to(image_05, {duration: .2, opacity: 1});
+				gsap.to(image_06, {duration: .2, opacity: 1});
+				gsap.to(image_07, {duration: .2, opacity: 1});
 				break;
 			case "btn btn-outline button01":
 				gsap.to(image_01, {duration: .2, opacity: 1});
 				gsap.to(image_02, {duration: .2, opacity: .1});
 				gsap.to(image_03, {duration: .2, opacity: .1});
 				gsap.to(image_04, {duration: .2, opacity: .1});
+				gsap.to(image_05, {duration: .2, opacity: .1});
+				gsap.to(image_06, {duration: .2, opacity: .1});
+				gsap.to(image_07, {duration: .2, opacity: .1});
 				break;
 			case "btn btn-outline button02":
 				gsap.to(image_01, {duration: .2, opacity: .1});
 				gsap.to(image_02, {duration: .2, opacity: 1});
 				gsap.to(image_03, {duration: .2, opacity: .1});
 				gsap.to(image_04, {duration: .2, opacity: .1});
+				gsap.to(image_05, {duration: .2, opacity: .1});
+				gsap.to(image_06, {duration: .2, opacity: .1});
+				gsap.to(image_07, {duration: .2, opacity: .1});
 				break;
 			case "btn btn-outline button03":
 				gsap.to(image_01, {duration: .2, opacity: .1});
 				gsap.to(image_02, {duration: .2, opacity: .1});
 				gsap.to(image_03, {duration: .2, opacity: 1});
 				gsap.to(image_04, {duration: .2, opacity: .1});
+				gsap.to(image_05, {duration: .2, opacity: .1});
+				gsap.to(image_06, {duration: .2, opacity: .1});
+				gsap.to(image_07, {duration: .2, opacity: .1});
 				break;
 			case "btn btn-outline button04":
 				gsap.to(image_01, {duration: .2, opacity: .1});
 				gsap.to(image_02, {duration: .2, opacity: .1});
 				gsap.to(image_03, {duration: .2, opacity: .1});
 				gsap.to(image_04, {duration: .2, opacity: 1});
+				gsap.to(image_05, {duration: .2, opacity: .1});
+				gsap.to(image_06, {duration: .2, opacity: .1});
+				gsap.to(image_07, {duration: .2, opacity: .1});
+				break;
+			case "btn btn-outline button05":
+				gsap.to(image_01, {duration: .2, opacity: .1});
+				gsap.to(image_02, {duration: .2, opacity: .1});
+				gsap.to(image_03, {duration: .2, opacity: .1});
+				gsap.to(image_04, {duration: .2, opacity: .1});
+				gsap.to(image_05, {duration: .2, opacity: 1});
+				gsap.to(image_06, {duration: .2, opacity: .1});
+				gsap.to(image_07, {duration: .2, opacity: .1});
+				break;
+			case "btn btn-outline button06":
+				gsap.to(image_01, {duration: .2, opacity: .1});
+				gsap.to(image_02, {duration: .2, opacity: .1});
+				gsap.to(image_03, {duration: .2, opacity: .1});
+				gsap.to(image_04, {duration: .2, opacity: .1});
+				gsap.to(image_05, {duration: .2, opacity: .1});
+				gsap.to(image_06, {duration: .2, opacity: 1});
+				gsap.to(image_07, {duration: .2, opacity: .1});
+				break;
+			case "btn btn-outline button07":
+				gsap.to(image_01, {duration: .2, opacity: .1});
+				gsap.to(image_02, {duration: .2, opacity: .1});
+				gsap.to(image_03, {duration: .2, opacity: .1});
+				gsap.to(image_04, {duration: .2, opacity: .1});
+				gsap.to(image_05, {duration: .2, opacity: .1});
+				gsap.to(image_06, {duration: .2, opacity: .1});
+				gsap.to(image_07, {duration: .2, opacity: 1});
 				break;
 			case "btn btn-outline button99":
 				gsap.to(image_01, {duration: .2, opacity: .1});
 				gsap.to(image_02, {duration: .2, opacity: .1});
 				gsap.to(image_03, {duration: .2, opacity: .1});
 				gsap.to(image_04, {duration: .2, opacity: .1});
+				gsap.to(image_05, {duration: .2, opacity: .1});
+				gsap.to(image_06, {duration: .2, opacity: .1});
+				gsap.to(image_07, {duration: .2, opacity: .1});
 				break;
 		}
 	}
