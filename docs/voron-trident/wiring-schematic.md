@@ -29,7 +29,7 @@ nav_order: 4
 			<img src="../../../../assets/images/wiring-04-pi.png" id="04-pi" />
 		</div>
 		<div id="image-05" style="display:float;">
-			<img src="../../../../assets/images/wiring-05-spider-power-bed.png" id="05-spider-power-bed" />
+			<img src="../../../../assets/images/wiring-05-spider-power-motion.png" id="05-spider-power-bed" />
 		</div>
 		<div id="image-06" style="display:float;">
 			<img src="../../../../assets/images/wiring-06-spider-hotend.png" id="06-spider-hotend" />
@@ -45,7 +45,7 @@ nav_order: 4
 [Bed Cable Hookup](javascript: void(0)){: .btn .btn-outline .button02 }
 [DC Power](javascript: void(0)){: .btn .btn-outline .button03 }
 [Raspberry Pi](javascript: void(0)){: .btn .btn-outline .button04 }
-[Spider - Power & Bed](javascript: void(0)){: .btn .btn-outline .button05 }
+[Spider - Power & Motion](javascript: void(0)){: .btn .btn-outline .button05 }
 [Spider - Hotend](javascript: void(0)){: .btn .btn-outline .button06 }
 [Spider - Extras](javascript: void(0)){: .btn .btn-outline .button07 }
 [Hide All](javascript: void(0)){: .btn .btn-outline .button99 }
