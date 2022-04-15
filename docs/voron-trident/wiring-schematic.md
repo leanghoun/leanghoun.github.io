@@ -48,7 +48,7 @@ nav_order: 3
 [Spider - Power & Motion](javascript: void(0)){: .btn .btn-outline .button05 }
 [Spider - Hotend](javascript: void(0)){: .btn .btn-outline .button06 }
 [Spider - Extras](javascript: void(0)){: .btn .btn-outline .button07 }
-[Hide All](javascript: void(0)){: .btn .btn-outline .button99 }
+[None](javascript: void(0)){: .btn .btn-outline .button99 }
 
 <script>
 document.addEventListener('DOMContentLoaded', function (event) {
