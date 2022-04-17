@@ -72,6 +72,14 @@ document.addEventListener('DOMContentLoaded', function (event) {
 	var button07 = document.querySelector('.button07');
 	var button99 = document.querySelector('.button99');
 
+	var show01 = true;
+	var show02 = true;
+	var show03 = true;
+	var show04 = true;
+	var show05 = true;
+	var show06 = true;
+	var show07 = true;
+
 	gsap.set(wiring, {height: image_00.offsetHeight});
 
 	button00.addEventListener('click', toggleOpacity);
@@ -97,6 +105,8 @@ document.addEventListener('DOMContentLoaded', function (event) {
 
 	function toggleOpacity () {
 		var target = this;
+		var fade_opacity = .05;
+		var fade_button = .5;
 		<!--console.log(target.className);-->
 
 		switch (target.className) {
@@ -108,78 +118,120 @@ document.addEventListener('DOMContentLoaded', function (event) {
 				gsap.to(image_05, {duration: .2, opacity: 1});
 				gsap.to(image_06, {duration: .2, opacity: 1});
 				gsap.to(image_07, {duration: .2, opacity: 1});
+				gsap.to(button01, {duration: .2, opacity: 1});
+				gsap.to(button02, {duration: .2, opacity: 1});
+				gsap.to(button03, {duration: .2, opacity: 1});
+				gsap.to(button04, {duration: .2, opacity: 1});
+				gsap.to(button05, {duration: .2, opacity: 1});
+				gsap.to(button06, {duration: .2, opacity: 1});
+				gsap.to(button07, {duration: .2, opacity: 1});
+				show01 = true;
+				show02 = true;
+				show03 = true;
+				show04 = true;
+				show05 = true;
+				show06 = true;
+				show07 = true;
 				break;
 			case "btn btn-outline button01":
-				gsap.to(image_01, {duration: .2, opacity: 1});
-				gsap.to(image_02, {duration: .2, opacity: .1});
-				gsap.to(image_03, {duration: .2, opacity: .1});
-				gsap.to(image_04, {duration: .2, opacity: .1});
-				gsap.to(image_05, {duration: .2, opacity: .1});
-				gsap.to(image_06, {duration: .2, opacity: .1});
-				gsap.to(image_07, {duration: .2, opacity: .1});
+				if(show01) {
+					gsap.to(image_01, {duration: .2, opacity: fade_opacity});
+					gsap.to(button01, {duration: .2, opacity: fade_button});
+					show01 = false;
+				} else {
+					gsap.to(image_01, {duration: .2, opacity: 1});
+					gsap.to(button01, {duration: .2, opacity: 1});
+					show01 = true;
+				}
 				break;
 			case "btn btn-outline button02":
-				gsap.to(image_01, {duration: .2, opacity: .1});
-				gsap.to(image_02, {duration: .2, opacity: 1});
-				gsap.to(image_03, {duration: .2, opacity: .1});
-				gsap.to(image_04, {duration: .2, opacity: .1});
-				gsap.to(image_05, {duration: .2, opacity: .1});
-				gsap.to(image_06, {duration: .2, opacity: .1});
-				gsap.to(image_07, {duration: .2, opacity: .1});
+				if(show02) {
+					gsap.to(image_02, {duration: .2, opacity: fade_opacity});
+					gsap.to(button02, {duration: .2, opacity: fade_button});
+					show02 = false;
+				} else {
+					gsap.to(image_02, {duration: .2, opacity: 1});
+					gsap.to(button02, {duration: .2, opacity: 1});
+					show02 = true;
+				}
 				break;
 			case "btn btn-outline button03":
-				gsap.to(image_01, {duration: .2, opacity: .1});
-				gsap.to(image_02, {duration: .2, opacity: .1});
-				gsap.to(image_03, {duration: .2, opacity: 1});
-				gsap.to(image_04, {duration: .2, opacity: .1});
-				gsap.to(image_05, {duration: .2, opacity: .1});
-				gsap.to(image_06, {duration: .2, opacity: .1});
-				gsap.to(image_07, {duration: .2, opacity: .1});
+				if(show03) {
+					gsap.to(image_03, {duration: .2, opacity: fade_opacity});
+					gsap.to(button03, {duration: .2, opacity: fade_button});
+					show03 = false;
+				} else {
+					gsap.to(image_03, {duration: .2, opacity: 1});
+					gsap.to(button03, {duration: .2, opacity: 1});
+					show03 = true;
+				}
 				break;
 			case "btn btn-outline button04":
-				gsap.to(image_01, {duration: .2, opacity: .1});
-				gsap.to(image_02, {duration: .2, opacity: .1});
-				gsap.to(image_03, {duration: .2, opacity: .1});
-				gsap.to(image_04, {duration: .2, opacity: 1});
-				gsap.to(image_05, {duration: .2, opacity: .1});
-				gsap.to(image_06, {duration: .2, opacity: .1});
-				gsap.to(image_07, {duration: .2, opacity: .1});
+				if(show04) {
+					gsap.to(image_04, {duration: .2, opacity: fade_opacity});
+					gsap.to(button04, {duration: .2, opacity: fade_button});
+					show04 = false;
+				} else {
+					gsap.to(image_04, {duration: .2, opacity: 1});
+					gsap.to(button04, {duration: .2, opacity: 1});
+					show04 = true;
+				}
 				break;
 			case "btn btn-outline button05":
-				gsap.to(image_01, {duration: .2, opacity: .1});
-				gsap.to(image_02, {duration: .2, opacity: .1});
-				gsap.to(image_03, {duration: .2, opacity: .1});
-				gsap.to(image_04, {duration: .2, opacity: .1});
-				gsap.to(image_05, {duration: .2, opacity: 1});
-				gsap.to(image_06, {duration: .2, opacity: .1});
-				gsap.to(image_07, {duration: .2, opacity: .1});
+				if(show05) {
+					gsap.to(image_05, {duration: .2, opacity: fade_opacity});
+					gsap.to(button05, {duration: .2, opacity: fade_button});
+					show05 = false;
+				} else {
+					gsap.to(image_05, {duration: .2, opacity: 1});
+					gsap.to(button05, {duration: .2, opacity: 1});
+					show05 = true;
+				}
 				break;
 			case "btn btn-outline button06":
-				gsap.to(image_01, {duration: .2, opacity: .1});
-				gsap.to(image_02, {duration: .2, opacity: .1});
-				gsap.to(image_03, {duration: .2, opacity: .1});
-				gsap.to(image_04, {duration: .2, opacity: .1});
-				gsap.to(image_05, {duration: .2, opacity: .1});
-				gsap.to(image_06, {duration: .2, opacity: 1});
-				gsap.to(image_07, {duration: .2, opacity: .1});
+				if(show06) {
+					gsap.to(image_06, {duration: .2, opacity: fade_opacity});
+					gsap.to(button06, {duration: .2, opacity: fade_button});
+					show06 = false;
+				} else {
+					gsap.to(image_06, {duration: .2, opacity: 1});
+					gsap.to(button06, {duration: .2, opacity: 1});
+					show06 = true;
+				}
 				break;
 			case "btn btn-outline button07":
-				gsap.to(image_01, {duration: .2, opacity: .1});
-				gsap.to(image_02, {duration: .2, opacity: .1});
-				gsap.to(image_03, {duration: .2, opacity: .1});
-				gsap.to(image_04, {duration: .2, opacity: .1});
-				gsap.to(image_05, {duration: .2, opacity: .1});
-				gsap.to(image_06, {duration: .2, opacity: .1});
-				gsap.to(image_07, {duration: .2, opacity: 1});
+				if(show07) {
+					gsap.to(image_07, {duration: .2, opacity: fade_opacity});
+					gsap.to(button07, {duration: .2, opacity: fade_button});
+					show07 = false;
+				} else {
+					gsap.to(image_07, {duration: .2, opacity: 1});
+					gsap.to(button07, {duration: .2, opacity: 1});
+					show07 = true;
+				}
 				break;
 			case "btn btn-outline button99":
-				gsap.to(image_01, {duration: .2, opacity: .1});
-				gsap.to(image_02, {duration: .2, opacity: .1});
-				gsap.to(image_03, {duration: .2, opacity: .1});
-				gsap.to(image_04, {duration: .2, opacity: .1});
-				gsap.to(image_05, {duration: .2, opacity: .1});
-				gsap.to(image_06, {duration: .2, opacity: .1});
-				gsap.to(image_07, {duration: .2, opacity: .1});
+				gsap.to(image_01, {duration: .2, opacity: fade_opacity});
+				gsap.to(image_02, {duration: .2, opacity: fade_opacity});
+				gsap.to(image_03, {duration: .2, opacity: fade_opacity});
+				gsap.to(image_04, {duration: .2, opacity: fade_opacity});
+				gsap.to(image_05, {duration: .2, opacity: fade_opacity});
+				gsap.to(image_06, {duration: .2, opacity: fade_opacity});
+				gsap.to(image_07, {duration: .2, opacity: fade_opacity});
+				gsap.to(button01, {duration: .2, opacity: fade_button});
+				gsap.to(button02, {duration: .2, opacity: fade_button});
+				gsap.to(button03, {duration: .2, opacity: fade_button});
+				gsap.to(button04, {duration: .2, opacity: fade_button});
+				gsap.to(button05, {duration: .2, opacity: fade_button});
+				gsap.to(button06, {duration: .2, opacity: fade_button});
+				gsap.to(button07, {duration: .2, opacity: fade_button});
+				show01 = false;
+				show02 = false;
+				show03 = false;
+				show04 = false;
+				show05 = false;
+				show06 = false;
+				show07 = false;
 				break;
 		}
 	}
