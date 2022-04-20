@@ -92,7 +92,7 @@ To get the LEDs to shine through, I did a filament swap between layers 4 and 5. 
 
 ## Funny Pack
 
-The [Funny Pack](https://github.com/thiagolocatelli/Voron/tree/master/Mods/funny_pack) is based on the [Fanny Pack](https://github.com/oab1/VoronMods/tree/main/v2.2%20Recirculating%20Filter) which is in turn based on the [Nevermore](https://github.com/nevermore3d), this exhaust filter uses dual 5015 fans to circulate air through [activated carbon pellets](https://envirosupply.net/products/4mm-pellet-virgin-coal-activated-carbon-charcoal-for-vapor-filtration-1-lb-bag) ([alternative source](https://www.amazon.com/EnviroSupply-Premium-Bituminous-Activated-Charcoal/dp/B00XNXC70W)). I ended up needing to print mesh inserts to prevent pellets from falling out of the basket.
+The [Funny Pack](https://github.com/thiagolocatelli/Voron/tree/master/Mods/funny_pack) is based on the [Fanny Pack](https://github.com/oab1/VoronMods/tree/main/v2.2%20Recirculating%20Filter) which is in turn based on the [Nevermore](https://github.com/nevermore3d). This exhaust filter uses dual 5015 fans to circulate air through [activated carbon pellets](https://envirosupply.net/products/4mm-pellet-virgin-coal-activated-carbon-charcoal-for-vapor-filtration-1-lb-bag) ([alternative source](https://www.amazon.com/EnviroSupply-Premium-Bituminous-Activated-Charcoal/dp/B00XNXC70W)). Two 1.5" holes need to be cut into the back panel. The printed housing makes for the perfect template to mark where to cut, and going lightly with a 1.5" hole saw with leading drill tip does a pretty good job. The panel will kick and spin during the drilling so clamp it down tight. I ended up needing to print mesh inserts to prevent pellets from falling out of the basket.
 
 ## Titanium Backers
 
