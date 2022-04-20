@@ -167,6 +167,18 @@ Using [StealthBurner beta](https://github.com/VoronDesign/Voron-Afterburner/tree
 - Wires for Clockwork2 NEMA14 motor was not consistent with previous Clockwork1 NEMA17 motor even though both are from StepperOnline. I had to find the proper windings (close-circuit wire pairs) by using a multimeter set to continuity mode and listening for beeping indicating a matched pair.
 - Ran into issues with under extrusion until I realized my new Clockwork2 NEMA14 motor was 0.9° rather than 1.8° like my previous Clockwork1 NEMA17 motor. Changing `full_steps_per_rotation` from `200` to `400` fixed the issue.
 
+## OV5648 and Panzer Observer Camera Mount
+
+For an in-chamber camera, I decided on trying a variant of the [OV5648 camera with manual focus and a slightly wider camera angle](https://www.aliexpress.com/item/32956721812.html) ~~and mounting it under the rear X extrusion on the opposite side from the Z cable chain~~. (The mount is too long to attach to the extrusion where I originally planned. For now, I have it VHB taped to the rear panel in that same area. The perspective is pretty good; I can see the homing and tilt routines, but it's missing part of the bed. For the mount itself, I am using the [Panzer Observer](https://github.com/Slidr666/VoronUsers/tree/master/printer_mods/Slidr/PanzerObserver2.4) for the slim profile, rotation, and minimal hardware. The default cover's square camera cutout was too small for my slightly wider lens, so I modified the CAD file to a circle instead, and removed the other unnecessary cutout.
+
+![OV5648 + Panzer Observer](../../../../assets/images/voron-trident-camera-1.jpg)
+*OV548 + Panzer Observer*
+{: .fs-2 .text-grey-dk-000 }
+
+![OV5648 + Panzer Observer](../../../../assets/images/voron-trident-camera-2.jpg)
+*OV548 + Panzer Observer*
+{: .fs-2 .text-grey-dk-000 }
+
 ## Panel Lockers
 
 These [Panel Lockers](https://github.com/v6cl/My-Voron2.4-Customs/tree/main/Panel_Locker) are print-in-place, work with 1mm-foam-lined side panels, and have good clamping force. Has two drawbacks; (1) one face of the model prints at an angle and catches light badly, and (2) you can't put two lockers on adjacent panels in the same location. Considering replacing them with [this design](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020), that uses filament as a hinge, or [Yeri's Magnetic Clips](https://github.com/Yeriwyn/VoronUsers/tree/V1-and-V2-panels/printer_mods/yeri/V1_V2_Trident_Magnetic_Panels/STL/Trident/300).
