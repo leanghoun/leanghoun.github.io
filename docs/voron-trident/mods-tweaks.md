@@ -179,6 +179,12 @@ For an in-chamber camera, I decided on trying a variant of the [OV5648 camera wi
 *OV548 + Panzer Observer*
 {: .fs-2 .text-grey-dk-000 }
 
+**Update:** I've designed a new mount that will fit within the space, even on a 250mm build. A spacer will extend the mount past the existing gantry printed parts and two screws will go through both mount and spacer to drop-in M3 nuts inside the aluminum extrusion. There is a recess in the mount piece to clear the M5 button heads on the A motor printed part. This setup is flexible and can slide anywhere along that extrusion to fit any Trident build size. On any other extrusion, the mount can be used without the spacer. Cable relief has been removed from the original mount and added to the body of the camera housing. Will print and test it out soon.
+
+![New OV5648 Mount](../../../../assets/images/voron-trident-camera-mount-render.jpg)
+*New OV5648 Mount*
+{: .fs-2 .text-grey-dk-000 }
+
 ## Panel Lockers
 
 These [Panel Lockers](https://github.com/v6cl/My-Voron2.4-Customs/tree/main/Panel_Locker) are print-in-place, work with 1mm-foam-lined side panels, and have good clamping force. Has two drawbacks; (1) one face of the model prints at an angle and catches light badly, and (2) you can't put two lockers on adjacent panels in the same location. Considering replacing them with [this design](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020), that uses filament as a hinge, or [Yeri's Magnetic Clips](https://github.com/Yeriwyn/VoronUsers/tree/V1-and-V2-panels/printer_mods/yeri/V1_V2_Trident_Magnetic_Panels/STL/Trident/300).
