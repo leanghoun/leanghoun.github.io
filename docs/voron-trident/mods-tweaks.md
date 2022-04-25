@@ -225,3 +225,4 @@ I found [Killw2k's LCD Display Tweak - Remaining Time](https://www.reddit.com/r/
   - [4" Inline Duct Fan](https://www.amazon.com/VIVOSUN-Australia-Charcoal-Pre-filter-Reversible/dp/B01DXYMBU6)
   - [HEPA filters](https://www.amazon.com/dp/B088Z7CLKC)
   - [4" Ducting](https://www.amazon.com/dp/B07WW7CY9F)
+* [Pepe Pack](https://github.com/smooshworx/pepe-pack) - Improved Fanny Pack with heatset inserts rather than VHB tape, better wiring channels, finer mesh on filter basket.
