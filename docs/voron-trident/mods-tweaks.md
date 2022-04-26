@@ -173,14 +173,6 @@ For an in-chamber camera, I decided on trying a variant of the [OV5648 camera](h
 
 **Update:** The mount is too long to attach to the extrusion where I originally planned. For now, I have it VHB taped to the rear panel in that same area. The perspective is pretty good; I can see the homing and tilt routines, but it's missing part of the bed.
 
-![OV5648 + VHB](../../../../assets/images/voron-trident-camera-1.jpg)
-*OV548 + VHB*
-{: .fs-2 .text-grey-dk-000 }
-
-![OV5648 + VHB](../../../../assets/images/voron-trident-camera-2.jpg)
-*OV548 + VHB*
-{: .fs-2 .text-grey-dk-000 }
-
 **Update 2:** I've designed a new mount, body, and cover that will fit within the space, even on a 250mm build. The spacer will push the mount past the existing gantry printed parts. The mount has a center slot to accommodate one or two screws that will go through both the mount and spacer to drop-in M3 nuts inside the aluminum extrusion, and the mount has a recess to clear the M5 button heads on the A motor printed part. The overall length of the body and cover have been shortened as much as possible. This setup is flexible and can slide anywhere along that particular extrusion to fit any Trident build size. On any other extrusion, the mount can be used without the spacer. Cable relief has been removed from the original mount and added to the body of the camera housing to keep everything tidy.
 
 ![New OV5648 Mount](../../../../assets/images/voron-trident-camera-mount-render.jpg)
