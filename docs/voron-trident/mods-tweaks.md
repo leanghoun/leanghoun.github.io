@@ -27,7 +27,7 @@ There are various panel latches and magnetic panel clips that offer quick panel 
 
 * Uses a thin strip of VHB to adhere to the panels. This should provide (1) solid adhesion without the need for drilling or extra fasteners, (2) some amount of squish for the magnets to pull against, and (3) ability to adjust or remove in the future.
 
-* The frame magnet inserts are designed to (1) require only printed parts and no additional fasteners aside from the 6x3 magnets, (2) sit inside the frame slot flush against the aluminum frame face, (3) be easily adjustable, and (4) retain the magnets without glue and allow removal for correcting polarity or salvaging. Discord user @PF came up with the idea of using an hammerhead-style rotating nut to tighten and push against the magnet insert, holding it in place.
+* The frame magnet inserts are designed to (1) require only printed parts and no additional fasteners aside from the 6x3 magnets, (2) sit inside the frame slot flush against the aluminum frame face, (3) be easily adjustable, and (4) retain the magnets without glue and allow removal for correcting polarity or salvaging. Discord@PF VT.520 came up with the idea of using an hammerhead-style rotating nut to tighten and push against the magnet insert, holding it in place.
 
 The only required parts are a small amount of VHB tape and a lot of magnets (48 6x3mm magnets for each panel).
 
