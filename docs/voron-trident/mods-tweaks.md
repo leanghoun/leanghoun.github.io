@@ -200,8 +200,32 @@ Fully tightening the M4 screw at the bottom of the pin makes the shaft slightly 
 ## StealthBurner Beta
 
 Using [StealthBurner beta](https://github.com/VoronDesign/Voron-Afterburner/tree/sb-beta/STLs/Stealthburner) and [ClockWork2 beta](https://github.com/VoronDesign/Voron-Afterburner/tree/sb-beta/STLs/Clockwork2).
-- Wires for Clockwork2 NEMA14 motor was not consistent with previous Clockwork1 NEMA17 motor even though both are from StepperOnline. I had to find the proper windings (close-circuit wire pairs) by using a multimeter set to continuity mode and listening for beeping indicating a matched pair.
+- Wire colors for Clockwork2 NEMA14 motor was not consistent with previous Clockwork1 NEMA17 motor even though both are from StepperOnline. I had to find the proper windings (close-circuit wire pairs) by using a multimeter set to continuity mode and listening for beeping indicating a matched pair.
 - Ran into issues with under extrusion until I realized my new Clockwork2 NEMA14 motor was 0.9° rather than 1.8° like my previous Clockwork1 NEMA17 motor. Changing `full_steps_per_rotation` from `200` to `400` fixed the issue.
+
+**Update:** Finally got around to wiring and installing the Neopixels. They really do add a lot of flair to the toolhead.
+
+White
+: Standby
+
+Red
+: Nozzle preheating to or at ABS temp
+
+Blue
+: Nozzle preheating to or at PLA temp
+
+Green
+: Homing
+
+Purple
+: Z-Tilt
+
+Yellow
+: Calibrating mesh
+
+![Stealthburner with Neopixels](../../../../assets/images/voron-trident-toolhead.jpg)
+*Stealthburner with Neopixels*
+{: .fs-2 .text-grey-dk-000 }
 
 ## OV5648 and Panzer Observer Camera Mount
 
