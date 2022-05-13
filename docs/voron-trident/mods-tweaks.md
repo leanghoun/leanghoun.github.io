@@ -17,8 +17,8 @@ nav_order: 4
 
 ## Magnetic Panels with Magnet Inserts
 
-![Magnetic Panels with Magnet Inserts](../../../../assets/images/magnetic-panel-and-inserts-1-full-install.png)
-*Magnetic Panels with Magnet Inserts - Full Install*
+![Magnetic Panels with Magnet Inserts](../../../../assets/images/magnetic-panel-and-inserts-0-installed.png)
+*Magnetic Panels with Magnet Inserts*
 {: .fs-2 .text-grey-dk-000 }
 
 There are various panel latches and magnetic panel clips that offer quick panel removal for swapping between enclosed- and open-chamber printing, but I was not happy with any of the ones I tried. My version fixes a few of the pain points that I ran into while trying some of the existing mods.
@@ -31,7 +31,7 @@ There are various panel latches and magnetic panel clips that offer quick panel 
 
 The only required parts are a small amount of VHB tape and a lot of magnets (48 6x3mm magnets for each panel).
 
-![Magnetic Panels with Magnet Inserts](../../../../assets/images/magnetic-panel-and-inserts-0-magnet-insert.png)
+![Magnetic Panels with Magnet Inserts](../../../../assets/images/magnetic-panel-and-inserts-1-magnet-insert.png)
 *Magnet Inserts*
 {: .fs-2 .text-grey-dk-000 }
 
@@ -39,15 +39,15 @@ The only required parts are a small amount of VHB tape and a lot of magnets (48 
 *Magnet Inserts in Frame 1*
 {: .fs-2 .text-grey-dk-000 }
 
-![Magnetic Panels with Magnet Inserts](../../../../assets/images/magnetic-panel-and-inserts-2-inserts-in-frame-2.png)
+![Magnetic Panels with Magnet Inserts](../../../../assets/images/magnetic-panel-and-inserts-3-inserts-in-frame-2.png)
 *Magnet Inserts in Frame 2*
 {: .fs-2 .text-grey-dk-000 }
 
-![Magnetic Panels with Magnet Inserts](../../../../assets/images/magnetic-panel-and-inserts-3-clips-underside.png)
+![Magnetic Panels with Magnet Inserts](../../../../assets/images/magnetic-panel-and-inserts-4-clips-underside.png)
 *Panel Clips Underside*
 {: .fs-2 .text-grey-dk-000 }
 
-![Magnetic Panels with Magnet Inserts](../../../../assets/images/magnetic-panel-and-inserts-1-full-install.png)
+![Magnetic Panels with Magnet Inserts](../../../../assets/images/magnetic-panel-and-inserts-5-full-install.png)
 *Magnetic Panels with Magnet Inserts - Full Install*
 {: .fs-2 .text-grey-dk-000 }
 
