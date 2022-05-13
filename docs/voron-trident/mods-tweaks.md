@@ -21,13 +21,13 @@ nav_order: 4
 *Magnetic Panels with Magnet Inserts*
 {: .fs-2 .text-grey-dk-000 }
 
-There are various panel latches and magnetic panel clips that offer quick panel removal for swapping between enclosed- and open-chamber printing, but I was not happy with any of the ones I tried. My version fixes a few of the pain points that I ran into while trying some of the existing mods.
+There are various panel latches and magnetic clips that offer quick panel removal for swapping between enclosed- and open-chamber printing, but I was not happy with any of the ones I tried. My version fixes a few of the pain points that I ran into with some of the existing mods.
 
 * Does not require a lot of filament. The corner and midpanel clips were modeled after the stock Trident panel clips and are hollowed appropriately, saving filament and print time.
 
-* Uses a thin strip of VHB to adhere to the panels. This should provide (1) solid adhesion without the need for drilling or extra fasteners, (2) some amount of squish for the magnets to pull against, and (3) ability to adjust or remove in the future.
+* Uses a thin strip of VHB to adhere to the panels. This should provide (1) solid adhesion without the need for drilling or extra fasteners, (2) some amount of squish for the magnets to pull against, and (3) the ability to adjust or remove them in the future.
 
-* The frame magnet inserts are designed to (1) require only printed parts and no additional fasteners aside from the 6x3 magnets, (2) sit inside the frame slot flush against the aluminum frame face, (3) be easily adjustable, and (4) retain the magnets without glue and allow removal for correcting polarity or salvaging. Discord@PF VT.520 came up with the idea of using an hammerhead-style rotating nut to tighten and push against the magnet insert, holding it in place.
+* The frame magnet inserts are designed to (1) require only printed parts and no additional fasteners aside from the 6x3 magnets, (2) sit inside the frame slot flush against the aluminum frame face, (3) be easily adjustable, and (4) retain the magnets without glue and allow removal for correcting polarity or salvaging. Discord@PF VT.520 came up with the idea of using an hammerhead-style rotating nut to tighten and push against the magnet insert, holding it in place. Having the panel sit right up to the face of the frame allows the panels to pop on and off without any interference.
 
 The only required parts are a small amount of VHB tape and a lot of magnets (48 6x3mm magnets for each panel).
 
