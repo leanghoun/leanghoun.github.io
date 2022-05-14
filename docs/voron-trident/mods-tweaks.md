@@ -244,11 +244,11 @@ For an in-chamber camera, I decided on trying a variant of the [OV5648 camera](h
 **Update 3:** The install was a lot fiddlier than I imagined. Tight quarters meant screws kept getting blocked and were tricky to tighten. And the socket head screws did not have enough clearance with the body to allow for tilt adjustment. Luckily the angle it defaulted to is pretty much as good as it can get from that position.
 
 ![OV5648 + New Mount](../../../../assets/images/voron-trident-camera-mount-1.jpg)
-*OV548 + New Mount*
+*OV5648 + New Mount*
 {: .fs-2 .text-grey-dk-000 }
 
 ![OV5648 + New Mount](../../../../assets/images/voron-trident-camera-mount-2.jpg)
-*OV548 + New Mount*
+*OV5648 + New Mount*
 {: .fs-2 .text-grey-dk-000 }
 
 ## Sturdy Handles
