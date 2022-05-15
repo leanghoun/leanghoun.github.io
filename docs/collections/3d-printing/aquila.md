@@ -22,7 +22,7 @@ nav_order: 1
 
 1. Power on the Pi and turn on the printer.
 1. Open [Mainsail](https://aquila.local) in browser.
-1. Use BOOT macro to preheat the bed and perform G28 to home the axis. Wait about 10-15 minutes for bed thermal expansion.
+1. Use BOOT macro to (1) preheat the bed and (2) perform G28 to home the axis. Wait about 10-15 minutes for bed thermal expansion.
 1. If the printer has moved physical locations or hasn't been trammed recently, use SCREWS to tram the bed. See [Macros](#macros) sections for details.
 1. Send gcode from slicer.
 
