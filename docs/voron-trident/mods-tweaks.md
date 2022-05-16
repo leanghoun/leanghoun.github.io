@@ -57,6 +57,12 @@ There are various panel latches and magnetic clips that offer quick panel remova
 *Magnetic Panels with Magnet Inserts - Full Install*
 {: .fs-2 .text-grey-dk-000 }
 
+**Update:** Designed a jig to make installation of corner clips easy.
+
+![Magnetic Panels with Magnet Inserts](../../../../assets/images/magnetic-panel-and-inserts-6-jig.png)
+*Alignment Jig*
+{: .fs-2 .text-grey-dk-000 }
+
 ## Meteyou's GCode Buttons
 
 I like [Meteyou's GCode Buttons](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/meteyou/gcode_buttons) because they use mechanical keyboard switches for satisfying tactility and are simple to light up with embedded 2x3x4 LEDs.
