@@ -29,13 +29,13 @@ nav_order: 1
 ## Swapping Filament
 
 1. Move gantry/toolhead a few inches above bed for safety.
-1. Heat the nozzle to filament-melting temperature (eg, 190C for PLA)
+1. Heat the nozzle to filament-melting temperature (eg, 190C for PLA).
 1. When temperature is reached, use FIL UNLOAD to retract the filament from nozzle to extruder.
 1. Pull extruder tension lever and pull filament out.
 1. Swap spools, pull extruder tension lever, insert filament through extruder gears (should feed into the bowden tube just a bit).
 1. Use FIL LOAD to feed filament from extruder back to nozzle.
 1. Use FIL PURGE to extrude some filament into thin air. Repeat FIL PURGE until old color is gone and new color is ready.
-1. **If not printing immediately, cool nozzle back down.**
+1. **Cool nozzle back down.** Leaving it at this temp for too long will cook any filament in the nozzle.
 
 ## SSH
 
@@ -57,11 +57,17 @@ Moonraker
 
 ### Slicers
 
-SuperSlicer
-: Lots and lots of settings and options. Less beginner friendly. The Aquila can basically use the stock Ender 3v2 profile. The most common slicer for Vorons. Supports sending gcode to Mainsail out of the box. The best printer tuning guide is pretty much written with SuperSlicer in mind. **I use SuperSlicer exclusively now because it has a lot more settings and options, and because of the great print tuning guide, but Cura still does a few things better (like supports and seams).** [Github](https://github.com/supermerill/SuperSlicer), [Releases](https://github.com/supermerill/SuperSlicer/releases), [Adding Preview Images to GCode](https://docs.mainsail.xyz/features/thumbnails), [Andrew Ellis' Tuning Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide)
+The three most popular slicers right now are SuperSlicer, Cura, and PrusaSlicer. SuperSlicer is a fork of PrusaSlicer with some nice additions and is my slicer of choice. Regardless of which slicer you use, when a project is sent to the Aquila, it should call the `[_PRINT_START]` macro and send temperatures for the hotend and bed as parameters. The Aquila will then go through the macro, create a mesh of the required build area, and heat up the nozzle before printing.
 
-Cura
-: A little more beginner friendly, but needs a plugin to send gcode to Mainsail. The Aquila can basically use the stock Ender 3v2 profile, but there are two better ones: [3DPrintSOS](https://www.youtube.com/watch?v=is89LsOwa-4)(see description) and [CHEP](https://www.chepclub.com/cura-profiles.html). **Cura is still better than SuperSlicer at seam placement and supports.** [Download](https://ultimaker.com/software/ultimaker-cura), [How to send Gcode to Mainsail](https://docs.mainsail.xyz/quicktips/slicer-upload#cura-with-octoprint-connect), [Adding Preview Images to GCode](https://docs.mainsail.xyz/features/thumbnails)
+![SuperSlicer](../../../../assets/images/slicer-superslicer.png)
+{: .fs-2 .text-grey-dk-000 }
+
+**SuperSlicer** — Lots and lots of settings and options. Less beginner friendly. The Aquila can basically use the stock Ender 3v2 profile. The most common slicer for Vorons. Supports sending gcode to Mainsail out of the box. The best printer tuning guide is pretty much written with SuperSlicer in mind. **I use SuperSlicer exclusively now because it has a lot more settings and options, and because of the great print tuning guide, but Cura still does a few things better (like supports and seams).** [Github](https://github.com/supermerill/SuperSlicer), [Releases](https://github.com/supermerill/SuperSlicer/releases), [Adding Preview Images to GCode](https://docs.mainsail.xyz/features/thumbnails), [Andrew Ellis' Tuning Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide)
+
+![Ultimaker Cura](../../../../assets/images/slicer-cura.png)
+{: .fs-2 .text-grey-dk-000 }
+
+**Cura** — A little more beginner friendly, but needs a plugin to send gcode to Mainsail. The Aquila can basically use the stock Ender 3v2 profile, but there are two better ones: [3DPrintSOS](https://www.youtube.com/watch?v=is89LsOwa-4)(see description) and [CHEP](https://www.chepclub.com/cura-profiles.html). **Cura is still better than SuperSlicer at seam placement and supports.** [Download](https://ultimaker.com/software/ultimaker-cura), [How to send Gcode to Mainsail](https://docs.mainsail.xyz/quicktips/slicer-upload#cura-with-octoprint-connect), [Adding Preview Images to GCode](https://docs.mainsail.xyz/features/thumbnails)
 
 ### Mechanics
 
@@ -87,7 +93,7 @@ printer.cfg
 macros.cfg
 : I separated the macros into a new file for organization.
 
-### Macros
+### Mainsail Dashboard Macros
 
 BOOT
 : Sets the bed to 60C, then performs a homing routine (G28 in gcode language). This is the first macro I hit when the printer is powered on. I like to let it preheat for about 10-15 minutes prior to any leveling or printing to allow for thermal expansion. A lot of people will preheat both the bed AND the nozzle, but I find that a hot nozzle makes it easy to damage PEI. See the flex plate for evidence T__T.
@@ -107,3 +113,6 @@ SCREWS
 STAGE
 : I didn't know what else to call this macro. It "stages" the bed for easy removal by moving the toolhead to the rear and bed to the front.
 
+### [PRINT_START] & [PRINT_END]
+
+For best practices, slicer's generated gcode should call a [PRINT_START] macro before printing, and a [PRINT_END] macro after completion. These macros can be found in `macros.cfg` and are good places for custom tasks. For the Aquila, I renamed it to [_PRINT_START] (because adding the underscore hides in on the Mainsail dashboard) and it handles the nozzle preheating, probed the required mesh area, and purges a line of filament on the side to prep the nozzle pressure. [_PRINT_END] just moves the nozzle out of the way and the bed forward for easy model viewing and removal.
