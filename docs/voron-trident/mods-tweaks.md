@@ -17,8 +17,12 @@ nav_order: 4
 
 ## Magnetic Panels with Magnet Inserts
 
-![Magnetic Panels with Magnet Inserts](../../../../assets/images/magnetic-panel-and-inserts-0-installed.png)
+![Magnetic Panels with Magnet Inserts](../../../../assets/images/magnetic-panel-and-inserts-0-installed-1.jpg)
 *Magnetic Panels with Magnet Inserts*
+{: .fs-2 .text-grey-dk-000 }
+
+![Magnetic Panels with Magnet Inserts](../../../../assets/images/magnetic-panel-and-inserts-0-installed-2.jpg)
+*Magnetic Panels with Magnet Inserts - Close Up*
 {: .fs-2 .text-grey-dk-000 }
 
 There are various panel latches and magnetic clips that offer quick panel removal for swapping between enclosed- and open-chamber printing, but I was not happy with any of the ones I tried. My version fixes a few of the pain points that I ran into with some of the existing mods.
