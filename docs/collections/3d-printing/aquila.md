@@ -20,13 +20,15 @@ nav_order: 1
 
 ## Quick Start Guide
 
+### Printing
+
 1. Power on the Pi and turn on the printer.
 1. Open [Mainsail](https://aquila.local) in browser.
 1. Use BOOT macro to (1) preheat the bed and (2) perform G28 to home the axis. Wait about 10-15 minutes for bed thermal expansion.
 1. If the printer has moved physical locations or hasn't been trammed recently, use SCREWS to tram the bed. See [Macros](#macros) sections for details.
 1. Send gcode from slicer.
 
-## Swapping Filament
+### Swapping Filament
 
 1. Move gantry/toolhead a few inches above bed for safety.
 1. Heat the nozzle to filament-melting temperature (eg, 190C for PLA).
@@ -37,10 +39,15 @@ nav_order: 1
 1. Use FIL PURGE to extrude some filament into thin air. Repeat FIL PURGE until old color is gone and new color is ready.
 1. **Cool nozzle back down.** Leaving it at this temp for too long will cook any filament in the nozzle.
 
-## SSH
+### SSH
 
 1. Open terminal, `ssh aquila.local -l pi`.
-2. Password is 0212.
+1. Password is 0212.
+
+### References
+
+1. [AndrewEllis93's Printer Tuning Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide) - The most thorough tuning guide I've seen. Very SuperSlicer-oriented.
+1. [Tomb of 3D Printed Horror's Ender 3v2 Setup Video](https://www.youtube.com/watch?v=ABpGXcy-cuI) - The best video on setting up the Aquila. Lots of tips for proper alignments and things to look out for.
 
 ## Glossary
 

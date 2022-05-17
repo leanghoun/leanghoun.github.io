@@ -28,4 +28,3 @@ nav_order: 1
 * [BOM & Costs](https://docs.google.com/spreadsheets/d/19nlv9ndFdrLKIFwBDWHhvT5E2p-6kONis_83c0GkSzI/edit?usp=sharing)
 * Main color: [MatterHackers Build Series Black](https://www.matterhackers.com/store/l/175mm-abs-filament-black-1-kg/sk/MWVCRU99)
 * Accent color: [KVP Graphite](https://www.villageplastics.com/product/abs/)
-* [OpenBuilds Slot Covers](https://openbuildspartstore.com/slot-cover-panel-holder/)
