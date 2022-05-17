@@ -67,7 +67,7 @@ There are various panel latches and magnetic clips that offer quick panel remova
 
 [Download the STL files for my magnetic panels and magnet inserts](../../../../assets/files/magnetic-panels-inserts.zip){: .btn .btn-purple}
 
-## Meteyou's GCode Buttons
+## GCode Buttons
 
 I like [Meteyou's GCode Buttons](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/meteyou/gcode_buttons) because they use mechanical keyboard switches for satisfying tactility and are simple to light up with embedded 2x3x4 LEDs.
 
@@ -95,10 +95,14 @@ The construction of a button consists of four parts; (1) button, (2) mechanical 
 
 I kept the wiring as simple as possible. One con is that, because the LEDs are installed in the switch housing, they are south facing and the lighting is uneven.
 
-**LEDs** - Each mechanical switch has an embedded 3V 2x3x4 LED, with the leads poking out the bottom. The positive leads and negative leads are wired inline, and terminate in a MicroFit connector. Since I just want the LEDs on when the printer is powered, I used the Raspberry Pi's 3V3 power pin and ground pin.
+**LEDs** - Each mechanical switch has an embedded 3V 2x3x4 LED, with the leads poking out the bottom. The positive leads and negative leads are wired inline, and terminate in a MicroFit connector. Since I just want the LEDs on when the printer is powered, I used the Raspberry Pi's 3V3 power pin and ground pin. And, rather than soldering the LED leads directly, I'm using sip sockets as an intermediary. Just like light bulbs and sockets, this makes changing them out in the future a cinch.
 
 ![Skirt Button LED Wiring](../../../../assets/images/skirt-buttons-wiring-leds.jpg)
 *Skirt Button LED Wiring*
+{: .fs-2 .text-grey-dk-000 }
+
+![Skirt Button LED Wiring](../../../../assets/images/skirt-buttons-led-sip-sockets.jpg)
+*Skirt Button Switch and LED Sip Sockets*
 {: .fs-2 .text-grey-dk-000 }
 
 **Mechanical Switches** - Each mechanical switch has two pins; ground and signal. The ground pins don't play a role in the functionality, so all the ground pins can be wired together. The signal pins will each have their own wire so that when pressed, the short can be detected. The 5 wires are then combined in a 5-pin MicroFit. On the other end of each signal wire, they connect to available GPIO ports. I was not able to get this working with the Raspberry Pi's GPIO pins though, and ended up using pins on my Fysetc Spider v1.1.
