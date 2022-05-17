@@ -62,12 +62,14 @@ The three most popular slicers right now are SuperSlicer, Cura, and PrusaSlicer.
 ![SuperSlicer](../../../../assets/images/slicer-superslicer.png)
 {: .fs-2 .text-grey-dk-000 }
 
-**SuperSlicer** — Lots and lots of settings and options. Less beginner friendly. The Aquila can basically use the stock Ender 3v2 profile. The most common slicer for Vorons. Supports sending gcode to Mainsail out of the box. The best printer tuning guide is pretty much written with SuperSlicer in mind. **I use SuperSlicer exclusively now because it has a lot more settings and options, and because of the great print tuning guide, but Cura still does a few things better (like supports and seams).** [Github](https://github.com/supermerill/SuperSlicer), [Releases](https://github.com/supermerill/SuperSlicer/releases), [Adding Preview Images to GCode](https://docs.mainsail.xyz/features/thumbnails), [Andrew Ellis' Tuning Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide)
+SuperSlicer
+: Lots and lots of settings and options. Less beginner friendly. The Aquila can basically use the stock Ender 3v2 profile. The most common slicer for Vorons. Supports sending gcode to Mainsail out of the box. The best printer tuning guide is pretty much written with SuperSlicer in mind. **I use SuperSlicer exclusively now because it has a lot more settings and options, and because of the great print tuning guide, but Cura still does a few things better (like supports and seams).** [Github](https://github.com/supermerill/SuperSlicer), [Releases](https://github.com/supermerill/SuperSlicer/releases), [Adding Preview Images to GCode](https://docs.mainsail.xyz/features/thumbnails), [Andrew Ellis' Tuning Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide)
 
 ![Ultimaker Cura](../../../../assets/images/slicer-cura.png)
 {: .fs-2 .text-grey-dk-000 }
 
-**Cura** — A little more beginner friendly, but needs a plugin to send gcode to Mainsail. The Aquila can basically use the stock Ender 3v2 profile, but there are two better ones: [3DPrintSOS](https://www.youtube.com/watch?v=is89LsOwa-4)(see description) and [CHEP](https://www.chepclub.com/cura-profiles.html). **Cura is still better than SuperSlicer at seam placement and supports.** [Download](https://ultimaker.com/software/ultimaker-cura), [How to send Gcode to Mainsail](https://docs.mainsail.xyz/quicktips/slicer-upload#cura-with-octoprint-connect), [Adding Preview Images to GCode](https://docs.mainsail.xyz/features/thumbnails)
+Cura
+: A little more beginner friendly, but needs a plugin to send gcode to Mainsail. The Aquila can basically use the stock Ender 3v2 profile, but there are two better ones: [3DPrintSOS](https://www.youtube.com/watch?v=is89LsOwa-4)(see description) and [CHEP](https://www.chepclub.com/cura-profiles.html). **Cura is still better than SuperSlicer at seam placement and supports.** [Download](https://ultimaker.com/software/ultimaker-cura), [How to send Gcode to Mainsail](https://docs.mainsail.xyz/quicktips/slicer-upload#cura-with-octoprint-connect), [Adding Preview Images to GCode](https://docs.mainsail.xyz/features/thumbnails)
 
 ### Mechanics
 
