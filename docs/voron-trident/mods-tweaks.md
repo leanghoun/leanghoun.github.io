@@ -27,6 +27,8 @@ nav_order: 4
 
 There are various panel latches and magnetic clips that offer quick panel removal for swapping between enclosed- and open-chamber printing, but I was not happy with any of the ones I tried. My version fixes a few of the pain points that I ran into with some of the existing mods.
 
+* Only designed for 3mm panels + 1mm foam tape + 1mm VHB tape for now.
+
 * Does not require a lot of filament. The corner and mid-panel clips were modeled after the stock Trident panel clips and are similarly hollowed, saving filament and print time.
 
 * Uses a thin strip of VHB to adhere to the panels. This should provide (1) solid adhesion without the need for drilling or extra fasteners, (2) some amount of squish for the magnets to pull against, and (3) the ability to adjust or remove them in the future.
@@ -62,6 +64,8 @@ There are various panel latches and magnetic clips that offer quick panel remova
 ![Magnetic Panels with Magnet Inserts](../../../../assets/images/magnetic-panel-and-inserts-6-jig.png)
 *Alignment Jig*
 {: .fs-2 .text-grey-dk-000 }
+
+[Download the STL files for my magnetic panels and magnet inserts](../../../../assets/files/magnetic-panels-inserts.zip){: .btn .btn-purple}
 
 ## Meteyou's GCode Buttons
 
