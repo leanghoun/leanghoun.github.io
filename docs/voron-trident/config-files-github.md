@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Config Files & GitHub
+title: GitHub & TailScale
 parent: Voron Trident
-permalink: /docs/collections/voron-trident/config-files-github
+permalink: /docs/collections/voron-trident/GitHub & TailScale
 nav_order: 2
 ---
 
-# Config Files & GitHub
+# GitHub & TailScale
 
 ## Creating the Initial Repository
 I've created a [GitHub repository](https://github.com/leanghoun/klipper_config) for my config files. Here are the steps I took.
@@ -62,3 +62,17 @@ Clicking the new GIT BACKUP macro on the Mainsail dashboard should commit all fi
 - `git push` - Pushes all commits to the remote repository.
 - `find . -name .DS_Store -print0 | xargs -0 git rm --ignore-unmatch` - Find and remove all .DS_Store files in repository.
 - `ls -ldF .?*` - Show hidden files and folders.
+
+## TailScale
+
+The easiest way to remotely access Mainsail is by installing a VPN like [TailScale](https://tailscale.com). There are only two requirements; (1) it must be installed on every device within the private network, and (2) the new TailScale IP addresses of remote devices need to be added to moonraker.conf's trusted_clients list.
+
+To view the list of devices and their IP addresses, visit the [TailScale Admin page](https://login.tailscale.com/admin/machines).
+
+### On Raspberry Pi
+1. Install TailScale to the Raspberry Pi with `curl -fsSL https://tailscale.com/install.sh | sh`.
+1. Start the service with `sudo tailscale up`, and it will provide a link for you to authenticate.
+
+### On Other Devices
+Windows, Mac, iPhones, and Android Phones all have a dedicated TailScale app to install and login. Upon login, the IP addresses will be registered.
+
