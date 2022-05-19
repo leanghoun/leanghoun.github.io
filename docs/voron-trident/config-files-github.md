@@ -63,7 +63,7 @@ Clicking the new GIT BACKUP macro on the Mainsail dashboard should commit all fi
 - `find . -name .DS_Store -print0 | xargs -0 git rm --ignore-unmatch` - Find and remove all .DS_Store files in repository.
 - `ls -ldF .?*` - Show hidden files and folders.
 
-## TailScale
+## TailScale VPN for Remote Access
 
 The easiest way to remotely access Mainsail is by installing a VPN like [TailScale](https://tailscale.com). There are only two requirements; (1) it must be installed on every device within the private network, and (2) the new TailScale IP addresses of remote devices need to be added to moonraker.conf's trusted_clients list.
 
