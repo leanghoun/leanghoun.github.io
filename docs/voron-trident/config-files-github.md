@@ -69,6 +69,8 @@ The easiest way to remotely access Mainsail is by installing a VPN like [TailSca
 
 To view the list of devices and their IP addresses, visit the [TailScale Admin page](https://login.tailscale.com/admin/machines).
 
+Also consider [disabling key expirations](https://tailscale.com/kb/1028/key-expiry) to prevent needing to re-authenticate periodically.
+
 ### On Raspberry Pi
 1. Install TailScale to the Raspberry Pi with `curl -fsSL https://tailscale.com/install.sh | sh`.
 1. Start the service with `sudo tailscale up`, and it will provide a link for you to authenticate. The service will then autostart on every boot.
