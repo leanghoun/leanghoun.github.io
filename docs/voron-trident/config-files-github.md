@@ -71,7 +71,7 @@ To view the list of devices and their IP addresses, visit the [TailScale Admin p
 
 ### On Raspberry Pi
 1. Install TailScale to the Raspberry Pi with `curl -fsSL https://tailscale.com/install.sh | sh`.
-1. Start the service with `sudo tailscale up`, and it will provide a link for you to authenticate.
+1. Start the service with `sudo tailscale up`, and it will provide a link for you to authenticate. The service will then autostart on every boot.
 
 ### On Other Devices
 Windows, Mac, iPhones, and Android Phones all have a dedicated TailScale app to install and login. Upon login, the IP addresses will be registered.
