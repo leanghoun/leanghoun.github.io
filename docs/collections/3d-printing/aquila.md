@@ -94,7 +94,7 @@ Bed
 
 ### Config Files
 
-These are stored on the pi in `~/klipper_config/` in case you want to back them up somehow. [I like the macro that runs an automated script to push changes to github.]({{ site.baseurl }}{% link docs/voron-trident/config-files-github.md %})
+These are stored on the pi in `~/klipper_config/` in case you want to back them up somehow. [I like the macro that runs an automated script to push changes to github.]({{ site.baseurl }}{% link docs/voron-trident/github-tailscale.md %})
 
 printer.cfg
 : The main configuration file for the physical printer. Also, anything automatically calculated is stored at the bottom of this file.

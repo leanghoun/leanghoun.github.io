@@ -7,6 +7,13 @@ nav_order: 2
 ---
 
 # GitHub & TailScale
+{: .no_toc }
+
+#### Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Creating the Initial Repository
 I've created a [GitHub repository](https://github.com/leanghoun/klipper_config) for my config files. Here are the steps I took.

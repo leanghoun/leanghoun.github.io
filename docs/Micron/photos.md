@@ -24,7 +24,7 @@ nav_order: 5
 *Printing Begins! - 4*
 {: .fs-2 .text-grey-dk-000 }
 
-Oops. STLs in the Micron Github are for Dragon hotend, while the DFH kit comes with a Dragonfly BMO.
+Oops. STLs in the Micron Github are for Dragon hotend, while the DFH kit comes with a Dragonfly BMO. Need to reprint.
 
 ![Printing Begins Again!](../../../../assets/images/micron-1-oops-printing-begins-again-1.jpg)
 *Printing Begins Again! - 1*
