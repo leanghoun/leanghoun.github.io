@@ -74,14 +74,16 @@ Clicking the new GIT BACKUP macro on the Mainsail dashboard should commit all fi
 
 The easiest way to remotely access Mainsail is by installing a VPN like [TailScale](https://tailscale.com). There are only two requirements; (1) it must be installed on every device within the private network, and (2) the new TailScale IP addresses of remote devices need to be added to moonraker.conf's trusted_clients list under `[authorization]`.
 
-To view the list of devices and their IP addresses, visit the [TailScale Admin page](https://login.tailscale.com/admin/machines).
-
-Also consider [disabling key expirations](https://tailscale.com/kb/1028/key-expiry) to prevent needing to re-authenticate periodically.
+Create an account at [TailScale](https://tailscale.com), then install the service on your Raspberry Pi and devices.
 
 ### On Raspberry Pi
 1. Install TailScale to the Raspberry Pi with `curl -fsSL https://tailscale.com/install.sh | sh`.
 1. Start the service with `sudo tailscale up`, and it will provide a link for you to authenticate. The service will then autostart on every boot.
 
 ### On Other Devices
-Windows, Mac, iPhones, and Android Phones all have a dedicated TailScale app to install and login. Upon login, the IP addresses will be registered.
+1. Windows, Mac, iPhones, and Android Phones all have a dedicated TailScale app to install and login.
+1. Upon login, the IP addresses will be registered.
 
+To view the list of devices and their IP addresses, visit the [TailScale Admin page](https://login.tailscale.com/admin/machines).
+
+Also consider [disabling key expirations](https://tailscale.com/kb/1028/key-expiry) to prevent needing to re-authenticate periodically.
