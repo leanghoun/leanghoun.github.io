@@ -87,3 +87,5 @@ Create an account at [TailScale](https://tailscale.com), then install the servic
 To view the list of devices and their IP addresses, visit the [TailScale Admin page](https://login.tailscale.com/admin/machines).
 
 Also consider [disabling key expirations](https://tailscale.com/kb/1028/key-expiry) to prevent needing to re-authenticate periodically.
+
+To access Mainsail, use TailScale's new IP address for the Raspberry Pi.
