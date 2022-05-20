@@ -42,6 +42,10 @@ Oops. STLs in the Micron Github are for Dragon hotend, while the DFH kit comes w
 *Printing Begins Again! - 4*
 {: .fs-2 .text-grey-dk-000 }
 
+![Printing Begins Again!](../../../../assets/images/micron-1-oops-printing-begins-again-5.jpg)
+*Printing Begins Again! - 5*
+{: .fs-2 .text-grey-dk-000 }
+
 ![More Accent Parts](../../../../assets/images/micron-2-more-accents-1.jpg)
 *More Accent Parts - 1*
 {: .fs-2 .text-grey-dk-000 }
