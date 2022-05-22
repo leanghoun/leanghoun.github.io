@@ -27,7 +27,7 @@ nav_order: 4
 
 There are various panel latches and magnetic clips that offer quick panel removal for swapping between enclosed- and open-chamber printing, but I was not happy with any of the ones I tried. My version fixes a few of the pain points that I ran into with some of the existing mods.
 
-* Only designed for 3mm panels + 1mm foam tape + 1mm VHB tape for now.
+* ~~Only designed for 3mm panels + 1mm foam tape + 1mm VHB tape for now.~~ 6mm versions have been added to the zip file below.
 
 * Does not require a lot of filament. The corner and mid-panel clips were modeled after the stock Trident panel clips and are similarly hollowed, saving filament and print time.
 
