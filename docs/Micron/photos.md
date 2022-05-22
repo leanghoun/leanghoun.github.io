@@ -82,6 +82,14 @@ Oops. STLs in the Micron Github are for Dragon hotend, while the DFH kit comes w
 *These Front Z-Covers Are Hard - 1*
 {: .fs-2 .text-grey-dk-000 }
 
+![Main Colors Initial Test - 1](../../../../assets/images/micron-5-main-colors-initial-test-1.jpg)
+*Main Colors Initial Test - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Main Colors Initial Test - 2](../../../../assets/images/micron-5-main-colors-initial-test-2.jpg)
+*Main Colors Initial Test - 2*
+{: .fs-2 .text-grey-dk-000 }
+
 ![](../../../../assets/images/jpg)
 **
 {: .fs-2 .text-grey-dk-000 }
