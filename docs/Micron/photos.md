@@ -78,6 +78,10 @@ Oops. STLs in the Micron Github are for Dragon hotend, while the DFH kit comes w
 *Even More Accent Parts - 5*
 {: .fs-2 .text-grey-dk-000 }
 
+![Even More Accent Parts](../../../../assets/images/micron-4-these-front-z-covers-are-hard-1.jpg)
+*These Front Z-Covers Are Hard - 1*
+{: .fs-2 .text-grey-dk-000 }
+
 ![](../../../../assets/images/jpg)
 **
 {: .fs-2 .text-grey-dk-000 }
