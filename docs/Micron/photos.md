@@ -9,11 +9,11 @@ nav_order: 5
 # Photos
 
 ![Printing Begins!](../../../../assets/images/micron-0-printing-begins-1.jpg)
-*Printing Begins! - 1*
+*Printing Begins! - 1: Should have disabled tramming and mesh between color swaps. The difference in bed position caused the logo to offset just slightly.*
 {: .fs-2 .text-grey-dk-000 }
 
 ![Printing Begins!](../../../../assets/images/micron-0-printing-begins-2.jpg)
-*Printing Begins! - 2*
+*Printing Begins! - 2: This Fusion Filaments Electrolytic Deuterium is printing incredibly well though!*
 {: .fs-2 .text-grey-dk-000 }
 
 ![Printing Begins!](../../../../assets/images/micron-0-printing-begins-3.jpg)
@@ -24,10 +24,8 @@ nav_order: 5
 *Printing Begins! - 4*
 {: .fs-2 .text-grey-dk-000 }
 
-Oops. STLs in the Micron Github are for Dragon hotend, while the DFH kit comes with a Dragonfly BMO. Need to reprint.
-
 ![Printing Begins Again!](../../../../assets/images/micron-1-oops-printing-begins-again-1.jpg)
-*Printing Begins Again! - 1*
+*Printing Begins Again! - 1: Oops. STLs in the Micron Github are for Dragon hotend, while the DFH kit comes with a Dragonfly BMO. Need to reprint using the toolhead STLs from v0.1 Github. Also a chance to get that logo centered.*
 {: .fs-2 .text-grey-dk-000 }
 
 ![Printing Begins Again!](../../../../assets/images/micron-1-oops-printing-begins-again-2.jpg)
@@ -39,7 +37,7 @@ Oops. STLs in the Micron Github are for Dragon hotend, while the DFH kit comes w
 {: .fs-2 .text-grey-dk-000 }
 
 ![Printing Begins Again!](../../../../assets/images/micron-1-oops-printing-begins-again-4.jpg)
-*Printing Begins Again! - 4*
+*Printing Begins Again! - 4: Very pleased!*
 {: .fs-2 .text-grey-dk-000 }
 
 ![Printing Begins Again!](../../../../assets/images/micron-1-oops-printing-begins-again-5.jpg)
@@ -79,15 +77,15 @@ Oops. STLs in the Micron Github are for Dragon hotend, while the DFH kit comes w
 {: .fs-2 .text-grey-dk-000 }
 
 ![Even More Accent Parts](../../../../assets/images/micron-4-these-front-z-covers-are-hard-1.jpg)
-*These Front Z-Covers Are Hard - 1*
+*These Front Z-Covers Are Hard - 1: Had to reprint these due to the seam landing on the curved overhang. Aligned the infill angles to follow the Voron logo on the first layer as well.*
 {: .fs-2 .text-grey-dk-000 }
 
 ![Main Colors Initial Test - 1](../../../../assets/images/micron-5-main-colors-initial-test-1.jpg)
-*Main Colors Initial Test - 1*
+*Main Colors Initial Test - 1: KVP Industrial Gray. Came with a bit more shine than I had hoped.*
 {: .fs-2 .text-grey-dk-000 }
 
 ![Main Colors Initial Test - 2](../../../../assets/images/micron-5-main-colors-initial-test-2.jpg)
-*Main Colors Initial Test - 2*
+*Main Colors Initial Test - 2: Kinda disappointed at the roughness of this filament. The slight gloss makes it an unforgiving. Almost as rough as titanium whites.*
 {: .fs-2 .text-grey-dk-000 }
 
 ![](../../../../assets/images/jpg)
