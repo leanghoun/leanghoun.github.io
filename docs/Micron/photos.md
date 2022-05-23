@@ -88,6 +88,14 @@ nav_order: 5
 *Main Colors Initial Test - 2: Kinda disappointed at the roughness of this filament. The slight gloss makes it an unforgiving. Almost as rough as titanium whites.*
 {: .fs-2 .text-grey-dk-000 }
 
+![Main Colors Initial Test - 3](../../../../assets/images/micron-5-main-colors-initial-test-3.jpg)
+*Main Colors Initial Test - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![Main Colors Initial Test - 4](../../../../assets/images/micron-5-main-colors-initial-test-4.jpg)
+*Main Colors Initial Test - 4: Yeah, the gloss reflects light too much. Shows at certain angles very poorly.*
+{: .fs-2 .text-grey-dk-000 }
+
 ![](../../../../assets/images/jpg)
 **
 {: .fs-2 .text-grey-dk-000 }
