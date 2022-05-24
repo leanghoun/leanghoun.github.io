@@ -42,11 +42,11 @@ There are various panel latches and magnetic clips that offer quick panel remova
 {: .fs-2 .text-grey-dk-000 }
 
 ![Magnetic Panels with Magnet Inserts](../../../../assets/images/magnetic-panel-and-inserts-2-inserts-in-frame-1.png)
-*Magnet Inserts in Frame 1*
+*Magnet Inserts in Frame - 1*
 {: .fs-2 .text-grey-dk-000 }
 
 ![Magnetic Panels with Magnet Inserts](../../../../assets/images/magnetic-panel-and-inserts-3-inserts-in-frame-2.png)
-*Magnet Inserts in Frame 2*
+*Magnet Inserts in Frame - 2*
 {: .fs-2 .text-grey-dk-000 }
 
 ![Magnetic Panels with Magnet Inserts](../../../../assets/images/magnetic-panel-and-inserts-4-clips-underside.png)

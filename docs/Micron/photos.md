@@ -3,7 +3,7 @@ layout: default
 title: Photos
 parent: Micron
 permalink: /docs/collections/micron/photos
-nav_order: 5
+nav_order: 2
 ---
 
 # Photos
