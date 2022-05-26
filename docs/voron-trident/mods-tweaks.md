@@ -259,6 +259,12 @@ Yellow
 *Stealthburner with Neopixels*
 {: .fs-2 .text-grey-dk-000 }
 
+### Julianschill's Klipper LED Effects
+* [Installation Instructions](https://github.com/julianschill/klipper-led_effect)
+* [Documentation](https://github.com/julianschill/klipper-led_effect/blob/master/docs/LED_Effect.md)
+
+Giving this library a shot. The default macros for Stealthburner's neopixels are thorough, but only offer on/off states. This library has special effects like breathing and fades.
+
 ## OV5648 and Panzer Observer Camera Mount
 
 For an in-chamber camera, I decided on trying a variant of the [OV5648 camera](https://www.aliexpress.com/item/32956721812.html) with manual focus and a slightly wider camera angle and mounting it under the rear X extrusion on the opposite side from the Z cable chain. For the mount itself, I am using the [Panzer Observer](https://github.com/Slidr666/VoronUsers/tree/master/printer_mods/Slidr/PanzerObserver2.4) for the slim profile, rotation, and minimal hardware. The default cover's square camera cutout was too small for my slightly wider lens, so I modified the CAD file to a circle instead, and removed the other unnecessary cutout.

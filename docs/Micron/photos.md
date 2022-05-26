@@ -8,40 +8,24 @@ nav_order: 2
 
 # Photos
 
-![Printing Begins!](../../../../assets/images/micron-0-printing-begins-1.jpg)
-*Printing Begins! - 1: Should have disabled tramming and mesh between color swaps. The difference in bed position caused the logo to offset just slightly.*
-{: .fs-2 .text-grey-dk-000 }
-
-![Printing Begins!](../../../../assets/images/micron-0-printing-begins-2.jpg)
-*Printing Begins! - 2: This Fusion Filaments Electrolytic Deuterium is printing incredibly well though!*
-{: .fs-2 .text-grey-dk-000 }
-
-![Printing Begins!](../../../../assets/images/micron-0-printing-begins-3.jpg)
-*Printing Begins! - 3*
-{: .fs-2 .text-grey-dk-000 }
-
-![Printing Begins!](../../../../assets/images/micron-0-printing-begins-4.jpg)
-*Printing Begins! - 4*
-{: .fs-2 .text-grey-dk-000 }
-
 ![Printing Begins Again!](../../../../assets/images/micron-1-oops-printing-begins-again-1.jpg)
-*Printing Begins Again! - 1: Oops. STLs in the Micron Github are for Dragon hotend, while the DFH kit comes with a Dragonfly BMO. Need to reprint using the toolhead STLs from v0.1 Github. Also a chance to get that logo centered.*
+*Printing Begins! - 1*
 {: .fs-2 .text-grey-dk-000 }
 
 ![Printing Begins Again!](../../../../assets/images/micron-1-oops-printing-begins-again-2.jpg)
-*Printing Begins Again! - 2*
+*Printing Begins! - 2*
 {: .fs-2 .text-grey-dk-000 }
 
 ![Printing Begins Again!](../../../../assets/images/micron-1-oops-printing-begins-again-3.jpg)
-*Printing Begins Again! - 3*
+*Printing Begins! - 3*
 {: .fs-2 .text-grey-dk-000 }
 
 ![Printing Begins Again!](../../../../assets/images/micron-1-oops-printing-begins-again-4.jpg)
-*Printing Begins Again! - 4: Very pleased!*
+*Printing Begins! - 4: Very pleased!*
 {: .fs-2 .text-grey-dk-000 }
 
 ![Printing Begins Again!](../../../../assets/images/micron-1-oops-printing-begins-again-5.jpg)
-*Printing Begins Again! - 5*
+*Printing Begins! - 5*
 {: .fs-2 .text-grey-dk-000 }
 
 ![More Accent Parts](../../../../assets/images/micron-2-more-accents-1.jpg)
@@ -94,6 +78,14 @@ nav_order: 2
 
 ![Main Colors Initial Test - 4](../../../../assets/images/micron-5-main-colors-initial-test-4.jpg)
 *Main Colors Initial Test - 4: Yeah, the gloss reflects light too much. Shows at certain angles very poorly.*
+{: .fs-2 .text-grey-dk-000 }
+
+![No-Drop Nut Inserts & Alignment Tools](../../../../assets/images/micron-6-no-drop-nuts-tools-1.jpg)
+*No-Drop Nut Inserts & Alignment Tools: MatterHackers Build Series Natural*
+{: .fs-2 .text-grey-dk-000 }
+
+![No-Drop Nut Inserts & Alignment Tools](../../../../assets/images/micron-6-no-drop-nuts-tools-2.jpg)
+*No-Drop Nut Inserts*
 {: .fs-2 .text-grey-dk-000 }
 
 ![](../../../../assets/images/jpg)
