@@ -25,7 +25,7 @@ nav_order: 4
 *Magnetic Panels with Magnet Inserts - Close Up*
 {: .fs-2 .text-grey-dk-000 }
 
-There are various panel latches and magnetic clips that offer quick panel removal for swapping between enclosed- and open-chamber printing, but I was not happy with any of the ones I tried. My version fixes a few of the pain points that I ran into with some of the existing mods.
+There are various panel latches and magnetic clips that offer quick panel removal for swapping between enclosed- and open-chamber printing, but I wanted to fix a few of the pain points that I ran into with some of the existing mods.
 
 * Does not require a lot of filament. The corner and mid-panel clips were modeled after the stock Trident panel clips and are similarly hollowed, saving filament and print time.
 

@@ -69,7 +69,7 @@ nav_order: 2
 {: .fs-2 .text-grey-dk-000 }
 
 ![Main Colors Initial Test - 2](../../../../assets/images/micron-5-main-colors-initial-test-2.jpg)
-*Main Colors Initial Test - 2: Kinda disappointed at the roughness of this filament. The slight gloss makes it an unforgiving. Almost as rough as titanium whites.*
+*Main Colors Initial Test - 2: Kinda disappointed at the roughness of this filament. The slight gloss makes it unforgiving. Almost as rough as titanium whites.*
 {: .fs-2 .text-grey-dk-000 }
 
 ![Main Colors Initial Test - 3](../../../../assets/images/micron-5-main-colors-initial-test-3.jpg)

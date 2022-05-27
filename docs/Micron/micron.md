@@ -23,4 +23,11 @@ Documentation related to my Micron.
 * Kit - [DFH Powder-coated White Micron](https://deepfriedhero.in/products/micron-kit)
 * Filament 1 - [Fusion Filament's Electrolytic Deuterium](https://fusionfilaments.com/collections/abs-1-5-filament/products/abs1-5-filament-electrolytic-deuterium)
 * Filament 2 - [KVP Industrial Gray](https://www.villageplastics.com/color/industrial-gray/)
+
+## Upgrades & Add-ons
+
 * Aluminum Bed - [PrecisePrinterParts v0 Bed](https://preciseprinterparts.com/Voron-V0-Cast-Aluminum-Printer-Bed-120mm_p_38.html)
+* Stainless Steel Fasteners - [West3D BDF Fasteners Kit for Mcron](https://west3d.com/products/west3d-stainless-steel-fastener-kit-for-micron-bdf)
+* Titanium Backers - [DFH](https://deepfriedhero.in/products/micron-backers)
+* Titanium Nut Bars - [DFH](https://deepfriedhero.in/products/1515-extrusion-t-nut-bars)
+* Blue Manganese Flex Plate - [DFH](https://deepfriedhero.in/products/blue-manganese-steel-blank-pei-spring-steel-sheets)
