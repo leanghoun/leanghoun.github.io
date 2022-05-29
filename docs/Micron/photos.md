@@ -101,6 +101,10 @@ nav_order: 2
 *Prepping Rails - 3: Re-assembled the carriages and rails, moved the carriages back and forth along the entire lengths to ensure good spread of the white lithium.*
 {: .fs-2 .text-grey-dk-000 }
 
+![Main Colors FF Mushroom Cloud Gray - 1](../../../../assets/images/micron-8-ff-mushroom-cloud-gray-1.jpg)
+*Main Colors FF Mushroom Cloud Gray - 1: Soo much better than glossy gray. This one is great! I also ordered their sparkly matte Thorium Thilver, but I think this non-sparkly matte Mushroom Cloud Gray will let Electrolytic Deuterium really stand out.*
+{: .fs-2 .text-grey-dk-000 }
+
 ![](../../../../assets/images/jpg)
 **
 {: .fs-2 .text-grey-dk-000 }
