@@ -23,7 +23,7 @@ nav_order: 1
 
 The DFH Micron kit comes with all the required fasteners, but it comes in a mix of black oxide and stainless steel, some in resealable zip pouches and others in tear pouches. With the colors I chose (Fusion Filaments' Electrolytic Deuterium and Mushroom Cloud Gray), I wanted the lighter color of stainless steel so I bought a set of West3D's "Best Damn Fasteners" for the Micron. They really are great!
 
-Organize the screws. Left column contains West3D's "Best Damn Fasteners", sorted from smallest to largest. Middle column contains the stock fasteners from DFH's kit, a mixture of black oxide and stainless steel. Right columns hold nuts, shims/washers, heatset inserts, etc.
+Organize the screws. Left column contains West3D's "Best Damn Fasteners", sorted from smallest to largest. Middle column contains the stock fasteners from DFH's kit. Right columns hold nuts, shims/washers, heatset inserts, etc.
 
 ## Prepping the Rails
 
