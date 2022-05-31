@@ -31,7 +31,7 @@ Organize the screws. Left column contains West3D's "Best Damn Fasteners", sorted
 *Prepping Rails - 1*
 {: .fs-2 .text-grey-dk-000 }
 
-Flush the rails and carriages with some isopropyl alcohol and use the itty bitty allen key to push a bit of paper towel through the rails' grooves. Spray a bit of white lithium grease into the carriages' ball bearings until they are all coated, but not sopping wet. Add a bit of white lithium grease to the rails' grooves and spread and coat the rail to prevent rust.
+Flush the rails and carriages with some isopropyl alcohol and use the itty bitty allen key to push a bit of paper towel through the rails' grooves. Spray a bit of white lithium grease into the carriages' ball bearings until they are all coated, but not sopping wet. Add a bit of white lithium grease to the rails' grooves, and spread and coat the rail to prevent rust.
 
 ![Prepping Rails - 2](../../../../assets/images/micron-7-prepping-rails-2.jpg)
 *Prepping Rails - 2*
