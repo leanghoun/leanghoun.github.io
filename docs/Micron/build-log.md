@@ -21,7 +21,7 @@ nav_order: 1
 *Fasteners Organized*
 {: .fs-2 .text-grey-dk-000 }
 
-The DFH Micron kit comes with all the required fasteners, but it comes in a mix of black oxide and stainless steel, some in resealable zip pouches and others in tear pouches. With the colors I chose (Fusion Filaments' Electrolytic Deuterium and Mushroom CLoud Gray), I wanted the lighter color of stainless steel so I bought a set of West3D's "Best Damn Fasteners" for the Micron. They look great!
+The DFH Micron kit comes with all the required fasteners, but it comes in a mix of black oxide and stainless steel, some in resealable zip pouches and others in tear pouches. With the colors I chose (Fusion Filaments' Electrolytic Deuterium and Mushroom Cloud Gray), I wanted the lighter color of stainless steel so I bought a set of West3D's "Best Damn Fasteners" for the Micron. They really are great!
 
 Organized the screws. Left column contains West3D's Stainless Steel "Best Damn Fasteners" for Micron, sorted from smallest to largest. Middle column contains the stock fasteners from DFH's kit, a mixture of black oxide and stainless steel. Right columns hold nuts, shims/washers, heatset inserts, etc.
 
@@ -47,14 +47,14 @@ Re-assemble the carriages and rails, move the carriages back and forth along the
 
 Slide a nut bar into the aluminum slot. Use a small allen key to push as necessary.
 
-![Insert Nut Bars](../../../../assets/images/micron-12-z-rail-1-insert-nut-bars.jpg)
-*Insert Nut Bars*
+![Insert Nut Bar into Extrusion](../../../../assets/images/micron-12-z-rail-1-insert-nut-bars.jpg)
+*Insert Nut Bar into Extrusion*
 {: .fs-2 .text-grey-dk-000 }
 
 Align the MGN7 linear rails so that the holes line up to the nut bar. Add two M2x6 SHCS to the ends and lightly screw them in.
 
-![Insert Nut Bars](../../../../assets/images/micron-12-z-rail-2-add-end-screws.jpg)
-*Insert Nut Bars*
+![Place the MGN7 Linear Rail](../../../../assets/images/micron-12-z-rail-2-add-end-screws.jpg)
+*Place the MGN7 Linear Rail*
 {: .fs-2 .text-grey-dk-000 }
 
 Attach the printed jigs to both ends of the linear rail and ensure they are flat against a surface. This will center the rail and set it ~36mm from the end of the aluminum extrusion.
@@ -71,7 +71,7 @@ Add the remaining screws. I like to start on the ends and work my way to the cen
 
 Slide in M3 nuts from both ends of the aluminum extrusion and secure the printed end stops with M3x8 BHCS.
 
-![Prepping Rails - 3](../../../../assets/images/micron-12-z-rail-5-add-rail-stops.jpg)
-*Prepping Rails - 3*
+![Add the Rail Stops](../../../../assets/images/micron-12-z-rail-5-add-rail-stops.jpg)
+*Add the Rail Stops*
 {: .fs-2 .text-grey-dk-000 }
 
