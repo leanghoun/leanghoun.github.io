@@ -65,20 +65,16 @@ nav_order: 2
 *These Front Z-Covers Are Hard - 1: Had to reprint these due to the seam landing on the curved overhang. Aligned the infill angles to follow the Voron logo on the first layer as well.*
 {: .fs-2 .text-grey-dk-000 }
 
-![Main Colors Initial Test - 1](../../../../assets/images/micron-5-main-colors-initial-test-1.jpg)
-*Main Colors Initial Test - 1: KVP Industrial Gray. Came with a bit more shine than I had hoped.*
+![Main Colors FF Mushroom Cloud Gray - 1](../../../../assets/images/micron-8-ff-mushroom-cloud-gray-1.jpg)
+*Main Colors FF Mushroom Cloud Gray - 1: Soo much better than glossy gray. This one is great! I also ordered their sparkly matte Thorium Thilver, but I think this non-sparkly matte Mushroom Cloud Gray will let Electrolytic Deuterium really stand out.*
 {: .fs-2 .text-grey-dk-000 }
 
-![Main Colors Initial Test - 2](../../../../assets/images/micron-5-main-colors-initial-test-2.jpg)
-*Main Colors Initial Test - 2: Kinda disappointed at the roughness of this filament. The slight gloss makes it unforgiving. Almost as rough as titanium whites.*
+![Main Colors FF Mushroom Cloud Gray - 2](../../../../assets/images/micron-8-ff-mushroom-cloud-gray-2.jpg)
+*Main Colors Z-Motor Mounts - 2*
 {: .fs-2 .text-grey-dk-000 }
 
-![Main Colors Initial Test - 3](../../../../assets/images/micron-5-main-colors-initial-test-3.jpg)
-*Main Colors Initial Test - 3*
-{: .fs-2 .text-grey-dk-000 }
-
-![Main Colors Initial Test - 4](../../../../assets/images/micron-5-main-colors-initial-test-4.jpg)
-*Main Colors Initial Test - 4: Yeah, the gloss reflects light too much. Shows at certain angles very poorly.*
+![Main Colors FF Mushroom Cloud Gray - 3](../../../../assets/images/micron-8-ff-mushroom-cloud-gray-3.jpg)
+*Main Colors Z-Motor Mounts - 3*
 {: .fs-2 .text-grey-dk-000 }
 
 ![No-Drop Nut Inserts & Alignment Tools](../../../../assets/images/micron-6-no-drop-nuts-tools-1.jpg)
@@ -101,16 +97,44 @@ nav_order: 2
 *Prepping Rails - 3: Re-assembled the carriages and rails, moved the carriages back and forth along the entire lengths to ensure good spread of the white lithium.*
 {: .fs-2 .text-grey-dk-000 }
 
-![Main Colors FF Mushroom Cloud Gray - 1](../../../../assets/images/micron-8-ff-mushroom-cloud-gray-1.jpg)
-*Main Colors FF Mushroom Cloud Gray - 1: Soo much better than glossy gray. This one is great! I also ordered their sparkly matte Thorium Thilver, but I think this non-sparkly matte Mushroom Cloud Gray will let Electrolytic Deuterium really stand out.*
+![Fasteners Organized](../../../../assets/images/micron-11-fasteners-organized.jpg)
+*Fasteners Organized: Organize the screws. Left column contains West3D's Stainless Steel "Best Damn Fasteners" for Micron, sorted from smallest to largest. Middle column contains the stock fasteners from DFH's kit, a mixture of black oxide and stainless steel. Right columns hold nuts, shims/washers, heatset inserts, etc.*
 {: .fs-2 .text-grey-dk-000 }
 
-![Main Colors FF Mushroom Cloud Gray - 2](../../../../assets/images/micron-8-ff-mushroom-cloud-gray-2.jpg)
-*Main Colors Z-Motor Mounts - 2*
+![](../../../../assets/images/micron-10-white-extrusions-1.jpg)
+*White Powder-Coated Extrusions - 1*
 {: .fs-2 .text-grey-dk-000 }
 
-![FF Mushroom Cloud Gray vs KVP Industrial Gray](../../../../assets/images/micron-9-kvp-industrial-gray-v-ff-mushroom-cloud-gray.jpg)
-*FF Mushroom Cloud Gray vs KVP Industrial Gray: You can see how much the gloss in KVP Industrial Gray emphasizes print imperfections.*
+![](../../../../assets/images/micron-10-white-extrusions-2.jpg)
+*White Powder-Coated Extrusions - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![](../../../../assets/images/micron-10-white-extrusion-nut-bar.jpg)
+*Extrusion With a Nut Bar*
+{: .fs-2 .text-grey-dk-000 }
+
+![Insert Nut Bar into Extrusion](../../../../assets/images/micron-12-z-rail-1-insert-nut-bars.jpg)
+*Insert Nut Bar into Extrusion*
+{: .fs-2 .text-grey-dk-000 }
+
+![Place the MGN7 Linear Rail](../../../../assets/images/micron-12-z-rail-2-add-end-screws.jpg)
+*Place the MGN7 Linear Rail*
+{: .fs-2 .text-grey-dk-000 }
+
+![Printed Jig for Spacing](../../../../assets/images/micron-12-z-rail-3-use-jig-against-flat-surface.jpg)
+*Printed Jig for Spacing*
+{: .fs-2 .text-grey-dk-000 }
+
+![Add the Remaining Screws](../../../../assets/images/micron-12-z-rail-4-use-second-jig-and-tighten-screws.jpg)
+*Add the Remaining Screws*
+{: .fs-2 .text-grey-dk-000 }
+
+![Add the Rail Stops](../../../../assets/images/micron-12-z-rail-5-add-rail-stops.jpg)
+*Add the Rail Stops*
+{: .fs-2 .text-grey-dk-000 }
+
+![](../../../../assets/images/jpg)
+**
 {: .fs-2 .text-grey-dk-000 }
 
 ![](../../../../assets/images/jpg)
