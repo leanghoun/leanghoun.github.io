@@ -2,7 +2,7 @@
 layout: default
 title: References & BOM
 parent: Voron Trident
-permalink: /docs/collections/voron-trident/references-bom
+permalink: /docs/voron-trident/references-bom
 nav_order: 1
 ---
 

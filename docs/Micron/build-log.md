@@ -2,7 +2,7 @@
 layout: default
 title: Build Log
 parent: Micron
-permalink: /docs/collections/micron/build-log
+permalink: /docs/micron/build-log
 nav_order: 1
 ---
 

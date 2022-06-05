@@ -2,7 +2,7 @@
 layout: default
 title: GitHub & TailScale
 parent: Voron Trident
-permalink: /docs/collections/voron-trident/GitHub & TailScale
+permalink: /docs/voron-trident/GitHub & TailScale
 nav_order: 2
 ---
 

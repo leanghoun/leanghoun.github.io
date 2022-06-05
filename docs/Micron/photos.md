@@ -2,7 +2,7 @@
 layout: default
 title: Photos
 parent: Micron
-permalink: /docs/collections/micron/photos
+permalink: /docs/micron/photos
 nav_order: 2
 ---
 
@@ -77,6 +77,10 @@ nav_order: 2
 *Main Colors Z-Motor Mounts - 3*
 {: .fs-2 .text-grey-dk-000 }
 
+![Main Colors FF Mushroom Cloud Gray - 4](../../../../assets/images/micron-8-ff-mushroom-cloud-gray-4.jpg)
+*Main Colors Z-Motor Mounts - 4*
+{: .fs-2 .text-grey-dk-000 }
+
 ![No-Drop Nut Inserts & Alignment Tools](../../../../assets/images/micron-6-no-drop-nuts-tools-1.jpg)
 *No-Drop Nut Inserts & Alignment Tools: MatterHackers Build Series Natural*
 {: .fs-2 .text-grey-dk-000 }
@@ -133,8 +137,68 @@ nav_order: 2
 *Add the Rail Stops*
 {: .fs-2 .text-grey-dk-000 }
 
-![](../../../../assets/images/jpg)
-**
+![Frame Assembly - 1](../../../../assets/images/micron-13-frame-1.jpg)
+*Frame Assembly - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Frame Assembly - 2](../../../../assets/images/micron-13-frame-2.jpg)
+*Frame Assembly - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![Frame Assembly - 3](../../../../assets/images/micron-13-frame-3.jpg)
+*Frame Assembly - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![Frame Assembly - 4](../../../../assets/images/micron-13-frame-4.jpg)
+*Frame Assembly - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+![Frame Assembly - 5](../../../../assets/images/micron-13-frame-5.jpg)
+*Frame Assembly - 5*
+{: .fs-2 .text-grey-dk-000 }
+
+![Frame Assembly - 6](../../../../assets/images/micron-13-frame-6.jpg)
+*Frame Assembly - 6*
+{: .fs-2 .text-grey-dk-000 }
+
+![Frame Assembly - 7](../../../../assets/images/micron-13-frame-7.jpg)
+*Frame Assembly - 7*
+{: .fs-2 .text-grey-dk-000 }
+
+![Frame Assembly - 8](../../../../assets/images/micron-13-frame-8.jpg)
+*Frame Assembly - 8*
+{: .fs-2 .text-grey-dk-000 }
+
+![Frame Assembly - 9](../../../../assets/images/micron-13-frame-9.jpg)
+*Frame Assembly - 9*
+{: .fs-2 .text-grey-dk-000 }
+
+![Frame Assembly - 10](../../../../assets/images/micron-13-frame-10.jpg)
+*Frame Assembly - 10*
+{: .fs-2 .text-grey-dk-000 }
+
+![Frame Assembly - 11](../../../../assets/images/micron-13-frame-11.jpg)
+*Frame Assembly - 11*
+{: .fs-2 .text-grey-dk-000 }
+
+![Frame Assembly - 12](../../../../assets/images/micron-13-frame-12.jpg)
+*Frame Assembly - 12*
+{: .fs-2 .text-grey-dk-000 }
+
+![Frame Assembly - 13](../../../../assets/images/micron-13-frame-13.jpg)
+*Frame Assembly - 13*
+{: .fs-2 .text-grey-dk-000 }
+
+![Frame Assembly - 14](../../../../assets/images/micron-13-frame-14.jpg)
+*Frame Assembly - 14*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Joints - 1](../../../../assets/images/micron-14-z-joints-1.jpg)
+*Z Joints - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Joints - 2](../../../../assets/images/micron-14-z-joints-2.jpg)
+*Z Joints - 2*
 {: .fs-2 .text-grey-dk-000 }
 
 ![](../../../../assets/images/jpg)
