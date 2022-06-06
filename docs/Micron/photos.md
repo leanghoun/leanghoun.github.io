@@ -201,6 +201,82 @@ nav_order: 2
 *Z Joints - 2*
 {: .fs-2 .text-grey-dk-000 }
 
+![Printed Deck - 1](../../../../assets/images/micron-15-printed-panels-mh-white-1.jpg)
+*Printed Deck - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Printed Deck - 2](../../../../assets/images/micron-15-printed-panels-mh-white-2.jpg)
+*Printed Deck - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![Printed Deck - 3](../../../../assets/images/micron-15-printed-panels-mh-white-3.jpg)
+*Printed Deck - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![Printed Deck - 4](../../../../assets/images/micron-15-printed-panels-mh-white-4.jpg)
+*Printed Deck - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+![Printed Deck - 5](../../../../assets/images/micron-15-printed-panels-mh-white-5.jpg)
+*Printed Back Panel - 5*
+{: .fs-2 .text-grey-dk-000 }
+
+![Printed Deck - 6](../../../../assets/images/micron-15-printed-panels-mh-white-6.jpg)
+*Printed Back Panel - 6*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Drive - 1](../../../../assets/images/micron-16-z-drive-1.jpg)
+*Z Drive - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Drive - 2](../../../../assets/images/micron-16-z-drive-2.jpg)
+*Z Drive - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Drive - 3](../../../../assets/images/micron-16-z-drive-3.jpg)
+*Z Drive - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Drive - 4](../../../../assets/images/micron-16-z-drive-4.jpg)
+*Z Drive - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Drive - 5](../../../../assets/images/micron-16-z-drive-5.jpg)
+*Z Drive - 5*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Drive - 6](../../../../assets/images/micron-16-z-drive-6.jpg)
+*Z Drive - 6*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Drive - 7](../../../../assets/images/micron-16-z-drive-7.jpg)
+*Z Drive - 7*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Drive - 8](../../../../assets/images/micron-16-z-drive-8.jpg)
+*Z Drive - 8*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Drive - 9](../../../../assets/images/micron-16-z-drive-9.jpg)
+*Z Drive - 9*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Drive - 10](../../../../assets/images/micron-16-z-drive-10.jpg)
+*Z Drive - 10*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Drive - 11](../../../../assets/images/micron-16-z-drive-11.jpg)
+*Z Drive - 11*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Drive - 12](../../../../assets/images/micron-16-z-drive-12.jpg)
+*Z Drive - 12*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Drive - 13](../../../../assets/images/micron-16-z-drive-13.jpg)
+*Z Drive - 13*
+{: .fs-2 .text-grey-dk-000 }
+
 ![](../../../../assets/images/jpg)
 **
 {: .fs-2 .text-grey-dk-000 }

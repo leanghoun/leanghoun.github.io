@@ -75,3 +75,63 @@ Slide in M3 nuts from both ends of the aluminum extrusion and secure the printed
 *Add the Rail Stops*
 {: .fs-2 .text-grey-dk-000 }
 
+## Assembling the Frame
+
+![Frame Assembly - 1](../../../../assets/images/micron-13-frame-1.jpg)
+*Frame Assembly - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Frame Assembly - 2](../../../../assets/images/micron-13-frame-2.jpg)
+*Frame Assembly - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![Frame Assembly - 3](../../../../assets/images/micron-13-frame-3.jpg)
+*Frame Assembly - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![Frame Assembly - 4](../../../../assets/images/micron-13-frame-4.jpg)
+*Frame Assembly - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+![Frame Assembly - 5](../../../../assets/images/micron-13-frame-5.jpg)
+*Frame Assembly - 5*
+{: .fs-2 .text-grey-dk-000 }
+
+![Frame Assembly - 6](../../../../assets/images/micron-13-frame-6.jpg)
+*Frame Assembly - 6*
+{: .fs-2 .text-grey-dk-000 }
+
+![Frame Assembly - 7](../../../../assets/images/micron-13-frame-7.jpg)
+*Frame Assembly - 7*
+{: .fs-2 .text-grey-dk-000 }
+
+![Frame Assembly - 8](../../../../assets/images/micron-13-frame-8.jpg)
+*Frame Assembly - 8*
+{: .fs-2 .text-grey-dk-000 }
+
+![Frame Assembly - 9](../../../../assets/images/micron-13-frame-9.jpg)
+*Frame Assembly - 9*
+{: .fs-2 .text-grey-dk-000 }
+
+![Frame Assembly - 10](../../../../assets/images/micron-13-frame-10.jpg)
+*Frame Assembly - 10*
+{: .fs-2 .text-grey-dk-000 }
+
+![Frame Assembly - 11](../../../../assets/images/micron-13-frame-11.jpg)
+*Frame Assembly - 11*
+{: .fs-2 .text-grey-dk-000 }
+
+![Frame Assembly - 12](../../../../assets/images/micron-13-frame-12.jpg)
+*Frame Assembly - 12*
+{: .fs-2 .text-grey-dk-000 }
+
+![Frame Assembly - 13](../../../../assets/images/micron-13-frame-13.jpg)
+*Frame Assembly - 13*
+{: .fs-2 .text-grey-dk-000 }
+
+![Frame Assembly - 14](../../../../assets/images/micron-13-frame-14.jpg)
+*Frame Assembly - 14*
+{: .fs-2 .text-grey-dk-000 }
+
+## Z Joints
+
