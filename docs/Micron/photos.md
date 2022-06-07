@@ -2,7 +2,7 @@
 layout: default
 title: Photos
 parent: Micron
-permalink: /docs/micron/photos
+permalink: /docs/micron/photos/
 nav_order: 2
 ---
 

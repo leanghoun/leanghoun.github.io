@@ -2,7 +2,7 @@
 layout: default
 title: Build Log
 parent: Micron
-permalink: /docs/micron/build-log
+permalink: /docs/micron/build-log/
 nav_order: 1
 ---
 
@@ -237,7 +237,7 @@ When mounting the motors to the frame, it's important that the motor pulleys are
 
 ## Z Idlers
 
-The manual says to use M3x16 BHCS to secure the two printed parts together, but the kit didn't come with any. Additionally, even M3x12 BHCS poked out a bit far passed the nuts. I opted to use M3x10 BHCS and they look perfect.
+According to the manual, M3x16 BHCS are used to secure the two printed parts together, but neither the DFH kit nor the West3D fasteners kit came with any. Additionally, even M3x12 BHCS poked out a bit far through the nuts. I opted to use M3x10 BHCS and they look perfect.
 
 *Update: hartk confirmed that they are intended to be M3x12 BHCS.*
 
@@ -261,7 +261,7 @@ Adorable.
 
 ## Z Endstop
 
-The manual specs using 4 M3 shims to extend the barrel. In my case, the screw is already short, so they are not necessary. I will use a bit of low strength thread locker later to set the proper height.
+There are supposed to be four M3 shims to extend the barrel. In my case, the screw is already short, so they are not necessary. I will use a bit of low strength thread locker later to set the proper height.
 
 ![Z Endstop - 1](../../../../assets/images/micron-18-z-endstop-1.jpg)
 *Z Endstop - 1*

@@ -2,7 +2,7 @@
 layout: default
 title: Wiring Schematic
 parent: Voron Trident
-permalink: /docs/voron-trident/wiring-schematic
+permalink: /docs/voron-trident/wiring-schematic/
 nav_order: 3
 ---
 
