@@ -175,7 +175,7 @@ Insert the Igus KGLM-3 spherical bearings into the printed parts and secure each
 
 ## Z Drive
 
-I created a little 3.5mm spacer to set the proper distance between the two pulleys on the shaft. Holding the bottom bearing with the 4 M5 shims is fiddly. You will keep dropping them and picking them off the floor until these assemblies go into the printed housings. The printed wheels are very easy to mount at an angle, which will introduce drift to the belt loop. Try to keep things square, and secure the grub screws in an X pattern to keep things even.
+I created a little 3.5mm spacer to set the proper distance between the two pulleys on the shaft. Holding the bottom bearing with the M5 shims is fiddly. You *will* keep dropping them and picking them off the floor until these assemblies go into the printed housings. The printed wheels are very easy to mount at an angle, which will introduce drift to the belt loop. Try to keep things square, and secure the grub screws in an X pattern to keep things even.
 
 ![Z Drive - 1](../../../../assets/images/micron-16-z-drive-1.jpg)
 *Z Drive - 1*
