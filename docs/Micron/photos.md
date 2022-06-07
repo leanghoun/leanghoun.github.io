@@ -62,11 +62,11 @@ nav_order: 2
 {: .fs-2 .text-grey-dk-000 }
 
 ![Even More Accent Parts](../../../../assets/images/micron-4-these-front-z-covers-are-hard-1.jpg)
-*These Front Z-Covers Are Hard - 1: Had to reprint these due to the seam landing on the curved overhang. Aligned the infill angles to follow the Voron logo on the first layer as well.*
+*These Front Z-Covers Are Hard - 1*
 {: .fs-2 .text-grey-dk-000 }
 
 ![Main Colors FF Mushroom Cloud Gray - 1](../../../../assets/images/micron-8-ff-mushroom-cloud-gray-1.jpg)
-*Main Colors FF Mushroom Cloud Gray - 1: Soo much better than glossy gray. This one is great! I also ordered their sparkly matte Thorium Thilver, but I think this non-sparkly matte Mushroom Cloud Gray will let Electrolytic Deuterium really stand out.*
+*Main Colors FF Mushroom Cloud Gray - 1*
 {: .fs-2 .text-grey-dk-000 }
 
 ![Main Colors FF Mushroom Cloud Gray - 2](../../../../assets/images/micron-8-ff-mushroom-cloud-gray-2.jpg)
@@ -82,7 +82,7 @@ nav_order: 2
 {: .fs-2 .text-grey-dk-000 }
 
 ![No-Drop Nut Inserts & Alignment Tools](../../../../assets/images/micron-6-no-drop-nuts-tools-1.jpg)
-*No-Drop Nut Inserts & Alignment Tools: MatterHackers Build Series Natural*
+*No-Drop Nut Inserts & Alignment Tools*
 {: .fs-2 .text-grey-dk-000 }
 
 ![No-Drop Nut Inserts & Alignment Tools](../../../../assets/images/micron-6-no-drop-nuts-tools-2.jpg)
@@ -94,15 +94,15 @@ nav_order: 2
 {: .fs-2 .text-grey-dk-000 }
 
 ![Prepping Rails - 2](../../../../assets/images/micron-7-prepping-rails-2.jpg)
-*Prepping Rails - 2: Flushed the rail and carriage with some isopropyl alcohol and used the itty bitty allen key to push a bit of paper towel through the rail's grooves. Sprayed a bit of white lithium grease into the ball bearings until they were all coated, but not sopping wet. Added a bit of white lithium grease to the rail's grooves and used my finger to spread and coat the rail to prevent rust.*
+*Prepping Rails - 2*
 {: .fs-2 .text-grey-dk-000 }
 
 ![Prepping Rails - 3](../../../../assets/images/micron-7-prepping-rails-3.jpg)
-*Prepping Rails - 3: Re-assembled the carriages and rails, moved the carriages back and forth along the entire lengths to ensure good spread of the white lithium.*
+*Prepping Rails - 3*
 {: .fs-2 .text-grey-dk-000 }
 
 ![Fasteners Organized](../../../../assets/images/micron-11-fasteners-organized.jpg)
-*Fasteners Organized: Organize the screws. Left column contains West3D's Stainless Steel "Best Damn Fasteners" for Micron, sorted from smallest to largest. Middle column contains the stock fasteners from DFH's kit, a mixture of black oxide and stainless steel. Right columns hold nuts, shims/washers, heatset inserts, etc.*
+*Fasteners Organized*
 {: .fs-2 .text-grey-dk-000 }
 
 ![](../../../../assets/images/micron-10-white-extrusions-1.jpg)
@@ -275,6 +275,34 @@ nav_order: 2
 
 ![Z Drive - 13](../../../../assets/images/micron-16-z-drive-13.jpg)
 *Z Drive - 13*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Idlers - 1](../../../../assets/images/micron-17-z-idlers-1.jpg)
+*Z Idlers - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Idlers - 2](../../../../assets/images/micron-17-z-idlers-2.jpg)
+*Z Idlers - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Idlers - 3](../../../../assets/images/micron-17-z-idlers-3.jpg)
+*Z Idlers - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Idlers - 4](../../../../assets/images/micron-17-z-idlers-4.jpg)
+*Z Idlers - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Endstop - 1](../../../../assets/images/micron-18-z-endstop-1.jpg)
+*Z Endstop - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Endstop - 2](../../../../assets/images/micron-18-z-endstop-2.jpg)
+*Z Endstop - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Endstop - 3](../../../../assets/images/micron-18-z-endstop-3.jpg)
+*Z Endstop - 3*
 {: .fs-2 .text-grey-dk-000 }
 
 ![](../../../../assets/images/jpg)

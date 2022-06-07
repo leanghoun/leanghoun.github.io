@@ -77,6 +77,8 @@ Slide in M3 nuts from both ends of the aluminum extrusion and secure the printed
 
 ## Assembling the Frame
 
+Standard blind-joint assembly. Remember that the vertical members with the linear rails touch the table, and the rails are on the lower half.
+
 ![Frame Assembly - 1](../../../../assets/images/micron-13-frame-1.jpg)
 *Frame Assembly - 1*
 {: .fs-2 .text-grey-dk-000 }
@@ -88,6 +90,8 @@ Slide in M3 nuts from both ends of the aluminum extrusion and secure the printed
 ![Frame Assembly - 3](../../../../assets/images/micron-13-frame-3.jpg)
 *Frame Assembly - 3*
 {: .fs-2 .text-grey-dk-000 }
+
+Make sure to pre-insert any necessary M3 nuts as you go. It's not possible to add them later without some disassembly. In my case, because (1) I'm using a v0.1 aluminum bed with 3-hole mounting and (2) using the leftover 10x11 cable chain from my Trident build, the amount of nuts will not match the manual. This is a good time to add nuts for future mods as well.
 
 ![Frame Assembly - 4](../../../../assets/images/micron-13-frame-4.jpg)
 *Frame Assembly - 4*
@@ -121,9 +125,15 @@ Slide in M3 nuts from both ends of the aluminum extrusion and secure the printed
 *Frame Assembly - 11*
 {: .fs-2 .text-grey-dk-000 }
 
+Now that the basic frame is assembled, this is a good time to check for squareness. For each face, measure the two diagonals to see if they are within 1mm of each other. For the bottom, check to make sure it's not rocking.
+
+I'm prepping these bed extrusions the older horizontal way with the front cap to line up with the mounting holes on the v0.1 bed.
+
 ![Frame Assembly - 12](../../../../assets/images/micron-13-frame-12.jpg)
 *Frame Assembly - 12*
 {: .fs-2 .text-grey-dk-000 }
+
+Don't forget this heatset insert on the bottom of the front piece.
 
 ![Frame Assembly - 13](../../../../assets/images/micron-13-frame-13.jpg)
 *Frame Assembly - 13*
@@ -134,4 +144,134 @@ Slide in M3 nuts from both ends of the aluminum extrusion and secure the printed
 {: .fs-2 .text-grey-dk-000 }
 
 ## Z Joints
+
+Insert the Igus KGLM-3 spherical bearings into the printed parts and secure each one with 4 M2x6 SHCS. These bearings can rotate in 3 dimensions and allow the gantry to adjust.
+
+![Z Joints - 1](../../../../assets/images/micron-14-z-joints-1.jpg)
+*Z Joints - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Joints - 2](../../../../assets/images/micron-14-z-joints-2.jpg)
+*Z Joints - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+## Deck
+
+![Printed Deck - 1](../../../../assets/images/micron-15-printed-panels-mh-white-1.jpg)
+*Printed Deck - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Printed Deck - 2](../../../../assets/images/micron-15-printed-panels-mh-white-2.jpg)
+*Printed Deck - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![Printed Deck - 3](../../../../assets/images/micron-15-printed-panels-mh-white-3.jpg)
+*Printed Deck - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![Printed Deck - 4](../../../../assets/images/micron-15-printed-panels-mh-white-4.jpg)
+*Printed Deck - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+## Z Drive
+
+I created a little 3.5mm spacer to set the proper distance between the two pulleys on the shaft. Holding the bottom bearing with the 4 M5 shims is fiddly. You will keep dropping them and picking them off the floor until these assemblies go into the printed housings. The printed wheels are very easy to mount at an angle, which will introduce drift to the belt loop. Try to keep things square, and secure the grub screws in an X pattern to keep things even.
+
+![Z Drive - 1](../../../../assets/images/micron-16-z-drive-1.jpg)
+*Z Drive - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Drive - 2](../../../../assets/images/micron-16-z-drive-2.jpg)
+*Z Drive - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+Testing the pulley assembly in the housing *without* the belt is a good way to see how planar the wheel's rotation is.
+
+![Z Drive - 3](../../../../assets/images/micron-16-z-drive-3.jpg)
+*Z Drive - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+Wires face in towards the Micron's center.
+
+![Z Drive - 4](../../../../assets/images/micron-16-z-drive-4.jpg)
+*Z Drive - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Drive - 5](../../../../assets/images/micron-16-z-drive-5.jpg)
+*Z Drive - 5*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Drive - 6](../../../../assets/images/micron-16-z-drive-6.jpg)
+*Z Drive - 6*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Drive - 7](../../../../assets/images/micron-16-z-drive-7.jpg)
+*Z Drive - 7*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Drive - 8](../../../../assets/images/micron-16-z-drive-8.jpg)
+*Z Drive - 8*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Drive - 9](../../../../assets/images/micron-16-z-drive-9.jpg)
+*Z Drive - 9*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Drive - 10](../../../../assets/images/micron-16-z-drive-10.jpg)
+*Z Drive - 10*
+{: .fs-2 .text-grey-dk-000 }
+
+When mounting the motors to the frame, it's important that the motor pulleys are parallel to the corner Z drive shafts. This will keep the belts centers on the pulleys. If they are canted, the belt will drift and rub against the pulley sides.
+
+![Z Drive - 11](../../../../assets/images/micron-16-z-drive-11.jpg)
+*Z Drive - 11*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Drive - 12](../../../../assets/images/micron-16-z-drive-12.jpg)
+*Z Drive - 12*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Drive - 13](../../../../assets/images/micron-16-z-drive-13.jpg)
+*Z Drive - 13*
+{: .fs-2 .text-grey-dk-000 }
+
+## Z Idlers
+
+The manual says to use M3x16 BHCS to secure the two printed parts together, but the kit didn't come with any. Additionally, even M3x12 BHCS poked out a bit far passed the nuts. I opted to use M3x10 BHCS and they look perfect.
+
+*Update: hartk confirmed that they are intended to be M3x12 BHCS.*
+
+![Z Idlers - 1](../../../../assets/images/micron-17-z-idlers-1.jpg)
+*Z Idlers - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Idlers - 2](../../../../assets/images/micron-17-z-idlers-2.jpg)
+*Z Idlers - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+Adorable.
+
+![Z Idlers - 3](../../../../assets/images/micron-17-z-idlers-3.jpg)
+*Z Idlers - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Idlers - 4](../../../../assets/images/micron-17-z-idlers-4.jpg)
+*Z Idlers - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+## Z Endstop
+
+The manual specs using 4 M3 shims to extend the barrel. In my case, the screw is already short, so they are not necessary. I will use a bit of loctite later to set the proper height.
+
+![Z Endstop - 1](../../../../assets/images/micron-18-z-endstop-1.jpg)
+*Z Endstop - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Endstop - 2](../../../../assets/images/micron-18-z-endstop-2.jpg)
+*Z Endstop - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Endstop - 3](../../../../assets/images/micron-18-z-endstop-3.jpg)
+*Z Endstop - 3*
+{: .fs-2 .text-grey-dk-000 }
 
