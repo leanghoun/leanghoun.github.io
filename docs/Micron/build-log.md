@@ -261,7 +261,7 @@ Adorable.
 
 ## Z Endstop
 
-The manual specs using 4 M3 shims to extend the barrel. In my case, the screw is already short, so they are not necessary. I will use a bit of loctite later to set the proper height.
+The manual specs using 4 M3 shims to extend the barrel. In my case, the screw is already short, so they are not necessary. I will use a bit of low strength thread locker later to set the proper height.
 
 ![Z Endstop - 1](../../../../assets/images/micron-18-z-endstop-1.jpg)
 *Z Endstop - 1*
