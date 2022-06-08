@@ -305,6 +305,43 @@ nav_order: 2
 *Z Endstop - 3*
 {: .fs-2 .text-grey-dk-000 }
 
+![Y Axis - 1](../../../../assets/images/micron-19-y-axis-1.jpg)
+*Y Axis - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Y Axis - 2](../../../../assets/images/micron-19-y-axis-2.jpg)
+*Y Axis - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![Y Axis - 3](../../../../assets/images/micron-19-y-axis-3.jpg)
+*Y Axis - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![X Axis - 1](../../../../assets/images/micron-20-x-axis-1.jpg)
+*X Axis - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![X Axis - 2](../../../../assets/images/micron-20-x-axis-2.jpg)
+*X Axis - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![X Axis - 3](../../../../assets/images/micron-20-x-axis-3.jpg)
+*X Axis - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![X Axis - 4](../../../../assets/images/micron-20-x-axis-4.jpg)
+*X Axis - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+![X Axis - 5](../../../../assets/images/micron-20-x-axis-5.jpg)
+*X Axis - 5*
+{: .fs-2 .text-grey-dk-000 }
+
+![X Axis - 6](../../../../assets/images/micron-20-x-axis-6.jpg)
+*X Axis - 6*
+{: .fs-2 .text-grey-dk-000 }
+
+
 ![](../../../../assets/images/jpg)
 **
 {: .fs-2 .text-grey-dk-000 }

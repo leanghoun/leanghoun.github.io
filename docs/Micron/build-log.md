@@ -245,6 +245,8 @@ According to the manual, M3x16 BHCS are used to secure the two printed parts tog
 *Z Idlers - 1*
 {: .fs-2 .text-grey-dk-000 }
 
+The screws holding the bearings enters the printed part *opposite* the side with the frame notch.
+
 ![Z Idlers - 2](../../../../assets/images/micron-17-z-idlers-2.jpg)
 *Z Idlers - 2*
 {: .fs-2 .text-grey-dk-000 }
@@ -263,15 +265,65 @@ Adorable.
 
 There are supposed to be four M3 shims to extend the barrel. In my case, the screw is already short, so they are not necessary. I will use a bit of low strength thread locker later to set the proper height.
 
-![Z Endstop - 1](../../../../assets/images/micron-18-z-endstop-1.jpg)
-*Z Endstop - 1*
-{: .fs-2 .text-grey-dk-000 }
-
 ![Z Endstop - 2](../../../../assets/images/micron-18-z-endstop-2.jpg)
 *Z Endstop - 2*
 {: .fs-2 .text-grey-dk-000 }
 
 ![Z Endstop - 3](../../../../assets/images/micron-18-z-endstop-3.jpg)
 *Z Endstop - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Endstop - 1](../../../../assets/images/micron-18-z-endstop-1.jpg)
+*Z Endstop - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+## Y Axis
+
+There is a printed jig for setting the distance of the linear rails from the ends, but I found that with it's curved inner corners, it was not accurate enough for me. I had to go back with calipers to nail the centering. The other jig from the Z rails is also useful here.
+
+![Y Axis - 1](../../../../assets/images/micron-19-y-axis-1.jpg)
+*Y Axis - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Y Axis - 2](../../../../assets/images/micron-19-y-axis-2.jpg)
+*Y Axis - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![Y Axis - 3](../../../../assets/images/micron-19-y-axis-3.jpg)
+*Y Axis - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+## X Axis
+
+No fancy nut bars for the X axis. Just floating M3 nuts.
+
+![X Axis - 1](../../../../assets/images/micron-20-x-axis-1.jpg)
+*X Axis - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+Since there are a total of 8 holes for mounting, I did pairs with a blank in between.
+
+![X Axis - 2](../../../../assets/images/micron-20-x-axis-2.jpg)
+*X Axis - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+Trying to really center the rail in both directions.
+
+![X Axis - 3](../../../../assets/images/micron-20-x-axis-3.jpg)
+*X Axis - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![X Axis - 4](../../../../assets/images/micron-20-x-axis-4.jpg)
+*X Axis - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+Install the titanium backers on the X axis.
+
+![X Axis - 5](../../../../assets/images/micron-20-x-axis-5.jpg)
+*X Axis - 5*
+{: .fs-2 .text-grey-dk-000 }
+
+![X Axis - 6](../../../../assets/images/micron-20-x-axis-6.jpg)
+*X Axis - 6*
 {: .fs-2 .text-grey-dk-000 }
 
