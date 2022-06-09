@@ -277,6 +277,8 @@ There are supposed to be four M3 shims to extend the barrel. In my case, the scr
 *Z Endstop - 1*
 {: .fs-2 .text-grey-dk-000 }
 
+## Bed
+
 ## Y Axis
 
 There is a printed jig for setting the distance of the linear rails from the ends, but I found that with it's curved inner corners, it was not accurate enough for me. I had to go back with calipers to nail the centering. The other jig from the Z rails is also useful here.
