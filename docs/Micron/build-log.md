@@ -279,6 +279,42 @@ There are supposed to be four M3 shims to extend the barrel. In my case, the scr
 
 ## Bed
 
+This is a bed from PrecisePrinterParts. A few of the nicer features are the thermistor slot, indexing hole for flex plate alignment, and flatness within 0.02mm.
+
+![Bed - 1](../../../../assets/images/micron-21-bed-1.jpg)
+*Bed - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+To keep the thermistor from sliding back out, I added a dab of super glue. The datasheet says it should be able to withstand up to 275°F, so it should hold for awhile.
+
+![Bed - 2](../../../../assets/images/micron-21-bed-2.jpg)
+*Bed - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+Installing the Graviflex magnetic sheet just like how Nero does it. Peel back a small section to align to one edge. Tack the adhesive down with even pressure from the center towards the sides. Peel back a bit more and tack it down. Repeat until covered and trim the excess.
+
+![Bed - 3](../../../../assets/images/micron-21-bed-3.jpg)
+*Bed - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+The safety pin is to poke a hole through the Graviflex for locating on the top side. Cutting the screw holes in the Graviflex sheet was actually pretty hard. The adhesive has a lot more stretch than the standard stuff and the leather punches I use for clean holes didn't cut it (literally). I used an exactly knife to remove some, and used a suitable sized leather punch to force the remaining edge material down into the countersunk holes.
+
+![Bed - 4](../../../../assets/images/micron-21-bed-4.jpg)
+*Bed - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+Fabreek's edge-to-edge heater. I had to trim just the tiniest bit around the 3 mounting holes to make space for the knurled nut standoffs (not shown in the photo). I DO NOT RECOMMEND DOING THIS.
+
+![Bed - 5](../../../../assets/images/micron-21-bed-5.jpg)
+*Bed - 5*
+{: .fs-2 .text-grey-dk-000 }
+
+## ZeroFilter
+
+![ZeroFilter - 1](../../../../assets/images/micron-23-zerofilter-1.jpg)
+*ZeroFilter - 1*
+{: .fs-2 .text-grey-dk-000 }
+
 ## Y Axis
 
 There is a printed jig for setting the distance of the linear rails from the ends, but I found that with it's curved inner corners, it was not accurate enough for me. I had to go back with calipers to nail the centering. The other jig from the Z rails is also useful here.
@@ -293,6 +329,14 @@ There is a printed jig for setting the distance of the linear rails from the end
 
 ![Y Axis - 3](../../../../assets/images/micron-19-y-axis-3.jpg)
 *Y Axis - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![Y Axis - 4](../../../../assets/images/micron-19-y-axis-4.jpg)
+*Y Axis - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+![Y Axis - 5](../../../../assets/images/micron-19-y-axis-5.jpg)
+*Y Axis - 5*
 {: .fs-2 .text-grey-dk-000 }
 
 ## X Axis
@@ -328,4 +372,24 @@ Install the titanium backers on the X axis.
 ![X Axis - 6](../../../../assets/images/micron-20-x-axis-6.jpg)
 *X Axis - 6*
 {: .fs-2 .text-grey-dk-000 }
+
+## A/B Idlers
+
+![A/B Idlers - 1](../../../../assets/images/micron-22-a-b-idlers-1.jpg)
+*A/B Idlers - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![A/B Idlers - 2](../../../../assets/images/micron-22-a-b-idlers-2.jpg)
+*A/B Idlers - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![A/B Idlers - 3](../../../../assets/images/micron-22-a-b-idlers-3.jpg)
+*A/B Idlers - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![A/B Idlers - 4](../../../../assets/images/micron-22-a-b-idlers-4.jpg)
+*A/B Idlers - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+## ZeroFilter
 
