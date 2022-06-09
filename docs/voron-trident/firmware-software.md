@@ -1,12 +1,18 @@
 ---
 layout: default
-title: Slicer Stuff
+title: Firmware & Software
 parent: Voron Trident
 permalink: /docs/voron-trident/slicer-stuff/
 nav_order: 5
 ---
 
-# Slicer Stuff
+# Firmware & Software
+
+## MainSail
+
+## Klipper
+
+## SuperSlicer
 
 ![SuperSlicer Bed Model + Texture](../../../../assets/images/superslicer-bed-model-texture.jpg)
 *SuperSlicer Bed Model + Texture*
