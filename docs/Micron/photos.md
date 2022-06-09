@@ -329,6 +329,10 @@ nav_order: 2
 *ZeroFilter - 1*
 {: .fs-2 .text-grey-dk-000 }
 
+![ZeroFilter - 2](../../../../assets/images/micron-23-zerofilter-2.jpg)
+*ZeroFilter - 2*
+{: .fs-2 .text-grey-dk-000 }
+
 ![Y Axis - 1](../../../../assets/images/micron-19-y-axis-1.jpg)
 *Y Axis - 1*
 {: .fs-2 .text-grey-dk-000 }

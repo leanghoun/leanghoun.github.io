@@ -315,6 +315,20 @@ Fabreek's edge-to-edge heater. I had to trim just the tiniest bit around the 3 m
 *ZeroFilter - 1*
 {: .fs-2 .text-grey-dk-000 }
 
+![ZeroFilter - 2](../../../../assets/images/micron-23-zerofilter-2.jpg)
+*ZeroFilter - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![ZeroFilter - 3](../../../../assets/images/micron-23-zerofilter-3.jpg)
+*ZeroFilter - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+Here is where I ran into a couple of issues. The deck's center hole is not centered to the ZeroFilter, and moving the horizontal extrusions to make room for the parts pushes out the front mount for the bed a bit too far. Will need to adjust both parts and reprint.
+
+![ZeroFilter - 4](../../../../assets/images/micron-23-zerofilter-4.jpg)
+*ZeroFilter - 4*
+{: .fs-2 .text-grey-dk-000 }
+
 ## Y Axis
 
 There is a printed jig for setting the distance of the linear rails from the ends, but I found that with it's curved inner corners, it was not accurate enough for me. I had to go back with calipers to nail the centering. The other jig from the Z rails is also useful here.
@@ -390,6 +404,4 @@ Install the titanium backers on the X axis.
 ![A/B Idlers - 4](../../../../assets/images/micron-22-a-b-idlers-4.jpg)
 *A/B Idlers - 4*
 {: .fs-2 .text-grey-dk-000 }
-
-## ZeroFilter
 
