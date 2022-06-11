@@ -389,6 +389,8 @@ Install the titanium backers on the X axis.
 
 ## A/B Idlers
 
+If you look at the shims closely, you can see that they are punched out of a sheet and one side is smoother and the edges don't catch. This is the side I prefer to place against the bearings. The rougher side will face plastic.
+
 ![A/B Idlers - 1](../../../../assets/images/micron-22-a-b-idlers-1.jpg)
 *A/B Idlers - 1*
 {: .fs-2 .text-grey-dk-000 }
@@ -400,6 +402,8 @@ Install the titanium backers on the X axis.
 ![A/B Idlers - 3](../../../../assets/images/micron-22-a-b-idlers-3.jpg)
 *A/B Idlers - 3*
 {: .fs-2 .text-grey-dk-000 }
+
+Its easy to get the parts confused. You'll know you did it right if the SHCS heads on the tensioners (the accent parts) are on top.
 
 ![A/B Idlers - 4](../../../../assets/images/micron-22-a-b-idlers-4.jpg)
 *A/B Idlers - 4*
@@ -419,13 +423,19 @@ Install the titanium backers on the X axis.
 *A Drive Top - 1*
 {: .fs-2 .text-grey-dk-000 }
 
+Wire connectors facing towards inside of printer.
+
 ![A Drive Top - 2](../../../../assets/images/micron-24-a-b-drives-5.jpg)
 *A Drive Top - 2*
 {: .fs-2 .text-grey-dk-000 }
 
+After soldering the wires and directing them into the wire channel, they naturally form 90° bends. Should be fine I think. I'll try to remember to zip tie this up somewhere for some relief.
+
 ![A Drive Top - 3](../../../../assets/images/micron-24-a-b-drives-6.jpg)
 *A Drive Top - 3*
 {: .fs-2 .text-grey-dk-000 }
+
+Maintaining the stacks while assembly the top and bottom together is pretty tricky.
 
 ![A Drive Top - 4](../../../../assets/images/micron-24-a-b-drives-7.jpg)
 *A Drive - 4*
@@ -435,6 +445,8 @@ Install the titanium backers on the X axis.
 *A Drive - 5*
 {: .fs-2 .text-grey-dk-000 }
 
+Adjust the A pulley so that the teeth are centered against the top bearing stack, then loctite and tighten the grub screws.
+
 ![A Drive Top - 6](../../../../assets/images/micron-24-a-b-drives-9.jpg)
 *A Drive Top - 6*
 {: .fs-2 .text-grey-dk-000 }
@@ -443,10 +455,104 @@ Install the titanium backers on the X axis.
 *B Drive - 1*
 {: .fs-2 .text-grey-dk-000 }
 
+Adjust the B pulley so that the teeth are centered against the bottom bearing stack, then loctite and tighten the grub screws.
+
 ![B Drive - 2](../../../../assets/images/micron-24-a-b-drives-11.jpg)
 *B Drive - 2*
 {: .fs-2 .text-grey-dk-000 }
 
 ![A/B Drives - 1](../../../../assets/images/micron-24-a-b-drives-12.jpg)
 *A/B Drives - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+## X/Y Joint Assemblies
+
+![XY Joint Assemblies - 1](../../../../assets/images/micron-24-xy-joint-assemblies-1.jpg)
+*XY Joint Assemblies - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![XY Joint Assemblies - 2](../../../../assets/images/micron-24-xy-joint-assemblies-2.jpg)
+*XY Joint Assemblies - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![XY Joint Assemblies - 3](../../../../assets/images/micron-24-xy-joint-assemblies-3.jpg)
+*XY Joint Assemblies - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![XY Joint Assemblies - 4](../../../../assets/images/micron-24-xy-joint-assemblies-4.jpg)
+*XY Joint Assemblies - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+![XY Joint Assemblies - 5](../../../../assets/images/micron-24-xy-joint-assemblies-5.jpg)
+*XY Joint Assemblies - 5*
+{: .fs-2 .text-grey-dk-000 }
+
+## Y Endstop
+
+Inset the endstop 8mm from the end of the aluminum extrusion.
+
+![Y Endstop - 1](../../../../assets/images/micron-25-y-endstop-1.jpg)
+*Y Endstop - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+## Gantry - Mounting A/B Idlers
+
+The belt clamps have a recess to accept the belt. That should face downwards.
+
+![Gantry - Mounting A/B Idlers - 1](../../../../assets/images/micron-26-ab-idlers-1.jpg)
+*Gantry - Mounting A/B Idlers - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Gantry - Mounting A/B Idlers - 2](../../../../assets/images/micron-26-ab-idlers-2.jpg)
+*Gantry - Mounting A/B Idlers - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+## Mounting A/B Drives
+
+![Mounting A/B Drives - 1](../../../../assets/images/micron-27-ab-drives-1.jpg)
+*Mounting A/B Drives - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+## Klicky
+
+You don't need this many 6x3 magnets. Probably.
+
+![Klicky - 1](../../../../assets/images/micron-28-klicky-1.jpg)
+*Klicky - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+I like this implementation. The switch leads just poke through the printed piece and touch the magnets. Passes my multimeter continuity test.
+
+![Klicky - 2](../../../../assets/images/micron-28-klicky-2.jpg)
+*Klicky - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+## Rear Gantry
+
+I'm using leftover 10x11 cable chain, so the mount here is not the default Micron one.
+
+![Rear Gantry - 1](../../../../assets/images/micron-29-rear-gantry-1.jpg)
+*Rear Gantry - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Rear Gantry - 2](../../../../assets/images/micron-29-rear-gantry-2.jpg)
+*Rear Gantry - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![Rear Gantry - 3](../../../../assets/images/micron-29-rear-gantry-3.jpg)
+*Rear Gantry - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![Rear Gantry - 4](../../../../assets/images/micron-29-rear-gantry-4.jpg)
+*Rear Gantry - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+## Mounting X Axis
+
+![Mounting X Axis - 1](../../../../assets/images/micron-30-gantry-x-axis-1.jpg)
+*Mounting X Axis - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Mounting X Axis - 2](../../../../assets/images/micron-30-gantry-x-axis-2.jpg)
+*Mounting X Axis - 2*
 {: .fs-2 .text-grey-dk-000 }

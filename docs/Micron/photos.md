@@ -9,6 +9,12 @@ nav_order: 2
 # Photos
 {: .no_toc }
 
+#### Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 ## Printing Parts
 
 ![Printing Begins Again!](../../../../assets/images/micron-1-oops-printing-begins-again-1.jpg)
@@ -307,7 +313,7 @@ nav_order: 2
 *Z Idlers - 4*
 {: .fs-2 .text-grey-dk-000 }
 
-# Z Endstop
+## Z Endstop
 
 ![Z Endstop - 1](../../../../assets/images/micron-18-z-endstop-1.jpg)
 *Z Endstop - 1*
@@ -471,6 +477,88 @@ nav_order: 2
 
 ![A/B Drives - 1](../../../../assets/images/micron-24-a-b-drives-12.jpg)
 *A/B Drives - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+## X/Y Joint Assemblies
+
+![XY Joint Assemblies - 1](../../../../assets/images/micron-24-xy-joint-assemblies-1.jpg)
+*XY Joint Assemblies - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![XY Joint Assemblies - 2](../../../../assets/images/micron-24-xy-joint-assemblies-2.jpg)
+*XY Joint Assemblies - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![XY Joint Assemblies - 3](../../../../assets/images/micron-24-xy-joint-assemblies-3.jpg)
+*XY Joint Assemblies - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![XY Joint Assemblies - 4](../../../../assets/images/micron-24-xy-joint-assemblies-4.jpg)
+*XY Joint Assemblies - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+![XY Joint Assemblies - 5](../../../../assets/images/micron-24-xy-joint-assemblies-5.jpg)
+*XY Joint Assemblies - 5*
+{: .fs-2 .text-grey-dk-000 }
+
+## Y Endstop
+
+![Y Endstop - 1](../../../../assets/images/micron-25-y-endstop-1.jpg)
+*Y Endstop - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+## Gantry - Mounting A/B Idlers
+
+![Gantry - Mounting A/B Idlers - 1](../../../../assets/images/micron-26-ab-idlers-1.jpg)
+*Gantry - Mounting A/B Idlers - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Gantry - Mounting A/B Idlers - 2](../../../../assets/images/micron-26-ab-idlers-2.jpg)
+*Gantry - Mounting A/B Idlers - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+## Mounting A/B Drives
+
+![Mounting A/B Drives - 1](../../../../assets/images/micron-27-ab-drives-1.jpg)
+*Mounting A/B Drives - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+## Klicky
+
+![Klicky - 1](../../../../assets/images/micron-28-klicky-1.jpg)
+*Klicky - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Klicky - 2](../../../../assets/images/micron-28-klicky-2.jpg)
+*Klicky - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+## Rear Gantry
+
+![Rear Gantry - 1](../../../../assets/images/micron-29-rear-gantry-1.jpg)
+*Rear Gantry - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Rear Gantry - 2](../../../../assets/images/micron-29-rear-gantry-2.jpg)
+*Rear Gantry - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![Rear Gantry - 3](../../../../assets/images/micron-29-rear-gantry-3.jpg)
+*Rear Gantry - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![Rear Gantry - 4](../../../../assets/images/micron-29-rear-gantry-4.jpg)
+*Rear Gantry - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+## Mounting X Axis
+
+![Mounting X Axis - 1](../../../../assets/images/micron-30-gantry-x-axis-1.jpg)
+*Mounting X Axis - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Mounting X Axis - 2](../../../../assets/images/micron-30-gantry-x-axis-2.jpg)
+*Mounting X Axis - 2*
 {: .fs-2 .text-grey-dk-000 }
 
 ![](../../../../assets/images/jpg)
