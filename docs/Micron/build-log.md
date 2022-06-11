@@ -323,7 +323,7 @@ Fabreek's edge-to-edge heater. I had to trim just the tiniest bit around the 3 m
 *ZeroFilter - 3*
 {: .fs-2 .text-grey-dk-000 }
 
-Here is where I ran into a couple of issues. The deck's center hole is not centered to the ZeroFilter, and moving the horizontal extrusions to make room for the parts pushes out the front mount for the bed a bit too far. Will need to adjust both parts and reprint.
+Here is where I ran into a couple of issues. The deck's center hole is not centered to the ZeroFilter, and moving the horizontal extrusions to make room for the parts pushes out the front mount for the bed a bit too far. I adjusted and reprinted both the deck panel and the front mount, and I added another brace to the front of the ZeroFilters to keep it all square and tight.
 
 ![ZeroFilter - 4](../../../../assets/images/micron-23-zerofilter-4.jpg)
 *ZeroFilter - 4*
@@ -405,3 +405,48 @@ Install the titanium backers on the X axis.
 *A/B Idlers - 4*
 {: .fs-2 .text-grey-dk-000 }
 
+## A/B Drives
+
+![A Drive - 1](../../../../assets/images/micron-24-a-b-drives-1.jpg)
+*A Drive - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![A Drive - 2](../../../../assets/images/micron-24-a-b-drives-2.jpg)
+*A Drive - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![A Drive Top - 1](../../../../assets/images/micron-24-a-b-drives-4.jpg)
+*A Drive Top - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![A Drive Top - 2](../../../../assets/images/micron-24-a-b-drives-5.jpg)
+*A Drive Top - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![A Drive Top - 3](../../../../assets/images/micron-24-a-b-drives-6.jpg)
+*A Drive Top - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![A Drive Top - 4](../../../../assets/images/micron-24-a-b-drives-7.jpg)
+*A Drive - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+![A Drive Top - 5](../../../../assets/images/micron-24-a-b-drives-8.jpg)
+*A Drive - 5*
+{: .fs-2 .text-grey-dk-000 }
+
+![A Drive Top - 6](../../../../assets/images/micron-24-a-b-drives-9.jpg)
+*A Drive Top - 6*
+{: .fs-2 .text-grey-dk-000 }
+
+![B Drive - 1](../../../../assets/images/micron-24-a-b-drives-10.jpg)
+*B Drive - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![B Drive - 2](../../../../assets/images/micron-24-a-b-drives-11.jpg)
+*B Drive - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![A/B Drives - 1](../../../../assets/images/micron-24-a-b-drives-12.jpg)
+*A/B Drives - 1*
+{: .fs-2 .text-grey-dk-000 }

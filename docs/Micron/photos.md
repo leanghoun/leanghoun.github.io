@@ -9,6 +9,8 @@ nav_order: 2
 # Photos
 {: .no_toc }
 
+## Printing Parts
+
 ![Printing Begins Again!](../../../../assets/images/micron-1-oops-printing-begins-again-1.jpg)
 *Printing Begins! - 1*
 {: .fs-2 .text-grey-dk-000 }
@@ -89,6 +91,8 @@ nav_order: 2
 *No-Drop Nut Inserts*
 {: .fs-2 .text-grey-dk-000 }
 
+## Z Rail Assemblies
+
 ![Prepping Rails - 1](../../../../assets/images/micron-7-prepping-rails-1.jpg)
 *Prepping Rails - 1*
 {: .fs-2 .text-grey-dk-000 }
@@ -136,6 +140,8 @@ nav_order: 2
 ![Add the Rail Stops](../../../../assets/images/micron-12-z-rail-5-add-rail-stops.jpg)
 *Add the Rail Stops*
 {: .fs-2 .text-grey-dk-000 }
+
+## Frame
 
 ![Frame Assembly - 1](../../../../assets/images/micron-13-frame-1.jpg)
 *Frame Assembly - 1*
@@ -193,6 +199,8 @@ nav_order: 2
 *Frame Assembly - 14*
 {: .fs-2 .text-grey-dk-000 }
 
+## Z Joints
+
 ![Z Joints - 1](../../../../assets/images/micron-14-z-joints-1.jpg)
 *Z Joints - 1*
 {: .fs-2 .text-grey-dk-000 }
@@ -200,6 +208,8 @@ nav_order: 2
 ![Z Joints - 2](../../../../assets/images/micron-14-z-joints-2.jpg)
 *Z Joints - 2*
 {: .fs-2 .text-grey-dk-000 }
+
+## Deck
 
 ![Printed Deck - 1](../../../../assets/images/micron-15-printed-panels-mh-white-1.jpg)
 *Printed Deck - 1*
@@ -217,13 +227,15 @@ nav_order: 2
 *Printed Deck - 4*
 {: .fs-2 .text-grey-dk-000 }
 
-![Printed Deck - 5](../../../../assets/images/micron-15-printed-panels-mh-white-5.jpg)
-*Printed Back Panel - 5*
+![Printed Back Panel - 1](../../../../assets/images/micron-15-printed-panels-mh-white-5.jpg)
+*Printed Back Panel - 1*
 {: .fs-2 .text-grey-dk-000 }
 
-![Printed Deck - 6](../../../../assets/images/micron-15-printed-panels-mh-white-6.jpg)
-*Printed Back Panel - 6*
+![Printed Back Panel - 2](../../../../assets/images/micron-15-printed-panels-mh-white-6.jpg)
+*Printed Back Panel - 2*
 {: .fs-2 .text-grey-dk-000 }
+
+## Z Drive
 
 ![Z Drive - 1](../../../../assets/images/micron-16-z-drive-1.jpg)
 *Z Drive - 1*
@@ -277,6 +289,8 @@ nav_order: 2
 *Z Drive - 13*
 {: .fs-2 .text-grey-dk-000 }
 
+## Z Idlers
+
 ![Z Idlers - 1](../../../../assets/images/micron-17-z-idlers-1.jpg)
 *Z Idlers - 1*
 {: .fs-2 .text-grey-dk-000 }
@@ -293,6 +307,8 @@ nav_order: 2
 *Z Idlers - 4*
 {: .fs-2 .text-grey-dk-000 }
 
+# Z Endstop
+
 ![Z Endstop - 1](../../../../assets/images/micron-18-z-endstop-1.jpg)
 *Z Endstop - 1*
 {: .fs-2 .text-grey-dk-000 }
@@ -304,6 +320,8 @@ nav_order: 2
 ![Z Endstop - 3](../../../../assets/images/micron-18-z-endstop-3.jpg)
 *Z Endstop - 3*
 {: .fs-2 .text-grey-dk-000 }
+
+## Bed
 
 ![Bed - 1](../../../../assets/images/micron-21-bed-1.jpg)
 *Bed - 1*
@@ -325,6 +343,8 @@ nav_order: 2
 *Bed - 5*
 {: .fs-2 .text-grey-dk-000 }
 
+## ZeroFilter
+
 ![ZeroFilter - 1](../../../../assets/images/micron-23-zerofilter-1.jpg)
 *ZeroFilter - 1*
 {: .fs-2 .text-grey-dk-000 }
@@ -332,6 +352,16 @@ nav_order: 2
 ![ZeroFilter - 2](../../../../assets/images/micron-23-zerofilter-2.jpg)
 *ZeroFilter - 2*
 {: .fs-2 .text-grey-dk-000 }
+
+![ZeroFilter - 3](../../../../assets/images/micron-23-zerofilter-3.jpg)
+*ZeroFilter - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![ZeroFilter - 4](../../../../assets/images/micron-23-zerofilter-4.jpg)
+*ZeroFilter - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+## Y Axis
 
 ![Y Axis - 1](../../../../assets/images/micron-19-y-axis-1.jpg)
 *Y Axis - 1*
@@ -352,6 +382,8 @@ nav_order: 2
 ![Y Axis - 5](../../../../assets/images/micron-19-y-axis-5.jpg)
 *Y Axis - 5*
 {: .fs-2 .text-grey-dk-000 }
+
+## X Axis
 
 ![X Axis - 1](../../../../assets/images/micron-20-x-axis-1.jpg)
 *X Axis - 1*
@@ -377,6 +409,8 @@ nav_order: 2
 *X Axis - 6*
 {: .fs-2 .text-grey-dk-000 }
 
+## A/B Idlers
+
 ![A/B Idlers - 1](../../../../assets/images/micron-22-a-b-idlers-1.jpg)
 *A/B Idlers - 1*
 {: .fs-2 .text-grey-dk-000 }
@@ -391,6 +425,52 @@ nav_order: 2
 
 ![A/B Idlers - 4](../../../../assets/images/micron-22-a-b-idlers-4.jpg)
 *A/B Idlers - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+## A/B Drives
+
+![A Drive - 1](../../../../assets/images/micron-24-a-b-drives-1.jpg)
+*A Drive - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![A Drive - 2](../../../../assets/images/micron-24-a-b-drives-2.jpg)
+*A Drive - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![A Drive Top - 1](../../../../assets/images/micron-24-a-b-drives-4.jpg)
+*A Drive Top - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![A Drive Top - 2](../../../../assets/images/micron-24-a-b-drives-5.jpg)
+*A Drive Top - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![A Drive Top - 3](../../../../assets/images/micron-24-a-b-drives-6.jpg)
+*A Drive Top - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![A Drive Top - 4](../../../../assets/images/micron-24-a-b-drives-7.jpg)
+*A Drive - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+![A Drive Top - 5](../../../../assets/images/micron-24-a-b-drives-8.jpg)
+*A Drive - 5*
+{: .fs-2 .text-grey-dk-000 }
+
+![A Drive Top - 6](../../../../assets/images/micron-24-a-b-drives-9.jpg)
+*A Drive Top - 6*
+{: .fs-2 .text-grey-dk-000 }
+
+![B Drive - 1](../../../../assets/images/micron-24-a-b-drives-10.jpg)
+*B Drive - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![B Drive - 2](../../../../assets/images/micron-24-a-b-drives-11.jpg)
+*B Drive - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![A/B Drives - 1](../../../../assets/images/micron-24-a-b-drives-12.jpg)
+*A/B Drives - 1*
 {: .fs-2 .text-grey-dk-000 }
 
 ![](../../../../assets/images/jpg)
