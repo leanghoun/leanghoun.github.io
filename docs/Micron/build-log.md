@@ -127,7 +127,9 @@ Make sure to pre-insert any necessary M3 nuts as you go. It's not possible to ad
 
 Now that the basic frame is assembled, this is a good time to check for squareness. For each face, measure the two diagonals to see if they are within 1mm of each other. For the bottom, check to make sure it's not rocking.
 
-I'm prepping these bed extrusions the older horizontal way with the front cap to line up with the mounting holes on the v0.1 bed.
+The PrecisePrinterParts v0.1 bed that I am using has 3-point mounting, while the latest iteration of the Micron design has 4-point mounting like the v2.4. It's possible to re-drill (there are even drill guides in the STL folder), but I only have hand tools and would prefer not to mangle it. Instead, I'm prepping these bed extrusions like the earlier Micron design, horizontally with a front printed piece to line up with the front mounting hole. A nice benefit is this horizontal mounting makes it compatible with [Zruncho's ZeroFilters](https://github.com/zruncho3d/zerofilter).
+
+*Update: With the Zerofilters placed, the extrusions are pushed apart just a tiny bit, making the mounting hole in the front printed piece too far. I needed to adjust the model and reprint.*
 
 ![Frame Assembly - 12](../../../../assets/images/micron-13-frame-12.jpg)
 *Frame Assembly - 12*
@@ -156,6 +158,10 @@ Insert the Igus KGLM-3 spherical bearings into the printed parts and secure each
 {: .fs-2 .text-grey-dk-000 }
 
 ## Deck
+
+These photos are showing the original design from the Micron STLs folder, but I ended up tweaking the design to center the hole within the ZeroFilters and reducing the corner cutouts for the belts to eliminate gaps.
+
+As an aside, this is the perfect use-case for titanium white, which is infamous for horribly uneven sidewalls.
 
 ![Printed Deck - 1](../../../../assets/images/micron-15-printed-panels-mh-white-1.jpg)
 *Printed Deck - 1*
@@ -191,11 +197,13 @@ Testing the pulley assembly in the housing *without* the belt is a good way to s
 *Z Drive - 3*
 {: .fs-2 .text-grey-dk-000 }
 
-Wires face in towards the Micron's center.
+The loop should be exiting the side where the wheel protrudes. I don't know why I pulled the belt out like this.
 
 ![Z Drive - 4](../../../../assets/images/micron-16-z-drive-4.jpg)
 *Z Drive - 4*
 {: .fs-2 .text-grey-dk-000 }
+
+Wires face in towards the Micron's center.
 
 ![Z Drive - 5](../../../../assets/images/micron-16-z-drive-5.jpg)
 *Z Drive - 5*
@@ -265,6 +273,8 @@ Adorable.
 
 There are supposed to be four M3 shims to extend the barrel. In my case, the screw is already short, so they are not necessary. I will use a bit of low strength thread locker later to set the proper height.
 
+*Update: I am sourcing a taller M4x5x20 chicago screw. The ZeroFilter mounting brace presses against the Fabreeko edge-to-edge heater bed and prevents the mounting screws from actually mounting. To solve this, I'm using some M4 nuts on top of the knurled nuts to give some more clearance and longer mounting screws, but the M4x5x12 chicago screw is too wobbly when extended to that height.*
+
 ![Z Endstop - 2](../../../../assets/images/micron-18-z-endstop-2.jpg)
 *Z Endstop - 2*
 {: .fs-2 .text-grey-dk-000 }
@@ -280,6 +290,8 @@ There are supposed to be four M3 shims to extend the barrel. In my case, the scr
 ## Bed
 
 This is a bed from PrecisePrinterParts. A few of the nicer features are the thermistor slot, indexing hole for flex plate alignment, and flatness within 0.02mm.
+
+The newest Micron design actually uses 4-point bed mounting like the v2.4. To get around this, I am using the bed mounting system from an older Micron design where the aluminum extrusions are horizontal and accommodate v0.1 beds. Plus, it works with ZeroFilters. Alternatively, you could use the included printable drill guides to make it 4-point mounting, without ZeroFilters.
 
 ![Bed - 1](../../../../assets/images/micron-21-bed-1.jpg)
 *Bed - 1*
@@ -323,10 +335,14 @@ Fabreek's edge-to-edge heater. I had to trim just the tiniest bit around the 3 m
 *ZeroFilter - 3*
 {: .fs-2 .text-grey-dk-000 }
 
-Here is where I ran into a couple of issues. The deck's center hole is not centered to the ZeroFilter, and moving the horizontal extrusions to make room for the parts pushes out the front mount for the bed a bit too far. I adjusted and reprinted both the deck panel and the front mount, and I added another brace to the front of the ZeroFilters to keep it all square and tight.
+Here is where I ran into a couple of issues. The original deck's center hole was not centered to the ZeroFilter, and moving the horizontal extrusions to make room for the parts pushes out the front mount for the bed a bit too far. I adjusted and reprinted both the deck panel and the front mount, and I added another brace to the front of the ZeroFilters to keep it all square and tight.
 
 ![ZeroFilter - 4](../../../../assets/images/micron-23-zerofilter-4.jpg)
 *ZeroFilter - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+![ZeroFilter - 5](../../../../assets/images/micron-23-zerofilter-5.jpg)
+*ZeroFilter - 5*
 {: .fs-2 .text-grey-dk-000 }
 
 ## Y Axis
@@ -429,7 +445,7 @@ Wire connectors facing towards inside of printer.
 *A Drive Top - 2*
 {: .fs-2 .text-grey-dk-000 }
 
-After soldering the wires and directing them into the wire channel, they naturally form 90° bends. Should be fine I think. I'll try to remember to zip tie this up somewhere for some relief.
+After soldering the wires and directing them into the wire channel, they naturally form 90° bends. I'll need to add heatshrink to reinforce the connection and zip tie this up somewhere for strain relief.
 
 ![A Drive Top - 3](../../../../assets/images/micron-24-a-b-drives-6.jpg)
 *A Drive Top - 3*
@@ -551,6 +567,8 @@ I'm using leftover 10x11 cable chain, so the mount here is not the default Micro
 *Rear Gantry - 2*
 {: .fs-2 .text-grey-dk-000 }
 
+On the carriage mount (left), you can see how the magnets press into the exposed wires, completing the circuit when the probe is grabbed.
+
 ![Rear Gantry - 3](../../../../assets/images/micron-29-rear-gantry-3.jpg)
 *Rear Gantry - 3*
 {: .fs-2 .text-grey-dk-000 }
@@ -659,6 +677,12 @@ I'm using leftover 10x11 cable chain, so the mount here is not the default Micro
 
 ![Front Skirt - 2](../../../../assets/images/micron-38-front-skirt-2.jpg)
 *Front Skirt - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+Woooo, finally! Still a rat's nest of wires, but seeing the final colors together is exciting!
+
+![Front Skirt - 3](../../../../assets/images/micron-38-front-skirt-3.jpg)
+*Front Skirt - 3*
 {: .fs-2 .text-grey-dk-000 }
 
 ## Electronics

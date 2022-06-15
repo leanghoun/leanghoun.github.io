@@ -367,6 +367,10 @@ nav_order: 2
 *ZeroFilter - 4*
 {: .fs-2 .text-grey-dk-000 }
 
+![ZeroFilter - 5](../../../../assets/images/micron-23-zerofilter-5.jpg)
+*ZeroFilter - 5*
+{: .fs-2 .text-grey-dk-000 }
+
 ## Y Axis
 
 ![Y Axis - 1](../../../../assets/images/micron-19-y-axis-1.jpg)
@@ -663,6 +667,10 @@ nav_order: 2
 
 ![Front Skirt - 2](../../../../assets/images/micron-38-front-skirt-2.jpg)
 *Front Skirt - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![Front Skirt - 3](../../../../assets/images/micron-38-front-skirt-3.jpg)
+*Front Skirt - 3*
 {: .fs-2 .text-grey-dk-000 }
 
 ## Electronics
