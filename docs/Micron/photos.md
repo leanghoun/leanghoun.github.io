@@ -533,6 +533,18 @@ nav_order: 2
 *Klicky - 2*
 {: .fs-2 .text-grey-dk-000 }
 
+![Klicky - 3](../../../../assets/images/micron-28-klicky-3.jpg)
+*Klicky - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![Klicky - 4](../../../../assets/images/micron-28-klicky-4.jpg)
+*Klicky - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+![Klicky - 5](../../../../assets/images/micron-28-klicky-5.jpg)
+*Klicky - 5*
+{: .fs-2 .text-grey-dk-000 }
+
 ## Rear Gantry
 
 ![Rear Gantry - 1](../../../../assets/images/micron-29-rear-gantry-1.jpg)
@@ -561,6 +573,120 @@ nav_order: 2
 *Mounting X Axis - 2*
 {: .fs-2 .text-grey-dk-000 }
 
-![](../../../../assets/images/jpg)
-**
+## X/Y Belts
+
+![X/Y Belts - 1](../../../../assets/images/micron-31-xy-belts-1.jpg)
+*X/Y Belts - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![X/Y Belts - 2](../../../../assets/images/micron-31-xy-belts-2.jpg)
+*X/Y Belts - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+## Mini Afterburner
+
+![Mini Afterburner - 1](../../../../assets/images/micron-32-mini-ab-1.jpg)
+*Mini Afterburner - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Mini Afterburner - 2](../../../../assets/images/micron-32-mini-ab-2.jpg)
+*Mini Afterburner - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![Mini Afterburner - 3](../../../../assets/images/micron-32-mini-ab-3.jpg)
+*Mini Afterburner - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![Mini Afterburner - 4](../../../../assets/images/micron-32-mini-ab-4.jpg)
+*Mini Afterburner - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+![Mini Afterburner - 5](../../../../assets/images/micron-32-mini-ab-5.jpg)
+*Mini Afterburner - 5*
+{: .fs-2 .text-grey-dk-000 }
+
+## Gantry Install
+
+![Gantry Install - 1](../../../../assets/images/micron-33-gantry-install-1.jpg)
+*Gantry Install - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Gantry Install - 2](../../../../assets/images/micron-33-gantry-install-2.jpg)
+*Gantry Install - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![Gantry Install - 3](../../../../assets/images/micron-33-gantry-install-3.jpg)
+*Gantry Install - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+## Z Belts
+
+![Z Belts - 1](../../../../assets/images/micron-34-z-belts-1.jpg)
+*Z Belts - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Belts - 2](../../../../assets/images/micron-34-z-belts-2.jpg)
+*Z Belts - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Belts - 3](../../../../assets/images/micron-34-z-belts-3.jpg)
+*Z Belts - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+## X/Y Belts (Revisited)
+
+![X/Y Belts (Revisited) - 1](../../../../assets/images/micron-35-xy-belts-1.jpg)
+*X/Y Belts (Revisited) - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+## All Belts Done
+
+![All Belts Done - 1](../../../../assets/images/micron-36-all-belts-done-1.jpg)
+*All Belts Done - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+## Mini Afterburner (Revisited)
+
+![Mini Afterburner (Revisited) - 1](../../../../assets/images/micron-37-mini-ab-1.jpg)
+*Mini Afterburner (Revisited) - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Mini Afterburner (Revisited) - 2](../../../../assets/images/micron-37-mini-ab-2.jpg)
+*Mini Afterburner (Revisited) - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+## Front Skirt
+
+![Front Skirt - 1](../../../../assets/images/micron-38-front-skirt-1.jpg)
+*Front Skirt - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Front Skirt - 2](../../../../assets/images/micron-38-front-skirt-2.jpg)
+*Front Skirt - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+## Electronics
+
+![Electronics - 1](../../../../assets/images/micron-39-electronics-1.jpg)
+*Electronics - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Electronics - 2](../../../../assets/images/micron-39-electronics-2.jpg)
+*Electronics - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![Electronics - 3](../../../../assets/images/micron-39-electronics-3.jpg)
+*Electronics - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![Electronics - 4](../../../../assets/images/micron-39-electronics-4.jpg)
+*Electronics - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+![Electronics - 5](../../../../assets/images/micron-39-electronics-5.jpg)
+*Electronics - 5*
+{: .fs-2 .text-grey-dk-000 }
+
+![Electronics - 6](../../../../assets/images/micron-39-electronics-6.jpg)
+*Electronics - 6*
 {: .fs-2 .text-grey-dk-000 }
