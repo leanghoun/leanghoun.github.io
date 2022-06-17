@@ -287,6 +287,8 @@ For an in-chamber camera, I decided on trying a variant of the [OV5648 camera](h
 *OV5648 + New Mount*
 {: .fs-2 .text-grey-dk-000 }
 
+[Download the STL files for my OV5648 Camera Mount](../../../../assets/files/ov5648-mount.zip){: .btn .btn-purple}
+
 ## Sturdy Handles
 
 [Sturdy Handles](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/Sturdy_Handles) mount well and do not interfere with panel removal, but the extrusions have a tendency to rotate. Need to remember to periodically retighten the frame.

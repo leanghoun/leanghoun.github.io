@@ -487,6 +487,8 @@ Adjust the B pulley so that the teeth are centered against the bottom bearing st
 *XY Joint Assemblies - 1*
 {: .fs-2 .text-grey-dk-000 }
 
+It's easier to get the parts to mate up if you give the screws some slack.
+
 ![XY Joint Assemblies - 2](../../../../assets/images/micron-24-xy-joint-assemblies-2.jpg)
 *XY Joint Assemblies - 2*
 {: .fs-2 .text-grey-dk-000 }
@@ -519,6 +521,8 @@ The belt clamps have a recess to accept the belt. That should face downwards.
 *Gantry - Mounting A/B Idlers - 1*
 {: .fs-2 .text-grey-dk-000 }
 
+The belt tensioners should have the heads of their SHCS on top.
+
 ![Gantry - Mounting A/B Idlers - 2](../../../../assets/images/micron-26-ab-idlers-2.jpg)
 *Gantry - Mounting A/B Idlers - 2*
 {: .fs-2 .text-grey-dk-000 }
@@ -542,6 +546,8 @@ I like this implementation. The switch leads just poke through the printed piece
 ![Klicky - 2](../../../../assets/images/micron-28-klicky-2.jpg)
 *Klicky - 2*
 {: .fs-2 .text-grey-dk-000 }
+
+On the carriage mount (left), you can see how the magnets press into the exposed wires, completing the circuit when the probe is grabbed. The two wired magnets are the same polarity, while the non-wired magnet is opposite.
 
 ![Klicky - 3](../../../../assets/images/micron-28-klicky-3.jpg)
 *Klicky - 3*
@@ -567,8 +573,6 @@ I'm using leftover 10x11 cable chain, so the mount here is not the default Micro
 *Rear Gantry - 2*
 {: .fs-2 .text-grey-dk-000 }
 
-On the carriage mount (left), you can see how the magnets press into the exposed wires, completing the circuit when the probe is grabbed.
-
 ![Rear Gantry - 3](../../../../assets/images/micron-29-rear-gantry-3.jpg)
 *Rear Gantry - 3*
 {: .fs-2 .text-grey-dk-000 }
@@ -593,11 +597,15 @@ On the carriage mount (left), you can see how the magnets press into the exposed
 *X/Y Belts - 1*
 {: .fs-2 .text-grey-dk-000 }
 
+None of the screws holding parts to aluminum rails are tightened yet. Pulling on the belts too hard at this point will case things to shift. We'll do final tightening of screws and belt once the gantry is installed.
+
 ![X/Y Belts - 2](../../../../assets/images/micron-31-xy-belts-2.jpg)
 *X/Y Belts - 2*
 {: .fs-2 .text-grey-dk-000 }
 
 ## Mini Afterburner
+
+The little PTFE tube here is the wrong length. I cut it to have 7mm exposed from the printed part as shown in the manual, but this is way too short for the Dragonfly that came with the DFH kit. I later measured ~8mm of extension from the Dragonfly throat; the 7mm as requested plus a tiny bit to sit inside the printed part.
 
 ![Mini Afterburner - 1](../../../../assets/images/micron-32-mini-ab-1.jpg)
 *Mini Afterburner - 1*
@@ -606,6 +614,8 @@ On the carriage mount (left), you can see how the magnets press into the exposed
 ![Mini Afterburner - 2](../../../../assets/images/micron-32-mini-ab-2.jpg)
 *Mini Afterburner - 2*
 {: .fs-2 .text-grey-dk-000 }
+
+At first, I had all my fan wires exiting the wire groove, but this required wrapping the left part cooling fan wires
 
 ![Mini Afterburner - 3](../../../../assets/images/micron-32-mini-ab-3.jpg)
 *Mini Afterburner - 3*
