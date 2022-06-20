@@ -613,7 +613,7 @@ Additionally, the drive gear shaft was sticking proud about 1mm and I was worrie
 *Mini Afterburner - 1*
 {: .fs-2 .text-grey-dk-000 }
 
-The 3006 Delta fan that came with the DFH kit is 4-wired for power/ground/tach/PWM ([guide to install tach/PWM for Klipper](https://www.nicksherlock.com/2022/01/driving-a-4-pin-computer-pwm-fan-on-the-btt-octopus-using-klipper/)), and has an impressive 5.1cfm while being only 28dB. But the wires are TINY. As you'll see later on, I ended up splicing them to 24AWG for crimping and connecting to two 2-pin Microfits; power/ground and tach/PWM. This way, if I ever need to use a standard 2-wire fan in the future, I don't have to deal with a weird 4-pin connector.
+The 3006 Delta fan that came with the DFH kit is 4-wired for power/ground/tach/PWM ([guide to install tach/PWM for Klipper](https://www.nicksherlock.com/2022/01/driving-a-4-pin-computer-pwm-fan-on-the-btt-octopus-using-klipper/) and [spec sheet](https://media.digikey.com/pdf/Data%20Sheets/Delta%20PDFs/ASB0305HP-00CP4_Aug14,2017_Spec.pdf)), and has an impressive 5.1cfm while being only 28dB. But the wires are TINY. As you'll see later on, I ended up splicing them to 24AWG for crimping and connecting to two 2-pin Microfits; power/ground and tach/PWM. This way, if I ever need to use a standard 2-wire fan in the future, I don't have to deal with a weird 4-pin connector.
 
 ![Mini Afterburner - 2](../../../../assets/images/micron-32-mini-ab-2.jpg)
 *Mini Afterburner - 2*
