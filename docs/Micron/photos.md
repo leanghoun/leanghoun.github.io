@@ -698,3 +698,89 @@ nav_order: 2
 ![Electronics - 6](../../../../assets/images/micron-39-electronics-6.jpg)
 *Electronics - 6*
 {: .fs-2 .text-grey-dk-000 }
+
+## Wiring
+
+![AC - 1](../../../../assets/images/micron-40-power-inlet-1.jpg)
+*AC - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![AC - 2](../../../../assets/images/micron-40-power-inlet-2.jpg)
+*AC - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![Bed - 1](../../../../assets/images/micron-41-bed-1.jpg)
+*Bed - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Bed - 2](../../../../assets/images/micron-41-bed-2.jpg)
+*Bed - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![DC - 1](../../../../assets/images/micron-42-dc-1.jpg)
+*DC - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![DC - 2](../../../../assets/images/micron-42-dc-2.jpg)
+*DC - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![DC - 3](../../../../assets/images/micron-42-dc-3.jpg)
+*DC - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![DC - 4](../../../../assets/images/micron-42-dc-4.jpg)
+*DC - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+![Z Motors - 1](../../../../assets/images/micron-43-z-motors-1.jpg)
+*Z Motors - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+## Mini Afterburner (Revisited)
+
+![Mini Afterburner - 1](../../../../assets/images/micron-44-mini-ab-1.jpg)
+*Mini Afterburner - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Mini Afterburner - 2](../../../../assets/images/micron-44-mini-ab-2.jpg)
+*Mini Afterburner - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![Mini Afterburner - 3](../../../../assets/images/micron-44-mini-ab-3.jpg)
+*Mini Afterburner - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![Mini Afterburner - 4](../../../../assets/images/micron-44-mini-ab-4.jpg)
+*Mini Afterburner - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+![Mini Afterburner - 5](../../../../assets/images/micron-44-mini-ab-5.jpg)
+*Mini Afterburner - 5*
+{: .fs-2 .text-grey-dk-000 }
+
+![Mini Afterburner - 6](../../../../assets/images/micron-44-mini-ab-6.jpg)
+*Mini Afterburner - 6*
+{: .fs-2 .text-grey-dk-000 }
+
+![Mini Afterburner - 7](../../../../assets/images/micron-44-mini-ab-7.jpg)
+*Mini Afterburner - 7*
+{: .fs-2 .text-grey-dk-000 }
+
+![Mini Afterburner - 8](../../../../assets/images/micron-44-mini-ab-8.jpg)
+*Mini Afterburner - 8*
+{: .fs-2 .text-grey-dk-000 }
+
+![Mini Afterburner - 9](../../../../assets/images/micron-44-mini-ab-9.jpg)
+*Mini Afterburner - 9*
+{: .fs-2 .text-grey-dk-000 }
+
+## Umbilical/Cable Chain
+
+![Umbilical/Cable Chain - 1](../../../../assets/images/micron-45-umbilical-chain-1.jpg)
+*Umbilical/Cable Chain - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Umbilical/Cable Chain - 2](../../../../assets/images/micron-45-umbilical-chain-2.jpg)
+*Umbilical/Cable Chain - 2*
+{: .fs-2 .text-grey-dk-000 }

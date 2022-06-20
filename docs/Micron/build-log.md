@@ -605,11 +605,15 @@ None of the screws holding parts to aluminum rails are tightened yet. Pulling on
 
 ## Mini Afterburner
 
-The little PTFE tube here is the wrong length. I cut it to have 7mm exposed from the printed part as shown in the manual, but this is way too short for the Dragonfly that came with the DFH kit. I later measured ~8mm of extension from the Dragonfly throat; the 7mm as requested plus a tiny bit to sit inside the printed part.
+The little PTFE tube here is the wrong length. I cut it to have 7mm exposed from the printed part as shown in the manual, but this is way too short for the Dragonfly that came with the DFH kit. I later inserted the PTFE tube into the Dragonfly from the top, then measured and cut ~8mm of extension; the 7mm as requested plus a tiny bit to sit inside the printed part for alignment.
+
+Additionally, the drive gear shaft was sticking proud about 1mm and I was worried it would rub against the extruder motor, so I spent some time with a file and knocked it down until it was flush with the printed face.
 
 ![Mini Afterburner - 1](../../../../assets/images/micron-32-mini-ab-1.jpg)
 *Mini Afterburner - 1*
 {: .fs-2 .text-grey-dk-000 }
+
+The 3006 Delta fan that came with the DFH kit is 4-wired for power/ground/tach/PWM ([guide to install tach/PWM for Klipper](https://www.nicksherlock.com/2022/01/driving-a-4-pin-computer-pwm-fan-on-the-btt-octopus-using-klipper/)), and has an impressive 5.1cfm while being only 28dB. But the wires are TINY. As you'll see later on, I ended up splicing them to 24AWG for crimping and connecting to two 2-pin Microfits; power/ground and tach/PWM. This way, if I ever need to use a standard 2-wire fan in the future, I don't have to deal with a weird 4-pin connector.
 
 ![Mini Afterburner - 2](../../../../assets/images/micron-32-mini-ab-2.jpg)
 *Mini Afterburner - 2*
@@ -621,6 +625,8 @@ At first, I had all my fan wires exiting the wire groove, but this required wrap
 *Mini Afterburner - 3*
 {: .fs-2 .text-grey-dk-000 }
 
+Look at how tiny those wires are. Makes standard fan wires look bulky in comparison.
+
 ![Mini Afterburner - 4](../../../../assets/images/micron-32-mini-ab-4.jpg)
 *Mini Afterburner - 4*
 {: .fs-2 .text-grey-dk-000 }
@@ -631,6 +637,8 @@ At first, I had all my fan wires exiting the wire groove, but this required wrap
 
 ## Gantry Install
 
+The gantry is just sitting on the linear rail carriages here to make sure everything lines up decently.
+
 ![Gantry Install - 1](../../../../assets/images/micron-33-gantry-install-1.jpg)
 *Gantry Install - 1*
 {: .fs-2 .text-grey-dk-000 }
@@ -639,19 +647,27 @@ At first, I had all my fan wires exiting the wire groove, but this required wrap
 *Gantry Install - 2*
 {: .fs-2 .text-grey-dk-000 }
 
+Take the gantry back out and secure the Z belts to the undersides of each corner. Get it "flying" with zip ties.
+
 ![Gantry Install - 3](../../../../assets/images/micron-33-gantry-install-3.jpg)
 *Gantry Install - 3*
 {: .fs-2 .text-grey-dk-000 }
 
 ## Z Belts
 
+The Z belts should be secured with the bottom clamp, feeding in towards the chamber. Route it down through the Z assembly pulleys, back up through the slot in the X/Y tensioners (just passing through, not actually interacting with the X/Y parts), through the top idlers, and back down to be secured with the top clamp.
+
 ![Z Belts - 1](../../../../assets/images/micron-34-z-belts-1.jpg)
 *Z Belts - 1*
 {: .fs-2 .text-grey-dk-000 }
 
+Extra belt slop can be fed through the "mouth". Tightening this clamp down will pull the belt just a bit tighter. It will take trial and error and adjusting one or two teeth at a time to get the 4 corners at equal tension.
+
 ![Z Belts - 2](../../../../assets/images/micron-34-z-belts-2.jpg)
 *Z Belts - 2*
 {: .fs-2 .text-grey-dk-000 }
+
+I left enough belt length to work with in the future. Finally, zip tie to tidy up.
 
 ![Z Belts - 3](../../../../assets/images/micron-34-z-belts-3.jpg)
 *Z Belts - 3*
@@ -659,11 +675,15 @@ At first, I had all my fan wires exiting the wire groove, but this required wrap
 
 ## X/Y Belts (Revisited)
 
+Now's the time to pull the X/Y belts snug, doublecheck for squareness, check for binding/racking in the moveents, tighten up the gantry frame, and cut the belts to length. Flush enough to make me nervous. Also, getting the belt snug enough for the tensioners to set final tension was actually pretty tricky.
+
 ![X/Y Belts (Revisited) - 1](../../../../assets/images/micron-35-xy-belts-1.jpg)
 *X/Y Belts (Revisited) - 1*
 {: .fs-2 .text-grey-dk-000 }
 
 ## All Belts Done
+
+Tensioned, trimmed to final lengths, and cleaned up.
 
 ![All Belts Done - 1](../../../../assets/images/micron-36-all-belts-done-1.jpg)
 *All Belts Done - 1*
@@ -671,15 +691,21 @@ At first, I had all my fan wires exiting the wire groove, but this required wrap
 
 ## Mini Afterburner (Revisited)
 
+Install the toolhead mount.
+
 ![Mini Afterburner (Revisited) - 1](../../../../assets/images/micron-37-mini-ab-1.jpg)
 *Mini Afterburner (Revisited) - 1*
 {: .fs-2 .text-grey-dk-000 }
+
+Test-fitting the toolhead. (I still haven't cut the toolhead wires to length yet.)
 
 ![Mini Afterburner (Revisited) - 2](../../../../assets/images/micron-37-mini-ab-2.jpg)
 *Mini Afterburner (Revisited) - 2*
 {: .fs-2 .text-grey-dk-000 }
 
 ## Front Skirt
+
+These use the easier-to-print Z motor covers, though I did print the originals and they came out just fine. Spend the time to orient the seam to sit at the bottoms.
 
 ![Front Skirt - 1](../../../../assets/images/micron-38-front-skirt-1.jpg)
 *Front Skirt - 1*
@@ -697,13 +723,19 @@ Woooo, finally! Still a rat's nest of wires, but seeing the final colors togethe
 
 ## Electronics
 
+AC goes on on the left, DC exits on the right.
+
 ![Electronics - 1](../../../../assets/images/micron-39-electronics-1.jpg)
 *Electronics - 1*
 {: .fs-2 .text-grey-dk-000 }
 
+This lever locks the hinged frame to the aluminum rail. (I later reprint this in Electrolytic Deuterium to make it stand out more.)
+
 ![Electronics - 2](../../../../assets/images/micron-39-electronics-2.jpg)
 *Electronics - 2*
 {: .fs-2 .text-grey-dk-000 }
+
+This boomerang-looking part is the elevated standoff to mount one corner of the Octopus.
 
 ![Electronics - 3](../../../../assets/images/micron-39-electronics-3.jpg)
 *Electronics - 3*
@@ -713,10 +745,136 @@ Woooo, finally! Still a rat's nest of wires, but seeing the final colors togethe
 *Electronics - 4*
 {: .fs-2 .text-grey-dk-000 }
 
+The PSU mounts underneath the already installed hinge.
+
 ![Electronics - 5](../../../../assets/images/micron-39-electronics-5.jpg)
 *Electronics - 5*
 {: .fs-2 .text-grey-dk-000 }
 
+The Octopus mounts on top of the PSU. The right side mounts of the Octopus have extra printed parts to secure the Pi with self-tapping screws.
+
 ![Electronics - 6](../../../../assets/images/micron-39-electronics-6.jpg)
 *Electronics - 6*
+{: .fs-2 .text-grey-dk-000 }
+
+## Wiring
+
+![AC - 1](../../../../assets/images/micron-40-power-inlet-1.jpg)
+*AC - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+The mains wires are routed underneath the PSU, coming out on the right and into the AC side of the PSU.
+
+![AC - 2](../../../../assets/images/micron-40-power-inlet-2.jpg)
+*AC - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+The bed wires (heater and two thermistors) are fed into the center hole.
+
+![Bed - 1](../../../../assets/images/micron-41-bed-1.jpg)
+*Bed - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+So clean!
+
+![Bed - 2](../../../../assets/images/micron-41-bed-2.jpg)
+*Bed - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+Bed heater wires (white) are installed on the lower left. The bed thermistors are installed in the center (red and blue).
+
+![DC - 1](../../../../assets/images/micron-42-dc-1.jpg)
+*DC - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+The DC side of the PSU are +/+/−/−, so make sure to keep proper polarity. And I'm jumpering from the second pair to the third pair on the Octopus. I've seen people stack spade connectors, but this looks cleaner to me.
+
+![DC - 2](../../../../assets/images/micron-42-dc-2.jpg)
+*DC - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![DC - 3](../../../../assets/images/micron-42-dc-3.jpg)
+*DC - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+A quick test now that AC/DC is all hooked up. We have lights!
+
+![DC - 4](../../../../assets/images/micron-42-dc-4.jpg)
+*DC - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+The four Z motors are fed up to the top of the hinge, cut to length, and re-crimped.
+
+![Z Motors - 1](../../../../assets/images/micron-43-z-motors-1.jpg)
+*Z Motors - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+## Mini Afterburner (Revisited)
+
+Eyeballed the wire lengths so that the connectors all sit behind the extruder motor. On the far right, you can see the 4 tiny wires of the Delta hotend fan spliced to normal guage wires and split to two 2-pin connectors.
+
+![Mini Afterburner - 1](../../../../assets/images/micron-44-mini-ab-1.jpg)
+*Mini Afterburner - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+It's a lot of connectors with nowhere to hide them.
+
+![Mini Afterburner - 2](../../../../assets/images/micron-44-mini-ab-2.jpg)
+*Mini Afterburner - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+This is a rear shot of the X carriage mount to show how I routed the X limit switch and probe wires. X limit switch feeds through the center hole and to the left to join the wires on that side, while the probe switch feeds to the right and joins the wires on the opposite side.
+
+![Mini Afterburner - 3](../../../../assets/images/micron-44-mini-ab-3.jpg)
+*Mini Afterburner - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+With this many Microfit connectors, I really should invest in a de-pinning tool.
+
+![Mini Afterburner - 4](../../../../assets/images/micron-44-mini-ab-4.jpg)
+*Mini Afterburner - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+The rear side of the mini Afterburner assembly has two zip tie points. Arrange the wire-bundles accordingly, and secure them with zip ties.
+
+![Mini Afterburner - 5](../../../../assets/images/micron-44-mini-ab-5.jpg)
+*Mini Afterburner - 5*
+{: .fs-2 .text-grey-dk-000 }
+
+I am trying to hide the extruder motor's 4-pin Microfit connector behind the wires. Lol.
+
+![Mini Afterburner - 6](../../../../assets/images/micron-44-mini-ab-6.jpg)
+*Mini Afterburner - 6*
+{: .fs-2 .text-grey-dk-000 }
+
+Run the wires through the umbilical sheathing and the outer part of the cable gland. Here you can see how full the cable gland inlet is. I don't think I could fit even one more FEP wire. It's pretty tough to keep all the wires untangled.
+
+![Mini Afterburner - 7](../../../../assets/images/micron-44-mini-ab-7.jpg)
+*Mini Afterburner - 7*
+{: .fs-2 .text-grey-dk-000 }
+
+![Mini Afterburner - 8](../../../../assets/images/micron-44-mini-ab-8.jpg)
+*Mini Afterburner - 8*
+{: .fs-2 .text-grey-dk-000 }
+
+This will do until I get the fancy two-tone woven sheathing in August.
+
+![Mini Afterburner - 9](../../../../assets/images/micron-44-mini-ab-9.jpg)
+*Mini Afterburner - 9*
+{: .fs-2 .text-grey-dk-000 }
+
+## Umbilical/Cable Chain
+
+I might have accidentally forgot to take photos while maneuvering wires through the cable chain. It's leftover 10x11 chains from my Trident build with redesigned mounting parts to fit the 3-hole screw pattern common to generic brands.
+
+Also, the A/B motor wires were too short to actually reach the controller board, so I opted to cut them here before the chain to extend them.
+
+![Umbilical/Cable Chain - 1](../../../../assets/images/micron-45-umbilical-chain-1.jpg)
+*Umbilical/Cable Chain - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+I regret not using the same black FEP for the extruder motor. It's the only colored wires in the bundle.
+
+![Umbilical/Cable Chain - 2](../../../../assets/images/micron-45-umbilical-chain-2.jpg)
+*Umbilical/Cable Chain - 2*
 {: .fs-2 .text-grey-dk-000 }
