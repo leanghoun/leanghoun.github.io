@@ -619,7 +619,7 @@ The 3006 Delta fan that came with the DFH kit is 4-wired for power/ground/tach/P
 *Mini Afterburner - 2*
 {: .fs-2 .text-grey-dk-000 }
 
-At first, I had all my fan wires exiting the wire groove, but this required wrapping the left part cooling fan wires
+At first, I had all my fan wires exiting the wire groove, but this required wrapping the left part cooling fan wires around the hotend on the inside of the mount. I changed this after the photo, and just left the fan wires on the left to come out that same side.
 
 ![Mini Afterburner - 3](../../../../assets/images/micron-32-mini-ab-3.jpg)
 *Mini Afterburner - 3*
