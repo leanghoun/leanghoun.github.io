@@ -784,3 +784,9 @@ nav_order: 2
 ![Umbilical/Cable Chain - 2](../../../../assets/images/micron-45-umbilical-chain-2.jpg)
 *Umbilical/Cable Chain - 2*
 {: .fs-2 .text-grey-dk-000 }
+
+## Wiring
+
+![A/B & Extruder Motors - 1](../../../../assets/images/micron-46-ab-extruder-motors-1.jpg)
+*A/B & Extruder Motors - 1*
+{: .fs-2 .text-grey-dk-000 }
