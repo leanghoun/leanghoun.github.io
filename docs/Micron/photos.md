@@ -790,3 +790,29 @@ nav_order: 2
 ![A/B & Extruder Motors - 1](../../../../assets/images/micron-46-ab-extruder-motors-1.jpg)
 *A/B & Extruder Motors - 1*
 {: .fs-2 .text-grey-dk-000 }
+
+![Wiring - 1](../../../../assets/images/micron-47-wiring-1.jpg)
+*A/B & Extruder Motors - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Raspberry Pi - 1](../../../../assets/images/micron-48-pi-1.jpg)
+*Raspberry Pi - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Raspberry Pi - 2](../../../../assets/images/micron-48-pi-2.jpg)
+*Raspberry Pi - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![Wiring - 2](../../../../assets/images/micron-49-wiring-1.jpg)
+*Wiring - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+## Initial Build Complete
+
+![Initial Build Complete - 1](../../../../assets/images/micron-1.jpg)
+*Initial Build Complete - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Initial Build Complete - 2](../../../../assets/images/micron-2.jpg)
+*Initial Build Complete - 2*
+{: .fs-2 .text-grey-dk-000 }

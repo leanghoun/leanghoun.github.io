@@ -886,3 +886,39 @@ Final stepper motors connected: blank, A, B, blank, E, Z0, Z1, Z2, Z3.
 ![A/B & Extruder Motors - 1](../../../../assets/images/micron-46-ab-extruder-motors-1.jpg)
 *A/B & Extruder Motors - 1*
 {: .fs-2 .text-grey-dk-000 }
+
+Here's a shot of the electronics before I stack the Raspberry Pi.
+
+![Wiring - 1](../../../../assets/images/micron-47-wiring-1.jpg)
+*A/B & Extruder Motors - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+Powering the Raspberry Pi with 2x 5V and GND from the Octopus to the GPIO header.
+
+![Raspberry Pi - 1](../../../../assets/images/micron-48-pi-1.jpg)
+*Raspberry Pi - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+USB-C for data connection. Then flip the Rasbperry Pi over and secure with self-tapping screws.
+
+![Raspberry Pi - 2](../../../../assets/images/micron-48-pi-2.jpg)
+*Raspberry Pi - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+Wiring complete!
+
+![Wiring - 2](../../../../assets/images/micron-49-wiring-1.jpg)
+*Wiring - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+## Initial Build Complete
+
+**Tears up*
+
+![Initial Build Complete - 1](../../../../assets/images/micron-1.jpg)
+*Initial Build Complete - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Initial Build Complete - 2](../../../../assets/images/micron-2.jpg)
+*Initial Build Complete - 2*
+{: .fs-2 .text-grey-dk-000 }
