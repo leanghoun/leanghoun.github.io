@@ -2,7 +2,7 @@
 layout: default
 title: Voron Trident
 permalink: /docs/voron-trident
-nav_order: 2
+nav_order: 3
 has_children: true
 ---
 
@@ -15,7 +15,7 @@ Documentation related to my 300mm Voron Trident.
 
 ![Voron Trident](../../../../assets/images/voron-trident.jpg)
 *Voron Trident with StealthBurner and skirt buttons*
-{: .fs-2 .text-grey-dk-000 .float-right }
+{: .fs-2 .text-grey-dk-000 }
 
 ![Voron Trident Toolhead](../../../../assets/images/voron-trident-toolhead.jpg)
 *StealthBurner toolhead*

@@ -21,7 +21,7 @@ With projects, things can get messy. It would be nice to consolidate notes and t
 
 ## Quick Links
 {: .text-delta }
-*   [Voron Trident]({{ site.baseurl }}{% link docs/voron-trident/voron-trident.md %})
 *   [Micron]({{ site.baseurl }}{% link docs/micron/micron.md %})
+*   [Voron Trident]({{ site.baseurl }}{% link docs/voron-trident/voron-trident.md %})
 *   [Nova]({{ site.baseurl }}{% link docs/collections/coding/nova.md %})
 *   [Nullbits Tidbit]({{ site.baseurl }}{% link docs/collections/mechanical-keyboards/tidbit.md %})

@@ -3,7 +3,7 @@ layout: default
 title: Build Log
 parent: Micron
 permalink: /docs/micron/build-log/
-nav_order: 1
+nav_order: 2
 ---
 
 # Build Log
@@ -923,6 +923,10 @@ Powering it on that first time always makes me so nervous, but all the magic smo
 
 ![Initial Build Complete - 1](../../../../assets/images/micron-1.jpg)
 *Initial Build Complete - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Initial Build Complete - 2](../../../../assets/images/micron-gantry.jpg)
+*Initial Build Complete - 2*
 {: .fs-2 .text-grey-dk-000 }
 
 ![Initial Build Complete - 2](../../../../assets/images/micron-2.jpg)

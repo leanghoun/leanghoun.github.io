@@ -3,7 +3,7 @@ layout: default
 title: Photos
 parent: Micron
 permalink: /docs/micron/photos/
-nav_order: 2
+nav_order: 3
 ---
 
 # Photos
@@ -73,19 +73,19 @@ nav_order: 2
 *These Front Z-Covers Are Hard - 1*
 {: .fs-2 .text-grey-dk-000 }
 
-![Main Colors FF Mushroom Cloud Gray - 1](../../../../assets/images/micron-8-ff-mushroom-cloud-gray-1.jpg)
-*Main Colors FF Mushroom Cloud Gray - 1*
+![Main Colors FF Mushroom Cloud Grey - 1](../../../../assets/images/micron-8-ff-mushroom-cloud-grey-1.jpg)
+*Main Colors FF Mushroom Cloud Grey - 1*
 {: .fs-2 .text-grey-dk-000 }
 
-![Main Colors FF Mushroom Cloud Gray - 2](../../../../assets/images/micron-8-ff-mushroom-cloud-gray-2.jpg)
+![Main Colors FF Mushroom Cloud Grey - 2](../../../../assets/images/micron-8-ff-mushroom-cloud-grey-2.jpg)
 *Main Colors Z-Motor Mounts - 2*
 {: .fs-2 .text-grey-dk-000 }
 
-![Main Colors FF Mushroom Cloud Gray - 3](../../../../assets/images/micron-8-ff-mushroom-cloud-gray-3.jpg)
+![Main Colors FF Mushroom Cloud Grey - 3](../../../../assets/images/micron-8-ff-mushroom-cloud-grey-3.jpg)
 *Main Colors Z-Motor Mounts - 3*
 {: .fs-2 .text-grey-dk-000 }
 
-![Main Colors FF Mushroom Cloud Gray - 4](../../../../assets/images/micron-8-ff-mushroom-cloud-gray-4.jpg)
+![Main Colors FF Mushroom Cloud Grey - 4](../../../../assets/images/micron-8-ff-mushroom-cloud-grey-4.jpg)
 *Main Colors Z-Motor Mounts - 4*
 {: .fs-2 .text-grey-dk-000 }
 
@@ -817,6 +817,10 @@ nav_order: 2
 *Initial Build Complete - 1*
 {: .fs-2 .text-grey-dk-000 }
 
-![Initial Build Complete - 2](../../../../assets/images/micron-2.jpg)
+![Initial Build Complete - 2](../../../../assets/images/micron-gantry.jpg)
 *Initial Build Complete - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![Initial Build Complete - 3](../../../../assets/images/micron-2.jpg)
+*Initial Build Complete - 3*
 {: .fs-2 .text-grey-dk-000 }
