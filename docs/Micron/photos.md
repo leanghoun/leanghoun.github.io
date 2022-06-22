@@ -803,7 +803,11 @@ nav_order: 2
 *Raspberry Pi - 2*
 {: .fs-2 .text-grey-dk-000 }
 
-![Wiring - 2](../../../../assets/images/micron-49-wiring-1.jpg)
+![Wiring - 1](../../../../assets/images/micron-49-wiring-1.jpg)
+*Wiring - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Wiring - 2](../../../../assets/images/micron-49-wiring-2.jpg)
 *Wiring - 2*
 {: .fs-2 .text-grey-dk-000 }
 

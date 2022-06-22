@@ -907,7 +907,13 @@ USB-C for data connection. Then flip the Rasbperry Pi over and secure with self-
 
 Wiring complete!
 
-![Wiring - 2](../../../../assets/images/micron-49-wiring-1.jpg)
+![Wiring - 1](../../../../assets/images/micron-49-wiring-1.jpg)
+*Wiring - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+Powering it on that first time always makes me so nervous, but all the magic smoke stayed inside and we have lights!
+
+![Wiring - 2](../../../../assets/images/micron-49-wiring-2.jpg)
 *Wiring - 2*
 {: .fs-2 .text-grey-dk-000 }
 
