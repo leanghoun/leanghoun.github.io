@@ -13,8 +13,8 @@ Documentation related to my Micron.
 
 ---
 
-![Voron Trident](../../../../assets/images/micron-1-oops-printing-begins-again-5.jpg)
-*Micron Cowling with Multi-body Print*
+![Micron](../../../../assets/images/micron-2.jpg)
+*Micron*
 {: .fs-2 .text-grey-dk-000 .float-right }
 
 ## References
