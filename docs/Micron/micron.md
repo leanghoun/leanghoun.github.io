@@ -22,7 +22,7 @@ Documentation related to my Micron.
 * GitHub - [PrintersForAnts/Micron](https://github.com/PrintersForAnts/Micron)
 * Kit - [DFH Powder-coated White Micron](https://deepfriedhero.in/products/micron-kit)
 * Filament 1 - [Fusion Filament's Electrolytic Deuterium](https://fusionfilaments.com/collections/abs-1-5-filament/products/abs1-5-filament-electrolytic-deuterium)
-* Filament 2 - [KVP Industrial Gray](https://www.villageplastics.com/color/industrial-gray/)
+* Filament 2 - [Fusion Filament's Mushroom Cloud Grey](https://fusionfilaments.com/collections/abs-1-5-filament/products/1kg-abs1-5-filament-mushroom-cloud-grey)
 * Octopus - [Pinout](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0/blob/master/Hardware/BIGTREETECH%20Octopus%20-%20PIN.pdf), [v2.4 Wiring Guide](https://docs.vorondesign.com/build/electrical/v2_octopus_wiring.html), [3DWork Guide](https://3dwork.io/en/btt-octopus/)
 
 ## Upgrades & Add-ons
