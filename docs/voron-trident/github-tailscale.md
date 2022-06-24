@@ -20,7 +20,7 @@ I've created a [GitHub repository](https://github.com/leanghoun/klipper_config) 
 1. Go to [GitHub](https://github.com) and create the repository. I just used *klipper_config* to match the folder name on the Raspberry Pi.
 1. In Terminal, SSH into the Raspberry Pi and navigate to the folder you want to turn into a repository `cd klipper_config`
 1. Create the readme file `echo "# mainsail-trident" >> README.md`
-1. Initiliaze the folder `git init`
+1. Initilize the folder `git init`
 1. Start tracking all files in the folder `git add *`
 1. Initial commit `git commit -m "First commit"`
 1. Set the branch to main `git branch -M main`
