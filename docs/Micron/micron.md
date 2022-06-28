@@ -8,7 +8,7 @@ has_children: true
 
 # Micron
 
-Documentation related to my Micron.
+Documentation related to my Micron..
 {: .fs-6 .fw-300 }
 
 ---
