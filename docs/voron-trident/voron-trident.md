@@ -8,7 +8,7 @@ has_children: true
 
 # Voron Trident
 
-Documentation related to my 300mm Voron Trident.
+Documentation related to my 300mm Voron Trident..
 {: .fs-6 .fw-300 }
 
 ---
