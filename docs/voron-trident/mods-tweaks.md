@@ -322,7 +322,6 @@ Everyone likes [Eddie's LED Bar Clip](https://github.com/VoronDesign/VoronUsers/
 I found [Killw2k's LCD Display Tweak - Remaining Time](https://www.reddit.com/r/VORONDesign/comments/rv9oxn/lcd_status_screen_tweak/) mod on Reddit. All it does is move the progress bar to the bottom row to make room for displaying remaining time and total time, neither of which are shown by default.
 
 ## Future Mods to Consider
-* GitHub - [Frame Thermal Expansion Package](https://github.com/Deutherius/TECPac) - Both hardware and software.
 * Better Filtration System, Discord@PF VT.520
   - [4" Inline Duct Fan](https://www.amazon.com/VIVOSUN-Australia-Charcoal-Pre-filter-Reversible/dp/B01DXYMBU6)
   - [HEPA filters](https://www.amazon.com/dp/B088Z7CLKC)
