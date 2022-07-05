@@ -15,6 +15,22 @@ nav_order: 4
 1. TOC
 {:toc}
 
+## Kinematic Bed Mount
+
+Mandala Rose Works was first to come out with a [kinematic bed mount](https://mandalaroseworks.com/products/matched-height-kinematic-kit), but their version looks quite bulky and loses about 17mm of Z. I went with the newer [laser cut version](https://west3d.com/products/kinematics-mount-voron-trident) designed by Whoppingpochard, which only loses 8mm in the Z direction.
+
+Installation was straightforward enough. I did not disconnect my bed and installed one corner at a time, but I don't recommend this method. While doable, it proabably took 3x as long and was a juggling act at some points, so I would suggest just taking the bed out to make it easier.
+
+Additionally, I used a longer 30mm Chicago screw in the Sexbolt housing to make up for the 8mm taller plate position.
+
+![Kinematic Bed Mounts by whoppingPochard - 1](../../../../assets/images/voron-trident-kinematic-bed-mount-1.jpg)
+*Kinematic Bed Mounts by whoppingPochard - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Kinematic Bed Mounts by whoppingPochard - 2](../../../../assets/images/voron-trident-kinematic-bed-mount-2.jpg)
+*Kinematic Bed Mounts by whoppingPochard - 2*
+{: .fs-2 .text-grey-dk-000 }
+
 ## Magnetic Panels with Magnet Inserts
 
 ![Magnetic Panels with Magnet Inserts](../../../../assets/images/magnetic-panel-and-inserts-0-installed-1.jpg)
