@@ -23,12 +23,12 @@ Installation was straightforward enough. I did not disconnect my bed and install
 
 Additionally, I used a longer 30mm Chicago screw in the Sexbolt housing to make up for the 8mm taller plate position.
 
-![Kinematic Bed Mounts by whoppingPochard - 1](../../../../assets/images/voron-trident-kinematic-bed-mount-1.jpg)
-*Kinematic Bed Mounts by whoppingPochard - 1*
+![Kinematic Bed Mounts by Whoppingpochard - 1](../../../../assets/images/voron-trident-kinematic-bed-mount-1.jpg)
+*Kinematic Bed Mounts by Whoppingpochard - 1*
 {: .fs-2 .text-grey-dk-000 }
 
-![Kinematic Bed Mounts by whoppingPochard - 2](../../../../assets/images/voron-trident-kinematic-bed-mount-2.jpg)
-*Kinematic Bed Mounts by whoppingPochard - 2*
+![Kinematic Bed Mounts by Whoppingpochard - 2](../../../../assets/images/voron-trident-kinematic-bed-mount-2.jpg)
+*Kinematic Bed Mounts by Whoppingpochard - 2*
 {: .fs-2 .text-grey-dk-000 }
 
 ## Magnetic Panels with Magnet Inserts
