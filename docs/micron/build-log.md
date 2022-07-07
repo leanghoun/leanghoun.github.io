@@ -932,3 +932,49 @@ Powering it on that first time always makes me so nervous, but all the magic smo
 ![Initial Build Complete - 2](../../../../assets/images/micron-2.jpg)
 *Initial Build Complete - 2*
 {: .fs-2 .text-grey-dk-000 }
+
+## Neopixel Front Button
+
+The Micron is headless and neopixel-less up to this point. To bring back some utility, I added a [Chromatek 19mm Momentary Push Button](https://www.adafruit.com/product/5236). The built-in neopixel will work as a status indicator and the button will cycle through the same preheat macros that my Trident has (60C for PLA → 110C for ABS → 0C for idle).
+
+The wiring is not complicated, but to make it fit, I had to give up the included harness and extend the electronics fan arms 10mm.
+
+![Neopixel Front Button - 1](../../../../assets/images/micron-50-neopixel-front-button-1.jpg)
+*Neopixel Front Button - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Neopixel Front Button - 2](../../../../assets/images/micron-50-neopixel-front-button-2.jpg)
+*Neopixel Front Button - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+You have the same 3 wires (5V in, data in, and ground) that Stealthburner neopixels have, and you have the same 2 wires (NC and ground) that limit switches have.
+
+![Neopixel Front Button - 3](../../../../assets/images/micron-50-neopixel-front-button-3.jpg)
+*Neopixel Front Button - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![Neopixel Front Button - 4](../../../../assets/images/micron-50-neopixel-front-button-4.jpg)
+*Neopixel Front Button - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+I had to make sure to bend the spades a bit extra so that the wires clear the spinning fan.
+
+![Neopixel Front Button - 5](../../../../assets/images/micron-50-neopixel-front-button-5.jpg)
+*Neopixel Front Button - 5*
+{: .fs-2 .text-grey-dk-000 }
+
+Here's how I positioned the wires.
+
+![Neopixel Front Button - 6](../../../../assets/images/micron-50-neopixel-front-button-6.jpg)
+*Neopixel Front Button - 6*
+{: .fs-2 .text-grey-dk-000 }
+
+My mini arc reactor lives.
+
+![Neopixel Front Button - 7](../../../../assets/images/micron-50-neopixel-front-button-7.jpg)
+*Neopixel Front Button - 7*
+{: .fs-2 .text-grey-dk-000 }
+
+![Neopixel Front Button - 8](../../../../assets/images/micron-50-neopixel-front-button-8.jpg)
+*Neopixel Front Button - 8*
+{: .fs-2 .text-grey-dk-000 }
