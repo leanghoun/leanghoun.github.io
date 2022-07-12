@@ -978,3 +978,13 @@ My mini arc reactor lives.
 ![Neopixel Front Button - 8](../../../../assets/images/micron-50-neopixel-front-button-8.jpg)
 *Neopixel Front Button - 8*
 {: .fs-2 .text-grey-dk-000 }
+
+## Panels
+
+I lined the rear and top panels with 1mm foam tape and they worked perfectly fine with the stock clips, but I lined the side panels with 3mm foam tape to provide clearance for the linear rail carriages, and these required making the stock clips 2mm deeper. I also flipped the front door 180° and opted to not VHB the handle just yet. Front door has no foam tape because it would affect the action of the hinge.
+
+Fully enclosed and printing ABS!
+
+![Panels - 1](../../../../assets/images/micron-51-panels-1.jpg)
+*Panels - 1*
+{: .fs-2 .text-grey-dk-000 }
