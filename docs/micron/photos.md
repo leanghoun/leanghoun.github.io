@@ -824,3 +824,45 @@ nav_order: 4
 ![Initial Build Complete - 3](../../../../assets/images/micron-2.jpg)
 *Initial Build Complete - 3*
 {: .fs-2 .text-grey-dk-000 }
+
+## Neopixel Front Button
+
+![Neopixel Front Button - 1](../../../../assets/images/micron-50-neopixel-front-button-1.jpg)
+*Neopixel Front Button - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Neopixel Front Button - 2](../../../../assets/images/micron-50-neopixel-front-button-2.jpg)
+*Neopixel Front Button - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![Neopixel Front Button - 3](../../../../assets/images/micron-50-neopixel-front-button-3.jpg)
+*Neopixel Front Button - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![Neopixel Front Button - 4](../../../../assets/images/micron-50-neopixel-front-button-4.jpg)
+*Neopixel Front Button - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+![Neopixel Front Button - 5](../../../../assets/images/micron-50-neopixel-front-button-5.jpg)
+*Neopixel Front Button - 5*
+{: .fs-2 .text-grey-dk-000 }
+
+Here's how I positioned the wires.
+
+![Neopixel Front Button - 6](../../../../assets/images/micron-50-neopixel-front-button-6.jpg)
+*Neopixel Front Button - 6*
+{: .fs-2 .text-grey-dk-000 }
+
+![Neopixel Front Button - 7](../../../../assets/images/micron-50-neopixel-front-button-7.jpg)
+*Neopixel Front Button - 7*
+{: .fs-2 .text-grey-dk-000 }
+
+![Neopixel Front Button - 8](../../../../assets/images/micron-50-neopixel-front-button-8.jpg)
+*Neopixel Front Button - 8*
+{: .fs-2 .text-grey-dk-000 }
+
+## Panels
+
+![Panels - 1](../../../../assets/images/micron-51-panels-1.jpg)
+*Panels - 1*
+{: .fs-2 .text-grey-dk-000 }
