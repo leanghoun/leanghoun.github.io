@@ -866,3 +866,9 @@ Here's how I positioned the wires.
 ![Panels - 1](../../../../assets/images/micron-51-panels-1.jpg)
 *Panels - 1*
 {: .fs-2 .text-grey-dk-000 }
+
+## Comparison to 300mm Trident
+
+![Trident and Micron - 1](../../../../assets/images/trident-and-micron.jpg)
+*Trident and Micron - 1*
+{: .fs-2 .text-grey-dk-000 }
