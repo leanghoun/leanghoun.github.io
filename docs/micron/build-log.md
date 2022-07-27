@@ -996,3 +996,27 @@ And here it is next to the 300mm Trident.
 ![Trident and Micron - 1](../../../../assets/images/trident-and-micron.jpg)
 *Trident and Micron - 1*
 {: .fs-2 .text-grey-dk-000 }
+
+## Neopixel Sticks for Chamber Lighting
+
+Smaller versions of Eddie's 2020 LED mounts exist for 1515, but having the LEDs mounted so high will cause the toolhead to always cast its shadow onto the model and bed. Trying something new, I've mounted two Neopixel Sticks low and near the bed. I tried to chain them to the front push button, but figured out that RGBW and RGB cannot be chained together. Additionally, the W in RGBW does not play well with the LED Effects library, so the Neopixel Sticks run from the simpler on/off macros.
+
+![Neopixel Sticks for Chamber Lighting - 1](../../../../assets/images/micron-52-neopixel-sticks-1.jpg)
+*Neopixel Sticks for Chamber Lighting - 1*
+{: .fs-2 .text-grey-dk-000 }
+
+![Neopixel Sticks for Chamber Lighting - 2](../../../../assets/images/micron-52-neopixel-sticks-2.jpg)
+*Neopixel Sticks for Chamber Lighting - 2*
+{: .fs-2 .text-grey-dk-000 }
+
+![Neopixel Sticks for Chamber Lighting - 3](../../../../assets/images/micron-52-neopixel-sticks-3.jpg)
+*Neopixel Sticks for Chamber Lighting - 3*
+{: .fs-2 .text-grey-dk-000 }
+
+![Neopixel Sticks for Chamber Lighting - 4](../../../../assets/images/micron-52-neopixel-sticks-4.jpg)
+*Neopixel Sticks for Chamber Lighting - 4*
+{: .fs-2 .text-grey-dk-000 }
+
+![Neopixel Sticks for Chamber Lighting - 5](../../../../assets/images/micron-52-neopixel-sticks-5.jpg)
+*Neopixel Sticks for Chamber Lighting - 5*
+{: .fs-2 .text-grey-dk-000 }
