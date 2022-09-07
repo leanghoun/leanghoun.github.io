@@ -1,16 +1,25 @@
 ---
 layout: default
-title: Gryphon/Gryphle0n
+title: Gryphon & Gryphle0n
 parent: Blasters
 grand_parent: Collections
 permalink: /docs/blasters/gryphon/
 nav_order: 1
 ---
 
-# Gryphon/Gryphle0n
+# Gryphon & Gryphle0n
+{: .no_toc }
 
-![Gryphle0n/Gryphon](../../../../assets/images/gryphle0n-00-both.jpg)
-*Gryphle0n/Gryphon*
+#### Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+## Introduction
+
+![Gryphle0n & Gryphon](../../../../assets/images/gryphle0n-00-both.jpg)
+*Gryphle0n & Gryphon*
 {: .fs-2 .text-grey-dk-000 }
 {: .no_toc }
 
@@ -29,12 +38,6 @@ nav_order: 1
 ![Gryphle0n Top](../../../../assets/images/gryphle0n-00-top.jpg)
 *Gryphle0n Top*
 {: .fs-2 .text-grey-dk-000 }
-
-#### Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 ## Build Guide
 
