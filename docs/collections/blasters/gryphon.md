@@ -20,7 +20,8 @@ nav_order: 1
 
 The Gryphon is an open-source flywheel blaster designed by Flygonial and available on [Github](https://github.com/Flygonial/The-Gryphon-Foam-Dart-Blaster). Most up to date CAD files can be found [here](https://a360.co/2N3szi3).
 
-Features *(pulled from the Github page)*:
+*(Pulled from the Github page)*
+Features:
 - Uses 130 to 180 sized 20.4mm , brushed DC motors.
 - Semi-auto by rack and pinion with 1:3 gear multiplication. The trigger pull is fairly short at 12mm.
 - Accepts 33 to 38mm OD flywheels (all 2mm shaft fit, superstock upgrade flywheels).

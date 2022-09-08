@@ -23,5 +23,5 @@ With projects, things can get messy. It would be nice to consolidate notes and t
 {: .text-delta }
 *   [Micron]({{ site.baseurl }}{% link docs/micron/micron.md %})
 *   [Voron Trident]({{ site.baseurl }}{% link docs/voron-trident/voron-trident.md %})
-*   [Nova]({{ site.baseurl }}{% link docs/collections/coding/nova.md %})
+*   [Gryphon & Gryphle0n]({{ site.baseurl }}{% link docs/collections/blasters/gryphon.md %})
 *   [Nullbits Tidbit]({{ site.baseurl }}{% link docs/collections/mechanical-keyboards/tidbit.md %})
