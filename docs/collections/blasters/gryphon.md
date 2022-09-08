@@ -20,8 +20,10 @@ nav_order: 1
 
 The Gryphon is an open-source flywheel blaster designed by Flygonial and available on [Github](https://github.com/Flygonial/The-Gryphon-Foam-Dart-Blaster). Most up to date CAD files can be found [here](https://a360.co/2N3szi3).
 
-*(Pulled from the Github page)*
-Features:
+
+### Features
+
+*Pulled from the Github page*
 - Uses 130 to 180 sized 20.4mm , brushed DC motors.
 - Semi-auto by rack and pinion with 1:3 gear multiplication. The trigger pull is fairly short at 12mm.
 - Accepts 33 to 38mm OD flywheels (all 2mm shaft fit, superstock upgrade flywheels).
@@ -32,7 +34,7 @@ Features:
 - Bore-axis is almost as close as possible to top rail of blaster, which is theoretically more intuitive to aim with.
 - Will fit on build volume as small as 120 mm3.
 
-In my opinion, the Gryphon platform is solid, easy to print, relatively easy to assemble, and offers a lot of modding and upgrade potential. The Gryphle0n is my slightly modified version where superfluous decorations have been removed and utilizes heatset inserts anywhere screws used to go directly into plastic.
+In my opinion, the Gryphon platform is solid, easy to print, relatively easy to assemble, and offers a lot of modding and upgrade potential. The Gryphle0n is my slightly modified version where superfluous decorations have been removed, some parts tweaked for better printability, and utilizes heatset inserts anywhere screws go directly into plastic.
 
 ![Gryphle0n & Gryphon](../../../../assets/images/gryphle0n-00-both.jpg)
 *Gryphle0n & Gryphon*
@@ -89,7 +91,7 @@ When press-fitting the flywheels, get them as even as possible with the flywheel
 *Place Motor Spacers*
 {: .fs-2 .text-grey-dk-000 }
 
-The motor spanning board came with some printed spacers to give some clearance and prevent shorts. Place them like so.
+The motor spanning board comes with some printed spacers to give some clearance and prevent shorts. Place them like so.
 
 ![Spanning Board Soldered](../../../../assets/images/gryphle0n-07-motor-pcb-soldered.jpg)
 *Spanning Board Soldered*
