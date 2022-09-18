@@ -4,7 +4,7 @@ title: Gryphon & Gryphle0n
 parent: Blasters
 grand_parent: Collections
 permalink: /docs/blasters/gryphon/
-nav_order: 1
+nav_order: 2
 ---
 
 # Gryphon & Gryphle0n
@@ -20,10 +20,10 @@ nav_order: 1
 
 The Gryphon is an open-source flywheel blaster designed by Flygonial and available on [Github](https://github.com/Flygonial/The-Gryphon-Foam-Dart-Blaster). Most up to date CAD files can be found [here](https://a360.co/2N3szi3).
 
-
 ### Features
 
-*Pulled from the Github page*
+*(Pulled from the Github page)*
+
 - Uses 130 to 180 sized 20.4mm , brushed DC motors.
 - Semi-auto by rack and pinion with 1:3 gear multiplication. The trigger pull is fairly short at 12mm.
 - Accepts 33 to 38mm OD flywheels (all 2mm shaft fit, superstock upgrade flywheels).
@@ -67,6 +67,9 @@ In my opinion, the Gryphon platform is solid, easy to print, relatively easy to 
 
 Double check the motors' polarities, make sure the motors are fully seated, and that the shafts appear parallel to each other and perpendicular to the mounting.
 
+- [ ] 4 x M2x4 FHCS
+{: .fs-2 }
+
 ![Mount Flywheels](../../../../assets/images/gryphle0n-03-flywheels.jpg)
 *Mount Flywheels*
 {: .fs-2 .text-grey-dk-000 }
@@ -75,11 +78,14 @@ Double check the motors' polarities, make sure the motors are fully seated, and 
 *Check Flywheels' Alignment*
 {: .fs-2 .text-grey-dk-000 }
 
-When press-fitting the flywheels, get them as even as possible with the flywheels' middles centered to the dart hole.
+When press-fitting the flywheels, get them as even as possible with the flywheels' middles centered to the dart hole. Additionally, check to make sure they aren't binding and don't rub against any plastic as they turn.
 
 ![Install Flywheels' Cover](../../../../assets/images/gryphle0n-04-flywheels-covered.jpg)
 *Install Flywheel Cover*
 {: .fs-2 .text-grey-dk-000 }
+
+- [ ] 2 x M3x8 SHCS/BHCS
+{: .fs-2 }
 
 ![Out of Darts' Motor Spanning Board](../../../../assets/images/gryphle0n-05-motor-pcb.jpg)
 *Out of Darts' Motor Spanning Board*
@@ -105,6 +111,10 @@ The motor spanning board comes with some printed spacers to give some clearance 
 *Install Motors' Cover*
 {: .fs-2 .text-grey-dk-000 }
 
+- [ ] 2 x M3x8 BHCS
+- [ ] 1 x M3x20 BHCS
+{: .fs-2 }
+
 ![Check Wires Against Magwell for Length](../../../../assets/images/gryphle0n-10-motor-connector-length.jpg)
 *Check Wires Against Magwell for Length*
 {: .fs-2 .text-grey-dk-000 }
@@ -123,6 +133,9 @@ Don't forget to place the heatsinks on the wires before soldering to the XT60 fe
 *Attaching Magwell*
 {: .fs-2 .text-grey-dk-000 }
 
+- [ ] 4 x M3x8 BHCS
+{: .fs-2 }
+
 ![Magwell attached](../../../../assets/images/gryphle0n-13-magwell-attached.jpg)
 *Magwell attached*
 {: .fs-2 .text-grey-dk-000 }
@@ -138,6 +151,9 @@ Don't forget to place the heatsinks on the wires before soldering to the XT60 fe
 {: .fs-2 .text-grey-dk-000 }
 
 Install the two screws that form the switch seating posts.
+
+- [ ] 2 x M3x10 BHCS
+{: .fs-2 }
 
 ![Switch Placement](../../../../assets/images/gryphle0n-16-switch-placement.jpg)
 *Switch Placement*
@@ -193,6 +209,9 @@ Install the toothed gear and line up the center hole with the receiving hole in 
 
 Secure the grip cover with an M3 screw, and insert the 2mm shaft through the cover, toothed gear, and grip frame.
 
+- [ ] 1 x M3x6 BHCS
+{: .fs-2 }
+
 ![Close Top Cover](../../../../assets/images/gryphle0n-25-grip-to-magwell.jpg)
 *Close Top Cover*
 {: .fs-2 .text-grey-dk-000 }
@@ -205,11 +224,14 @@ Close up the top cover. This part is fiddly. Wires should stay tucked *behind* t
 
 Secure the mag release switch with an M3 screw.
 
+- [ ] 1 x M3x16 BHCS
+{: .fs-2 }
+
 ![Install Spring and Connect Magwell with Grip](../../../../assets/images/gryphle0n-27-grip-installed.jpg)
 *Install Spring and Connect Magwell with Grip*
 {: .fs-2 .text-grey-dk-000 }
 
-Place the mag release spring between the magrelease switch and grip frame, and insert the grip into the magwell. This is a good opportunity to test the trigger action. The trigger and pusher should extend and return with no sticking.
+Place the mag release spring between the magrelease switch and grip frame, and insert the grip into the magwell. This is a good opportunity to test the trigger action. The trigger and pusher should extend and return with no sticking. Watching the action from the bottom of the magwell, you should see the pusher extend forward and retract all the way. If the pusher does not retract fully, it will prevent darts from feeding properly.
 
 ![Install Magwell Wire Cover](../../../../assets/images/gryphle0n-28-magwell-wire-cover.jpg)
 *Install Magwell Wire Cover*
@@ -217,11 +239,17 @@ Place the mag release spring between the magrelease switch and grip frame, and i
 
 Install the wire cover over the XT60 connector.
 
+- [ ] 2 x M3x6 BHCS
+{: .fs-2 }
+
 ![Install Right Scale](../../../../assets/images/gryphle0n-29-right-scale.jpg)
 *Install Right Scale*
 {: .fs-2 .text-grey-dk-000 }
 
 Install the right scale.
+
+- [ ] 2 x M3x6 BHCS
+{: .fs-2 }
 
 ![Install Left Scale](../../../../assets/images/gryphle0n-30-left-scale.jpg)
 *Install Left Scale*
@@ -229,11 +257,17 @@ Install the right scale.
 
 Install the left scale.
 
+- [ ] 2 x M3x6 BHCS
+{: .fs-2 }
+
 ![Install Remaining Screws](../../../../assets/images/gryphle0n-31-fastened.jpg)
 *Install Remaining Screws*
 {: .fs-2 .text-grey-dk-000 }
 
 Secure the magwell, grip, and top cover with through screws.
+
+- [ ] 4 x M3x25 BHCS
+{: .fs-2 }
 
 ### Stock
 
@@ -259,6 +293,10 @@ Add heatshrink and solder the wires to an XT60 female connector.
 
 Attach the sling mount to the top of the buffer tube (my printed part has no sling mount), and install the buttplate hook.
 
+- [ ] 2 x M3x12 BHCS
+- [ ] 1 x M3x8 BHCS
+{: .fs-2 }
+
 ![Insert Locking Pin](../../../../assets/images/gryphle0n-36-stock-locking-pin.jpg)
 *Insert Locking Pin*
 {: .fs-2 .text-grey-dk-000 }
@@ -270,6 +308,9 @@ Insert the locking pin into the stock.
 {: .fs-2 .text-grey-dk-000 }
 
 Install the lock release.
+
+- [ ] 1 x M3x20 BHCS
+{: .fs-2 }
 
 ![Add Spring](../../../../assets/images/gryphle0n-38-stock-spring.jpg)
 *Add Spring*
@@ -295,11 +336,18 @@ Feed the XT60 connector through the buffer tube. It should stick out just a bit.
 
 Attach the stock to the grip. There's a screw on each side and two on the rear.
 
+- [ ] 2 x M3x8 BHCS
+- [ ] 2 x M3x12 BHCS
+{: .fs-2 }
+
 ![Flash Hider and Picatinny Rails](../../../../assets/images/gryphle0n-42-flash-hider-picatinny.jpg)
 *Flash Hider and Picatinny Rails*
 {: .fs-2 .text-grey-dk-000 }
 
 Attach the flash hider and picatinny rails.
+
+- [ ] 9 x M3x8 BHCS
+{: .fs-2 }
 
 ![Flash Hider and Picatinny Rails](../../../../assets/images/gryphle0n-43-flash-hider-picatinny-installed.jpg)
 *Flash Hider and Picatinny Rails*
@@ -318,6 +366,9 @@ Double check the picatinny pattern spacing.
 {: .fs-2 .text-grey-dk-000 }
 
 Install your front grip of choice.
+
+- [ ] 2 x M3x8 BHCS
+{: .fs-2 }
 
 ![Complete](../../../../assets/images/gryphle0n-46-complete.jpg)
 *Complete*
