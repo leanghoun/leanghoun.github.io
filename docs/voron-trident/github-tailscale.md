@@ -36,7 +36,8 @@ By adding one python file and one script, it's possible to create a Mainsail das
 
 ### Creating the Script
 1. Navigate to `cd ~/klipper_config` to create the script within the GitHub repository
-1. Create the script file `nano autocommit.sh` then paste the contents from the original [script](https://github.com/th33xitus/kiauh/blob/master/resources/autocommit.sh), uncomment the folders to commit to GitHub, exit and save
+1. Create the script file `nano autocommit.sh` then paste the contents from the original [script](https://github.com/th33xitus/kiauh/blob/master/resources/autocommit.sh)
+1. Uncomment the folders to commit to GitHub, then exit and save
 
 ### Storing GitHub Credentials
 The script cannot respond to terminal password prompts, so we will store the credentials `git config --global credential.helper store`
