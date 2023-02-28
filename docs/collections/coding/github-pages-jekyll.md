@@ -25,6 +25,15 @@ nav_order: 1
 * [Just the Docs Theme](https://github.com/just-the-docs/just-the-docs)
   - [Documentation](https://just-the-docs.github.io/just-the-docs/)
 
+
+## Installing Dependencies
+Jekyll has a few requirements before we can serve up local pages for testing:
+* Ruby version 2.5.0 or higher, including all development headers (check your Ruby version using ruby -v)
+* RubyGems (check your Gems version using gem -v)
+* GCC and Make (check versions using gcc -v,g++ -v, and make -v)
+
+[Here are step-by-step instructions](https://jekyllrb.com/docs/installation/macos) to get it working on MacOS.
+
 ## Testing Locally
 To start Jekyll, open a Terminal window:
 ```
